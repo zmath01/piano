@@ -1,0 +1,87 @@
+{
+  "status": "pass",
+  "initial": {
+    "sceneReady": true,
+    "renderer": "Canvas 2D fallback",
+    "keys": 88,
+    "scoreNotes": 1529,
+    "duration": 157795,
+    "overflow": false,
+    "canvas": {
+      "x": 128,
+      "y": 294.6875,
+      "width": 1184,
+      "height": 260,
+      "top": 294.6875,
+      "right": 1312,
+      "bottom": 554.6875,
+      "left": 128
+    }
+  },
+  "playing": {
+    "playing": true,
+    "position": 1.6136167800453514,
+    "active": [
+      45,
+      60,
+      84
+    ],
+    "voices": 5,
+    "ctx": "running",
+    "error": ""
+  },
+  "viewports": [
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "layout": {
+        "overflow": false,
+        "narrow": true,
+        "cameraWidth": 9.3
+      }
+    },
+    {
+      "viewport": {
+        "width": 320,
+        "height": 740
+      },
+      "layout": {
+        "overflow": false,
+        "narrow": true,
+        "cameraWidth": 9.3
+      }
+    }
+  ],
+  "signal": {
+    "rms": 0.13618562586099195,
+    "peak": 0.6232020854949951,
+    "samples": 190503
+  },
+  "checks": [
+    "local file offline load",
+    "88-key Three.js scene with Canvas 2D fallback",
+    "1529-note score identity",
+    "play/pause and voice cleanup",
+    "keyboard polyphony",
+    "latched sustain and release",
+    "tempo change",
+    "seek and active-note restoration",
+    "restart during playback",
+    "volume",
+    "About dialog and Escape",
+    "3D raycast pointer input",
+    "semantic key Enter input",
+    "register arrows",
+    "responsive layouts",
+    "synth waveform",
+    "reduced motion preference",
+    "WebGL unavailable fallback",
+    "Web Audio unavailable error",
+    "no uncaught page errors",
+    "zero runtime network requests"
+  ],
+  "errors": [],
+  "requests": []
+}

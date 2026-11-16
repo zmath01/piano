@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:mp="http://www.mutopiaproject.org/piece-data/0.1/">
+
+<rdf:Description rdf:about=".">
+    <mp:title>Das Wohltemperierte Clavier I, Praeludium XV</mp:title>
+    <mp:composer>BachJS</mp:composer>
+    <mp:opus>BWV 860</mp:opus>
+    <mp:lyricist>n/a</mp:lyricist>
+    <mp:for>Harpsichord, Piano</mp:for>
+    <mp:date>18th C.</mp:date>
+    <mp:style>Baroque</mp:style>
+    <mp:metre/>
+    <mp:arranger>n/a</mp:arranger>
+    <mp:source>Augener, ed. C. Czerny (1791-1857)</mp:source>
+    <mp:licence>Public Domain</mp:licence>
+
+    <mp:lyFile>BWV860_Praeludium15.ly</mp:lyFile>
+    <mp:midFile>BWV860_Praeludium15.mid</mp:midFile>
+    <mp:psFileA4>BWV860_Praeludium15-a4.ps.gz</mp:psFileA4>
+    <mp:pdfFileA4>BWV860_Praeludium15-a4.pdf</mp:pdfFileA4>
+    <mp:psFileLet>BWV860_Praeludium15-let.ps.gz</mp:psFileLet>
+    <mp:pdfFileLet>BWV860_Praeludium15-let.pdf</mp:pdfFileLet>
+    <mp:pngFile>BWV860_Praeludium15-preview.png</mp:pngFile>
+    <mp:pngHeight>103</mp:pngHeight>
+    <mp:pngWidth>509</mp:pngWidth>
+
+    <mp:id>Mutopia-2005/10/02-604</mp:id>
+    <mp:maintainer>Stelios Samelis</mp:maintainer>
+    <mp:maintainerEmail></mp:maintainerEmail>
+    <mp:maintainerWeb/>
+    <mp:moreInfo/>
+    <mp:lilypondVersion>2.6.3</mp:lilypondVersion>
+</rdf:Description>
+
+</rdf:RDF>

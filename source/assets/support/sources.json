@@ -1,0 +1,14 @@
+{
+  "wechat.png": {
+    "source": "https://raw.githubusercontent.com/zmath01/wechat-export/main/zmath01_wx_qr.png",
+    "gitBlobSha": "0834ce402935c15d33517430ef59126885301009",
+    "sha256": "0e029b6f7dfb7215e444dd69599fdb9b6b0aece4a6ad1c5fb1b29075d64da4e8",
+    "publication": "Explicitly requested by repository owner"
+  },
+  "alipay.jpg": {
+    "source": "https://raw.githubusercontent.com/zmath01/wechat-export/main/zmath01_alipay_qr.jpg",
+    "gitBlobSha": "d02bddbf61c0eafa52d72bbb19f7fd587cbcc2e0",
+    "sha256": "3309422ebe474d8016843c2d8c9b1592aa73d1f5a21f072c44a9675f19c87dd8",
+    "publication": "Explicitly requested by repository owner"
+  }
+}

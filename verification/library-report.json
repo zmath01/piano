@@ -1,0 +1,32 @@
+{
+  "status": "pass",
+  "tracks": 153,
+  "noteCount": 163943,
+  "cueCount": 429,
+  "independentParser": "@tonejs/midi",
+  "maxOnsetErrorMs": 0.5000000000145519,
+  "maxDurationErrorMs": 0.5000000000454747,
+  "timingToleranceMs": 0.501,
+  "cueBeatTolerance": 0.000002,
+  "cueDurationToleranceBeats": 0.025001,
+  "warnings": [
+    {
+      "id": "goldberg-15",
+      "warnings": [
+        {
+          "kind": "unpaired-note-off",
+          "track": 1,
+          "tick": 17760,
+          "pitch": 70
+        }
+      ]
+    }
+  ],
+  "checks": [
+    "all pitches and velocities",
+    "every onset and duration",
+    "all detected cue transformations independently checked in beat coordinates",
+    "all cue indices and boundaries",
+    "collection coverage including variants and mirror pairs"
+  ]
+}

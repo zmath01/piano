@@ -1,0 +1,2650 @@
+{
+  ".github/workflows/pages.yml": {
+    "bytes": 3295,
+    "sha256": "652948c12a834d75817b592638dfdf21439006b56494b7333d16e58636fade54"
+  },
+  ".gitignore": {
+    "bytes": 204,
+    "sha256": "d029adbf11c776e0a1644706b06c5595bdb9441d754cf94d827f70179d6c8902"
+  },
+  "ANALYSIS.md": {
+    "bytes": 2564,
+    "sha256": "5a0a0cc4e7e05ab53211117df0899a419b888161cdf3ca37ee3514227e9c29f9"
+  },
+  "CREDITS.md": {
+    "bytes": 1912,
+    "sha256": "3bc0b65448fbdd0cae3994e3ba31a1bfc40d28ed79844cefb63b9f141f0a099e"
+  },
+  "LICENSE.txt": {
+    "bytes": 1242,
+    "sha256": "3995e9b60a5449b492ae51a7fc11590aac0746799cab5757602a2387b4751ea4"
+  },
+  "MUSESCORE_ANDROID_APPS.md": {
+    "bytes": 11793,
+    "sha256": "38babcaac65e372d70f269dccf694a4e2204c260ec955afc06d9ecbfd4389966"
+  },
+  "PUBLICATION.md": {
+    "bytes": 890,
+    "sha256": "723f1a75a3e5c74b1378530de6d063050c3655eaca606eab1fa2371438599261"
+  },
+  "README.md": {
+    "bytes": 4602,
+    "sha256": "8bb10798b9944f020a622b53752aa4553e5eef03613c3b81b15273e5b382ef80"
+  },
+  "TRACKS.md": {
+    "bytes": 35015,
+    "sha256": "dd004784d5740d458f7f0371e2200493d6e20acf798ccebb080a536a98c15e1d"
+  },
+  "app-research-2026-11-03/apps.csv": {
+    "bytes": 1898,
+    "sha256": "614ce4e21fdee2af5ee90222df00b93d2cd4745feb036c3ebfcd87961307ad31"
+  },
+  "app-research-2026-11-03/sources.json": {
+    "bytes": 15642,
+    "sha256": "7d73f237a5bd2c52247a3ce86f20ceeea4c93eb6a0f8173c19ca36be561a08b6"
+  },
+  "app-research-2026-11-03/verification.md": {
+    "bytes": 2971,
+    "sha256": "dd564824b58106cf94c26aee210219b61bc8564014a8e42933fadd64c5f05bb8"
+  },
+  "build-info.json": {
+    "bytes": 197,
+    "sha256": "e4710f04db75c76519cd2924fb9d874d310d6d382a67360af1d2be8415341353"
+  },
+  "index.html": {
+    "bytes": 5081491,
+    "sha256": "2fa7387312ba61be51e2d92de94eb15335dff8a30ae0e247b91a1ac2aa6df053"
+  },
+  "scripts/build_site.py": {
+    "bytes": 678,
+    "sha256": "c9c99badda7d6d07b79a59e5b76b1011b5f4aab43bf605d5306411a202060c36"
+  },
+  "scripts/verify_public.py": {
+    "bytes": 2193,
+    "sha256": "050eaa1b972f301b47a9bc72c4d75cad26c7d0478a5d0e543677a2c3a3dbf53f"
+  },
+  "source/ANALYSIS.md": {
+    "bytes": 2564,
+    "sha256": "5a0a0cc4e7e05ab53211117df0899a419b888161cdf3ca37ee3514227e9c29f9"
+  },
+  "source/CREDITS.md": {
+    "bytes": 1912,
+    "sha256": "3bc0b65448fbdd0cae3994e3ba31a1bfc40d28ed79844cefb63b9f141f0a099e"
+  },
+  "source/DESIGN.md": {
+    "bytes": 1602,
+    "sha256": "79aa02e6cad851877db76ba6ccb613dc187cb773348428551e734d5be931160e"
+  },
+  "source/LICENSE.txt": {
+    "bytes": 1242,
+    "sha256": "3995e9b60a5449b492ae51a7fc11590aac0746799cab5757602a2387b4751ea4"
+  },
+  "source/README.md": {
+    "bytes": 4008,
+    "sha256": "ededf4a188dc6afd1c7f10dde56b058bb6cbbf74c2080f2ef13b38ccaa4f2b5b"
+  },
+  "source/TRACKS.md": {
+    "bytes": 35015,
+    "sha256": "dd004784d5740d458f7f0371e2200493d6e20acf798ccebb080a536a98c15e1d"
+  },
+  "source/app.js": {
+    "bytes": 12456,
+    "sha256": "4fc3686f7bc223151be916b4068bc3e4cc482412f47331f1fa7307cfc25c7fa9"
+  },
+  "source/assets/THREE-LICENSE.txt": {
+    "bytes": 1081,
+    "sha256": "852e0e8699169bf9f6fdc6bda3e682d078dcbc738b5d33e74df594721bff271d"
+  },
+  "source/assets/bwv617.ly": {
+    "bytes": 9663,
+    "sha256": "d41f2ed5c031b61534d2575493a05693f52f6011dedda4528a16af5b22058ea5"
+  },
+  "source/assets/bwv617.mid": {
+    "bytes": 12813,
+    "sha256": "18ec17bfcdd0d0eb76c91049d503355e509cab9dc05c40312426f0db3eff2926"
+  },
+  "source/assets/library/BWV1080/contrapunctusI/contrapunctusI.mid": {
+    "bytes": 8378,
+    "sha256": "c66deed88874e279a57531fc556089ff6827d2859f79297cab2b4f1ad42c4ed3"
+  },
+  "source/assets/library/BWV1080/contrapunctusI/contrapunctusI.rdf": {
+    "bytes": 1339,
+    "sha256": "59dac40736a13a5b783af8f5ba99ba06245b1d2bd4753c399454623f22b3eee4"
+  },
+  "source/assets/library/BWV1080/contrapunctusII/contrapunctusII.ly": {
+    "bytes": 8996,
+    "sha256": "6b8981980d2eed5d40fda93eaea2822fe2f608348ab5c50a819688602b30e138"
+  },
+  "source/assets/library/BWV1080/contrapunctusII/contrapunctusII.mid": {
+    "bytes": 9808,
+    "sha256": "ed8dc93872801ecb5b11690871c559d2c285c84d281e74f0e31a1c6ccabc01fc"
+  },
+  "source/assets/library/BWV1080/contrapunctusII/contrapunctusII.rdf": {
+    "bytes": 1350,
+    "sha256": "80d07e2d9a6475593252d145c7b26e536fd52834a56506686ccf5c6065fa1638"
+  },
+  "source/assets/library/BWV1080/contrapunctusIII/contrapunctusIII.ly": {
+    "bytes": 6739,
+    "sha256": "b68e933a4aed8b96b29abac907239f58c55db552f5dfdacac30049a4554e477a"
+  },
+  "source/assets/library/BWV1080/contrapunctusIII/contrapunctusIII.mid": {
+    "bytes": 9915,
+    "sha256": "d6c52e485b3be200a491fa99f52a5cb83b2be3bacb41eccdcd3c992a139d0200"
+  },
+  "source/assets/library/BWV1080/contrapunctusIII/contrapunctusIII.rdf": {
+    "bytes": 1358,
+    "sha256": "4e49eb6030d26e2c7cb09de975a137c752c3c70c2bf90fc1c9863b0c6b579a0d"
+  },
+  "source/assets/library/BWV1080/contrapunctusIV/contrapunctusIV.ly": {
+    "bytes": 10233,
+    "sha256": "db75c0770b566cc2a59b53ac1b661e06ae55621cd25c73344cd633a8677ed0ad"
+  },
+  "source/assets/library/BWV1080/contrapunctusIV/contrapunctusIV.mid": {
+    "bytes": 16783,
+    "sha256": "225a8bfbefe1f93e977b55e5d583a4bf1834eb0c885975a6b2e8eaff1ede682e"
+  },
+  "source/assets/library/BWV1080/contrapunctusIV/contrapunctusIV.rdf": {
+    "bytes": 1350,
+    "sha256": "abd331d1e5cf7067598d544685a04968034a1eb589b14047857c40283e47fb69"
+  },
+  "source/assets/library/BWV1080/contrapunctusIX/contrapunctusIX.ly": {
+    "bytes": 9051,
+    "sha256": "56c1faf609965cc11c829885f291117600324361d65d89fe4dbffa9554980c5a"
+  },
+  "source/assets/library/BWV1080/contrapunctusIX/contrapunctusIX.mid": {
+    "bytes": 15720,
+    "sha256": "e99e6229c7161aaac6819508afe4cd9a6bd27513842b25a501847021e54d9caa"
+  },
+  "source/assets/library/BWV1080/contrapunctusIX/contrapunctusIX.rdf": {
+    "bytes": 1350,
+    "sha256": "9eb2e0ea0ab97b8f07c17aad9c007a8e46791d1f697b895990c39d5a1f4a06d5"
+  },
+  "source/assets/library/BWV1080/contrapunctusV/contrapunctusV.ly": {
+    "bytes": 8038,
+    "sha256": "0321d16a0a29f6c8e602cff016ecb63de52bb161e7b90902742dd460cd8e09ea"
+  },
+  "source/assets/library/BWV1080/contrapunctusV/contrapunctusV.mid": {
+    "bytes": 11659,
+    "sha256": "dbecb6bde4e2808cbbe550f4b3e05503ee806ad79393ccc15ffe74162a5b13e7"
+  },
+  "source/assets/library/BWV1080/contrapunctusV/contrapunctusV.rdf": {
+    "bytes": 1342,
+    "sha256": "46d254fb0030fbc4581e92a97c145633591d2b189c0562dd9831f4969a066658"
+  },
+  "source/assets/library/BWV1080/contrapunctusVI/contrapunctusVI.ly": {
+    "bytes": 11131,
+    "sha256": "1ab622196dfa1e29d1808e25f60feb101ba636c550f2630c2fa6f8ce6cd30948"
+  },
+  "source/assets/library/BWV1080/contrapunctusVI/contrapunctusVI.mid": {
+    "bytes": 14652,
+    "sha256": "1379486ac7b2f711ccd939a82e5785326065383fab110e1ef75b1d27dd039f19"
+  },
+  "source/assets/library/BWV1080/contrapunctusVI/contrapunctusVI.rdf": {
+    "bytes": 1350,
+    "sha256": "f9b876e01d4e27bb2920d12de7d92d3adc79733daaf818c09d3297df050ddfbb"
+  },
+  "source/assets/library/BWV1080/contrapunctusVII/contrapunctusVII.ly": {
+    "bytes": 9139,
+    "sha256": "94637f60dd8699bbc582ed13e0ae38b74208be70d50681a6887b1e5d0da74077"
+  },
+  "source/assets/library/BWV1080/contrapunctusVII/contrapunctusVII.mid": {
+    "bytes": 13230,
+    "sha256": "7725d7632e9b172d9f0bd12e95fa590aa0e6ad27ce63290778293883d4658c5d"
+  },
+  "source/assets/library/BWV1080/contrapunctusVII/contrapunctusVII.rdf": {
+    "bytes": 1358,
+    "sha256": "da20689d4ab3329b35fee4be28f0b5bf34db3319eb62ff2c71e88c76f927a4e3"
+  },
+  "source/assets/library/BWV1080/contrapunctusVIII/contrapunctusVIII.ly": {
+    "bytes": 12295,
+    "sha256": "f74cdce4b3f291a42a2525cd60aac3ca519c1fab41dc5c2ff3fd6eaefd79b43a"
+  },
+  "source/assets/library/BWV1080/contrapunctusVIII/contrapunctusVIII.mid": {
+    "bytes": 24508,
+    "sha256": "20e37482a8d4cace007764670774327dc1aaf276b6307ae76f236918ffe4c18e"
+  },
+  "source/assets/library/BWV1080/contrapunctusVIII/contrapunctusVIII.rdf": {
+    "bytes": 1366,
+    "sha256": "315ccf52b3c26fd6bef675e8b6f63ea31514e3e13a68c4914f2bbfaed81c40de"
+  },
+  "source/assets/library/BWV1080/contrapunctusX/contrapunctusX.ly": {
+    "bytes": 9757,
+    "sha256": "94cd8afa612685da29f615f2ab5a0e16a86456db02d1da6fc2185dbb275838e1"
+  },
+  "source/assets/library/BWV1080/contrapunctusX/contrapunctusX.mid": {
+    "bytes": 16032,
+    "sha256": "7bedd52c5167b59334ae498468be5d2b2ceab120374141e9bfcb5777e313de6a"
+  },
+  "source/assets/library/BWV1080/contrapunctusX/contrapunctusX.rdf": {
+    "bytes": 1342,
+    "sha256": "ed577531a4d38bf002bacf892905f12df234b05848568b1836b590e8b2f73afb"
+  },
+  "source/assets/library/BWV1080/contrapunctusXI/contrapunctusXI.ly": {
+    "bytes": 15155,
+    "sha256": "fde2a4a5b0c7e9233f2e738f4be7fff557bba917a65dc9e6528d7a6911ca1653"
+  },
+  "source/assets/library/BWV1080/contrapunctusXI/contrapunctusXI.mid": {
+    "bytes": 27695,
+    "sha256": "44bc1c2f2b7618207d1a3e6ca1e527a4b08c1cc2c34f1d02c7944a8ceee05d1f"
+  },
+  "source/assets/library/BWV1080/contrapunctusXI/contrapunctusXI.rdf": {
+    "bytes": 1348,
+    "sha256": "2023683b62d5ab54f49df28c041309f00c6f6615edf30106c558d290498e2cbb"
+  },
+  "source/assets/library/BWV1080/contrapunctusXII/contrapunctusXII.ly": {
+    "bytes": 8333,
+    "sha256": "68f47f4689336556fb431836081141538f2c34ef16baff079144ee50ffd7c929"
+  },
+  "source/assets/library/BWV1080/contrapunctusXII/contrapunctusXII.mid": {
+    "bytes": 19199,
+    "sha256": "ae0cca36fb3c4784de671f35d0168370e2930c3eb5771746c656a5b39a10e98c"
+  },
+  "source/assets/library/BWV1080/contrapunctusXII/contrapunctusXII.rdf": {
+    "bytes": 1381,
+    "sha256": "86fce89c2e68b32459ef27108624b584975579627e0a55900a5197fa2c015d13"
+  },
+  "source/assets/library/BWV1080/contrapunctusXIII/contrapunctusXIII.ly": {
+    "bytes": 6329,
+    "sha256": "5fcfef8bd5d037df8a541a697dfbc6a5cae5fdeae3fcf471bb234183cfa7ab3a"
+  },
+  "source/assets/library/BWV1080/contrapunctusXIII/contrapunctusXIII.mid": {
+    "bytes": 17443,
+    "sha256": "a879fe23e0b0622415b6b9be0c5476e6de826d1038ee9d1bc99f067ccc43f425"
+  },
+  "source/assets/library/BWV1080/contrapunctusXIII/contrapunctusXIII.rdf": {
+    "bytes": 1392,
+    "sha256": "e374ab39b4e1a0f2a5cae63053f30066b157cbe72b6464faeee0298c95b730a8"
+  },
+  "source/assets/library/BWV1080/contrapunctusXIV/contrapunctusXIV.ly": {
+    "bytes": 8669,
+    "sha256": "40065522817d1572ecaf51c4d634116d10eb7e65875187f68b477d17dc9bb4ab"
+  },
+  "source/assets/library/BWV1080/contrapunctusXIV/contrapunctusXIV.mid": {
+    "bytes": 12509,
+    "sha256": "e6e5ddeaa3360f5fc6e418bbc45490e4dc55fb7cbecb14aa3782cb6309e0f7e5"
+  },
+  "source/assets/library/BWV1080/contrapunctusXIV/contrapunctusXIV.rdf": {
+    "bytes": 1381,
+    "sha256": "7a76e184749897235975cf3dc24a2b92da0948ba76e9e0cb4b65ab5d2add2781"
+  },
+  "source/assets/library/BWV1080/contrapunctusXIX/contrapunctusXIX.ly": {
+    "bytes": 14627,
+    "sha256": "44ccefab286b10d0de62b68321c67561076dce9bc6709429d7dfa01ab8ab3e81"
+  },
+  "source/assets/library/BWV1080/contrapunctusXIX/contrapunctusXIX.mid": {
+    "bytes": 23985,
+    "sha256": "ea94877138a7e65b688c7cebceb55ef2de9f10319864dbd09344914816ebee0c"
+  },
+  "source/assets/library/BWV1080/contrapunctusXIX/contrapunctusXIX.rdf": {
+    "bytes": 1377,
+    "sha256": "c28042fbddfe9a42944cd83475db2d046df07a8796a342576c4d9bebbcb0067d"
+  },
+  "source/assets/library/BWV1080/contrapunctusXV/contrapunctusXV.ly": {
+    "bytes": 7908,
+    "sha256": "e6df752925eb13e3f36973dbb1dab299727a166c8a7cdf54300b5539bfc1437d"
+  },
+  "source/assets/library/BWV1080/contrapunctusXV/contrapunctusXV.mid": {
+    "bytes": 12194,
+    "sha256": "6637c47d08ae5d2c0abfb54fbf9208abe790c7fff36017e63d45ab62875b0bc9"
+  },
+  "source/assets/library/BWV1080/contrapunctusXV/contrapunctusXV.rdf": {
+    "bytes": 1398,
+    "sha256": "b3375862194e517323790b4c8a8b91d057fb7cfdd7e09e87fa8b37323e632e60"
+  },
+  "source/assets/library/BWV1080/contrapunctusXVI/contrapunctusXVI.ly": {
+    "bytes": 17811,
+    "sha256": "249672c63464b0defdbd356370c9f550c15246eed94b45129c99425c51f59278"
+  },
+  "source/assets/library/BWV1080/contrapunctusXVI/contrapunctusXVI.rdf": {
+    "bytes": 1391,
+    "sha256": "fdea5ca612abd62a4348b1cec69597303879bb35b29c74880616d8c14190ebeb"
+  },
+  "source/assets/library/BWV1080/contrapunctusXVI/inversus.ly": {
+    "bytes": 203,
+    "sha256": "bfe47adebfdf09d11bf4f83876826d390544c5e0830da914521b24a04db4237c"
+  },
+  "source/assets/library/BWV1080/contrapunctusXVI/inversus.mid": {
+    "bytes": 10837,
+    "sha256": "e73ad508ac972d8a1a44030dff0e630768f49913792a78d27a93a211b7368493"
+  },
+  "source/assets/library/BWV1080/contrapunctusXVI/rectus.ly": {
+    "bytes": 199,
+    "sha256": "4e9977c1dd16a1d1df15b7688496eb65fca6d429369b558d2c904655f77e77a4"
+  },
+  "source/assets/library/BWV1080/contrapunctusXVI/rectus.mid": {
+    "bytes": 10853,
+    "sha256": "12ee107859a1e202b864518712428eaca38dab05a483a1a768fff59394c06622"
+  },
+  "source/assets/library/BWV1080/contrapunctusXVI/score.ly": {
+    "bytes": 1795,
+    "sha256": "607b0c25b70e5a680cd98ecc9ff2163c4b9b152a65f32fbd051c1faafc1457c3"
+  },
+  "source/assets/library/BWV1080/contrapunctusXVII/contrapunctusXVII.ly": {
+    "bytes": 20666,
+    "sha256": "e850d5e37466083dbe34bdc3037f190c1c87e9457debeadad1e84b862353d32e"
+  },
+  "source/assets/library/BWV1080/contrapunctusXVII/contrapunctusXVII.rdf": {
+    "bytes": 1415,
+    "sha256": "f6dba66edd98cdff77b010a63cdffbb72ff964984c56a0b7171847960f5d0aa9"
+  },
+  "source/assets/library/BWV1080/contrapunctusXVII/inversus.ly": {
+    "bytes": 204,
+    "sha256": "7e3d0a281bd57fd8dc86d655e540bec89058399c1aa62840624c566e2e6eaf5d"
+  },
+  "source/assets/library/BWV1080/contrapunctusXVII/inversus.mid": {
+    "bytes": 15601,
+    "sha256": "2451ba54fff06e30ece7862a9816db29e25edbfabf976569d094b37357ccfd5c"
+  },
+  "source/assets/library/BWV1080/contrapunctusXVII/rectus.ly": {
+    "bytes": 200,
+    "sha256": "5b7247ead3bd393c9752b555582170cc9d687a081160fc06e753306ea0b3dab0"
+  },
+  "source/assets/library/BWV1080/contrapunctusXVII/rectus.mid": {
+    "bytes": 14836,
+    "sha256": "63f3a76add263ceed4f47255928dd73df83e6bcedcac8c5db1eccb0582e3ac2e"
+  },
+  "source/assets/library/BWV1080/contrapunctusXVII/score.ly": {
+    "bytes": 1881,
+    "sha256": "0967d8d87aa58d050dc742560b78241daf868664dfa719d571de2c05a69110c1"
+  },
+  "source/assets/library/BWV1080/contrapunctusXVIII/contrapunctusXVIII.ly": {
+    "bytes": 10325,
+    "sha256": "388d4ef0c6c96f1a4f731955419ea2815d561b9977fbaa7482d363ddbc624bee"
+  },
+  "source/assets/library/BWV1080/contrapunctusXVIII/contrapunctusXVIII.rdf": {
+    "bytes": 1407,
+    "sha256": "e5c271116ec99e7166d89c3078ceb759d3fb5892a1ca6299bc9b47f8da491878"
+  },
+  "source/assets/library/BWV1080/contrapunctusXVIII/inversus.ly": {
+    "bytes": 204,
+    "sha256": "1497fe53e5356eba70ab37409afcd34078545d3a2f9c43d587eccc00afec782c"
+  },
+  "source/assets/library/BWV1080/contrapunctusXVIII/inversus.mid": {
+    "bytes": 9623,
+    "sha256": "ad29826dcd62424015235d835c72c989c00de9929c035e4324315aedddee2d6e"
+  },
+  "source/assets/library/BWV1080/contrapunctusXVIII/rectus.ly": {
+    "bytes": 200,
+    "sha256": "a2421430a884fbbe87e0c7506b57cbaa7eddb0d45d83e2450d39e976acb7f81d"
+  },
+  "source/assets/library/BWV1080/contrapunctusXVIII/rectus.mid": {
+    "bytes": 9623,
+    "sha256": "ad7be0c5ea28e2916333fd994bceda0a5c75da52d24c6d36ff98dcf1ca626289"
+  },
+  "source/assets/library/BWV1080/contrapunctusXVIII/score.ly": {
+    "bytes": 1831,
+    "sha256": "89376b987d9b8780fbe932f04b9dad38d2e55f5c5d73ae39d448240572e16e46"
+  },
+  "source/assets/library/BWV1080/rectus/rectus.ly": {
+    "bytes": 11765,
+    "sha256": "6b579c0a03f144ecb9bc1fd772b89aa011e9266e6c6049bf9e813d9774b6ed28"
+  },
+  "source/assets/library/BWV1080/rectus/rectus.mid": {
+    "bytes": 10687,
+    "sha256": "4381e23b398327f7e1d2f56aff51bc5cb0fae6fabac52b58ce19d558e9635cef"
+  },
+  "source/assets/library/BWV1080/rectus/rectus.rdf": {
+    "bytes": 1221,
+    "sha256": "20c2a27cefd09b8ed5d5e3a0d88cc042000fb8d6fe58047302c2d59a0669bd04"
+  },
+  "source/assets/library/BWV846/wtk1-fugue1/wtk1-fugue1.ly": {
+    "bytes": 5633,
+    "sha256": "b6546f2db2891c88ad97e78f6ad816dbb7c0e2cc39bc42e49191404562b3fc0d"
+  },
+  "source/assets/library/BWV846/wtk1-fugue1/wtk1-fugue1.mid": {
+    "bytes": 6168,
+    "sha256": "e89f7d09096bbaf1bcb9e7b5d083c92e396fb9432c956d27185864e17a314ef1"
+  },
+  "source/assets/library/BWV846/wtk1-fugue1/wtk1-fugue1.rdf": {
+    "bytes": 1293,
+    "sha256": "0ea963479eac078fc489c4126bb5ba760759ee9aace8cc6ec8e469c2d18a1fa6"
+  },
+  "source/assets/library/BWV846/wtk1-prelude1/wtk1-prelude1.ly": {
+    "bytes": 6435,
+    "sha256": "1ff9bba455dbeb8ec163013b39c94dca0674cefe360e69d5211039e8c15910ac"
+  },
+  "source/assets/library/BWV846/wtk1-prelude1/wtk1-prelude1.mid": {
+    "bytes": 4676,
+    "sha256": "874e07d0479542971bfceaf420d6117da8d602d89d26eea4610e7dd1ef58bf26"
+  },
+  "source/assets/library/BWV846/wtk1-prelude1/wtk1-prelude1.rdf": {
+    "bytes": 1249,
+    "sha256": "904e8701bb85c424c9359bb3ca080233ac881e107d51d67d332b447232cf1daf"
+  },
+  "source/assets/library/BWV847/bwv847a/bwv847a.ly": {
+    "bytes": 7590,
+    "sha256": "6727858916aa83638911a8a2573f08b640e5523a2c4ae43cc996e82bb297bc62"
+  },
+  "source/assets/library/BWV847/bwv847a/bwv847a.mid": {
+    "bytes": 9106,
+    "sha256": "9e29d5b640d875bcfa93824cc963a4d9419ce2139cfd4e786148d45127e602d8"
+  },
+  "source/assets/library/BWV847/bwv847a/bwv847a.rdf": {
+    "bytes": 1237,
+    "sha256": "1971e0183666a6fc4ff87e270ff5fd354d6997abefdec3053bf060f5b11d3f6a"
+  },
+  "source/assets/library/BWV847/fuga2/fuga2.ly": {
+    "bytes": 6320,
+    "sha256": "28cc157cb303593a435f866a481e356bfe439b6686e328a46bef0e42746562c8"
+  },
+  "source/assets/library/BWV847/fuga2/fuga2.mid": {
+    "bytes": 6466,
+    "sha256": "74c3c61d820ce694741abaf9736a8ad81b8f587beb06eddd7ee8edd6c442b384"
+  },
+  "source/assets/library/BWV847/fuga2/fuga2.rdf": {
+    "bytes": 1224,
+    "sha256": "045b5407497b220bfa7328864d857efff78de3478ce524d4a88e17d31638b706"
+  },
+  "source/assets/library/BWV848/bwv848a/bwv848a.ly": {
+    "bytes": 7419,
+    "sha256": "1f2aae7e22e441ae891aef1bd4a074e87d5aa417da309c2cf980a92537e5bf5f"
+  },
+  "source/assets/library/BWV848/bwv848a/bwv848a.mid": {
+    "bytes": 7047,
+    "sha256": "c2259949d4ebb3fa7b69824a13df92bed2d2d6a2f28b82461880bbc9e9dd6161"
+  },
+  "source/assets/library/BWV848/bwv848a/bwv848a.rdf": {
+    "bytes": 1238,
+    "sha256": "f7aa0d49ddf05269ff575cbef8cd44296447e0419d4b5a354c7d9e3f72623fe2"
+  },
+  "source/assets/library/BWV848/bwv848b/bwv848b.ly": {
+    "bytes": 11583,
+    "sha256": "b475465155e6ad72ca44aec1878d832156976abf03f022b545fbba68f3f857a9"
+  },
+  "source/assets/library/BWV848/bwv848b/bwv848b.mid": {
+    "bytes": 11731,
+    "sha256": "74a3ba7798c99340a88844d7deabbe35369a75e09771cc234bae6986d3e46a1f"
+  },
+  "source/assets/library/BWV848/bwv848b/bwv848b.rdf": {
+    "bytes": 1232,
+    "sha256": "05815e25f2a26d34103af207dab8b0c681b3322ee1681a6cd607683afa2963ea"
+  },
+  "source/assets/library/BWV849/bwv849a/bwv849a.ly": {
+    "bytes": 8451,
+    "sha256": "75e941d8d95f45d19e297854d8af1e5301bcced1b4d328ac8188a3ed58e3be96"
+  },
+  "source/assets/library/BWV849/bwv849a/bwv849a.mid": {
+    "bytes": 6238,
+    "sha256": "db8fe5eac2216397b12542bf092517cae8f0df9e0cb3e38c7c930733a230025e"
+  },
+  "source/assets/library/BWV849/bwv849a/bwv849a.rdf": {
+    "bytes": 1237,
+    "sha256": "b240bb005c77f882310635374fcf739c29ebd5579c0cca1347e5a8ef35bde2b9"
+  },
+  "source/assets/library/BWV849/bwv849b/bwv849b.ly": {
+    "bytes": 13058,
+    "sha256": "c1c8ef6cc241d12e50f026ad147a3d12f9eb3eef0fff9e8c8931d05563b0f2c9"
+  },
+  "source/assets/library/BWV849/bwv849b/bwv849b.mid": {
+    "bytes": 11731,
+    "sha256": "ccbae19559bef9793c313c733f9830106a42e723e38da56fb223dfb69eb8ac0f"
+  },
+  "source/assets/library/BWV849/bwv849b/bwv849b.rdf": {
+    "bytes": 1231,
+    "sha256": "2e35606a36c7140b1e66efbb267a18c2f69ee163efc772b54332d9b9d59e485f"
+  },
+  "source/assets/library/BWV850/bwv850a/bwv850a.mid": {
+    "bytes": 6142,
+    "sha256": "a4c490e1084ea223ebd03e149eeb677884188696509d8699cc9bc575a5071b39"
+  },
+  "source/assets/library/BWV850/bwv850a/bwv850a.rdf": {
+    "bytes": 1216,
+    "sha256": "364ee1a9d3777311bd7e12e01a52d80d4c653e572474270cff95e7de9a87e25b"
+  },
+  "source/assets/library/BWV850/bwv850b/bwv850b.mid": {
+    "bytes": 6537,
+    "sha256": "a025e4dee68debf652417c866738f5dd15c5b269d46cd58d401c95da5211b626"
+  },
+  "source/assets/library/BWV850/bwv850b/bwv850b.rdf": {
+    "bytes": 1271,
+    "sha256": "e6c1e780368b1899e58a33163129c9fa256592c8f690c38aa1ed3d12449adc0c"
+  },
+  "source/assets/library/BWV851/bwv851_fugue06/bwv851_fugue06.ly": {
+    "bytes": 5504,
+    "sha256": "0c352b2ef5e5f688e3f4f61fb796e98a064683528192eec733e256b60670e278"
+  },
+  "source/assets/library/BWV851/bwv851_fugue06/bwv851_fugue06.mid": {
+    "bytes": 6114,
+    "sha256": "81123c5d14cf383387b90e7e4aaf6f17ce7179a0a60831be69255bcfe30b3d4e"
+  },
+  "source/assets/library/BWV851/bwv851_fugue06/bwv851_fugue06.rdf": {
+    "bytes": 1275,
+    "sha256": "da0a14458be46a171294cf7018d91d959d3990dcfbbe709499b442faaaede920"
+  },
+  "source/assets/library/BWV851/bwv851a/bwv851a.ly": {
+    "bytes": 7078,
+    "sha256": "79ce2132871778b05f6f898a8a70b4a888f92ee05f72dad4a1e344f53fd4976a"
+  },
+  "source/assets/library/BWV851/bwv851a/bwv851a.mid": {
+    "bytes": 6804,
+    "sha256": "4e1e1a9784b256e8fe7a41a47363fa4f061e331e9c2069ab2432893d05476022"
+  },
+  "source/assets/library/BWV851/bwv851a/bwv851a.rdf": {
+    "bytes": 1253,
+    "sha256": "da8605d0dc8658103161398d934a52eaebbd839fa4b419a06b871786b8fdeb05"
+  },
+  "source/assets/library/BWV853/bwv853a/bwv853a.ly": {
+    "bytes": 8173,
+    "sha256": "f298b40ad15e3f6ff505ad71cffa3c0fcb44f218199f0d6aad82daef9f69e7a3"
+  },
+  "source/assets/library/BWV853/bwv853a/bwv853a.mid": {
+    "bytes": 5842,
+    "sha256": "e8b14d27fa423d9e60f1e88ad07a5200fa91e8a39531f18282a0e26b2d3165d8"
+  },
+  "source/assets/library/BWV853/bwv853a/bwv853a.rdf": {
+    "bytes": 1241,
+    "sha256": "a6ebf14bb2d2b2a2721d258f82c4e16b62e026caf74a05df4406e8fc44f41315"
+  },
+  "source/assets/library/BWV853/bwv853b/bwv853b.ly": {
+    "bytes": 11718,
+    "sha256": "03f9f82cb6583c5a29fcf62e0d81d712b3a9ed0f5f4b21e5fa66fd604c97390e"
+  },
+  "source/assets/library/BWV853/bwv853b/bwv853b.mid": {
+    "bytes": 12410,
+    "sha256": "e9fc0a4895d6215d647accb83299c6c89d900073e594566d7451c274cc58cb8d"
+  },
+  "source/assets/library/BWV853/bwv853b/bwv853b.rdf": {
+    "bytes": 1233,
+    "sha256": "742319161fd4f350dff29cf530a77f8d98600bc415f6352f131cba2487852e2a"
+  },
+  "source/assets/library/BWV854/BWV854_Praeludium_IX_rh/BWV854_Praeludium_IX_rh.ly": {
+    "bytes": 4531,
+    "sha256": "c807ff83221baaa722034e7e399cd194c5652f43f0dcf0f2c5d2d422acc2d285"
+  },
+  "source/assets/library/BWV854/BWV854_Praeludium_IX_rh/BWV854_Praeludium_IX_rh.mid": {
+    "bytes": 3960,
+    "sha256": "5839ee65989e0ea4165c703b79f5f5fc64c0199b172322d6e1379ef75671f0f8"
+  },
+  "source/assets/library/BWV854/BWV854_Praeludium_IX_rh/BWV854_Praeludium_IX_rh.rdf": {
+    "bytes": 1307,
+    "sha256": "1e2ac523e3138e773147391945340023b78945b980ac873fd414a8a51d8a5244"
+  },
+  "source/assets/library/BWV855/bwv855a/bwv855a.ly": {
+    "bytes": 8145,
+    "sha256": "1f5ebb6530f04785be55255b1db99ee31f508b4936eeebe3aab3d2b9060afd62"
+  },
+  "source/assets/library/BWV855/bwv855a/bwv855a.mid": {
+    "bytes": 9595,
+    "sha256": "f8c5b689e57bc4a93fa0ee66c4d152335d4218eb3529dad2c63c0581864d963e"
+  },
+  "source/assets/library/BWV855/bwv855a/bwv855a.rdf": {
+    "bytes": 1252,
+    "sha256": "5ad4e8b235be63c8bad11837ce7a0311663c88d33328da52a7ba33121c304424"
+  },
+  "source/assets/library/BWV855/bwv855b/bwv855b.ly": {
+    "bytes": 5908,
+    "sha256": "06631c8f5fac8c60076eb73f4e1db284b5f658e86f168f29ca581b7a8d2c3064"
+  },
+  "source/assets/library/BWV855/bwv855b/bwv855b.mid": {
+    "bytes": 6933,
+    "sha256": "6e891f8896716fa16c9262027cbff34bdfacbf3c728d70d88a4829091a7a9ee4"
+  },
+  "source/assets/library/BWV855/bwv855b/bwv855b.rdf": {
+    "bytes": 1246,
+    "sha256": "5c3b620c6e98e3822474385e6c84272dd4a27b56f754ecf6168fd191c7578132"
+  },
+  "source/assets/library/BWV856/BWV856_Fugue11/BWV856_Fugue11.ly": {
+    "bytes": 4925,
+    "sha256": "3e4b7458aa6e690bd8deed04f6cf7c9e9921d0020f0a2ede35e460073cd4784f"
+  },
+  "source/assets/library/BWV856/BWV856_Fugue11/BWV856_Fugue11.mid": {
+    "bytes": 5652,
+    "sha256": "4fd74d7a22ecef9c3e28e617765669a4450b85f8c7f14fb274a780ab98daee06"
+  },
+  "source/assets/library/BWV856/BWV856_Fugue11/BWV856_Fugue11.rdf": {
+    "bytes": 1268,
+    "sha256": "494e039389d32ccf5e56dcea4b3f5dd203d755a0029d8f3ce3e99a2e738dd92d"
+  },
+  "source/assets/library/BWV856/BWV856_Praeludium11/BWV856_Praeludium11.ly": {
+    "bytes": 3860,
+    "sha256": "cd91511dacf863ba8e7a1361410e47e974865d367c5b5d0827caf742b12adac1"
+  },
+  "source/assets/library/BWV856/BWV856_Praeludium11/BWV856_Praeludium11.mid": {
+    "bytes": 4857,
+    "sha256": "841f6f64113cadd8ca3262671abde5aa6f09e20b243e059d2298d8184338c8d4"
+  },
+  "source/assets/library/BWV856/BWV856_Praeludium11/BWV856_Praeludium11.rdf": {
+    "bytes": 1308,
+    "sha256": "5b4c36dc911e71ecd42e1da3114155b65d42f1c775891612a249bbb8418e0628"
+  },
+  "source/assets/library/BWV857/BWV857_Fuga12/BWV857_Fuga12.ly": {
+    "bytes": 9935,
+    "sha256": "c3455305d24b3e1358c2cfe65e3485b4c130dc493d0ba91e5f615c3fd8ab26d9"
+  },
+  "source/assets/library/BWV857/BWV857_Fuga12/BWV857_Fuga12.mid": {
+    "bytes": 11166,
+    "sha256": "16bed80759b4d559f966aa8e3d0542792cb2c807e53c98f3191be805cb247302"
+  },
+  "source/assets/library/BWV857/BWV857_Fuga12/BWV857_Fuga12.rdf": {
+    "bytes": 1380,
+    "sha256": "757fcc83ee29a99b5a65b90ea7674eed83582cc9f3e6faeccd97875b9110ccf3"
+  },
+  "source/assets/library/BWV857/BWV857_Praeludium12/BWV857_Praeludium12.ly": {
+    "bytes": 5302,
+    "sha256": "8d079c70e7adce498402fb7312494002709faf7b6e18aca01343317d1be7cf8b"
+  },
+  "source/assets/library/BWV857/BWV857_Praeludium12/BWV857_Praeludium12.mid": {
+    "bytes": 4550,
+    "sha256": "159e53d9af385b1fae9ccfb085f239219d78b579c9fc74981dc1f7723392eaa8"
+  },
+  "source/assets/library/BWV857/BWV857_Praeludium12/BWV857_Praeludium12.rdf": {
+    "bytes": 1428,
+    "sha256": "435e245584000bc37bbab457eaadfed7310260169407875e3bad678502f52bc6"
+  },
+  "source/assets/library/BWV860/BWV860_Fuga15/BWV860_Fuga15.ly": {
+    "bytes": 9298,
+    "sha256": "15c4b1a22d27f3101e6512b5145e97ed19cc3e848e0041a54202512bd30bac44"
+  },
+  "source/assets/library/BWV860/BWV860_Fuga15/BWV860_Fuga15.mid": {
+    "bytes": 14129,
+    "sha256": "46c44b60d45df33130df3d2d6343090adb525d30aaca721dbbdacae82c81b7d5"
+  },
+  "source/assets/library/BWV860/BWV860_Fuga15/BWV860_Fuga15.rdf": {
+    "bytes": 1320,
+    "sha256": "4d23c05b7e0fe78d7139b03240c3207e705229b0b107b571338e9ae27ac1325f"
+  },
+  "source/assets/library/BWV860/BWV860_Praeludium15/BWV860_Praeludium15.ly": {
+    "bytes": 4935,
+    "sha256": "d2cbd63b9d22e8176652fbbabaab8aeba1729eb92e766d91e613b9411fa33097"
+  },
+  "source/assets/library/BWV860/BWV860_Praeludium15/BWV860_Praeludium15.mid": {
+    "bytes": 5336,
+    "sha256": "c61255adba4322aa1b4efc24d0b65d8f8995bf0bfb51f49ab1274089a3ad7dde"
+  },
+  "source/assets/library/BWV860/BWV860_Praeludium15/BWV860_Praeludium15.rdf": {
+    "bytes": 1369,
+    "sha256": "e28e68a951f122ffd3e528b23a162eb341da1a75fb421d075ade32273411df7b"
+  },
+  "source/assets/library/BWV861/BWV861_Fuga16/BWV861_Fuga16.ly": {
+    "bytes": 6255,
+    "sha256": "a7f2ee48fee28d1576a26eea2480443e06fde190aa9302078540895113a9994e"
+  },
+  "source/assets/library/BWV861/BWV861_Fuga16/BWV861_Fuga16.mid": {
+    "bytes": 6427,
+    "sha256": "d73c189393aacda2cf439d246db7aa0fea9408087a1e5fdd27ed9225d72010bf"
+  },
+  "source/assets/library/BWV861/BWV861_Fuga16/BWV861_Fuga16.rdf": {
+    "bytes": 1276,
+    "sha256": "7506a15b1cd144f21cd60fe1ab1bb0a86ccca5cf07040c0347927122ae9fb2e6"
+  },
+  "source/assets/library/BWV861/BWV861_Praeludium16/BWV861_Praeludium16.ly": {
+    "bytes": 4841,
+    "sha256": "83d1873b64a12ca794b7c80df700cd89d459e4527b4d621799d17063b37daa58"
+  },
+  "source/assets/library/BWV861/BWV861_Praeludium16/BWV861_Praeludium16.mid": {
+    "bytes": 4718,
+    "sha256": "bbbd022695757c1adfb73c12b2b2e12c1478d45ac437ee59330a9cc7d9c1a86a"
+  },
+  "source/assets/library/BWV861/BWV861_Praeludium16/BWV861_Praeludium16.rdf": {
+    "bytes": 1323,
+    "sha256": "221863ac2e9ff3672d7b427553dd8e4cc985454dceddd4f1ccadf9e01868b86f"
+  },
+  "source/assets/library/BWV862/bach-fugue17/bach-fugue17.ly": {
+    "bytes": 6134,
+    "sha256": "34164bfbcd6bc895447656ebc98862e0b8e8ab0a57502147f044440d84f2d844"
+  },
+  "source/assets/library/BWV862/bach-fugue17/bach-fugue17.mid": {
+    "bytes": 7508,
+    "sha256": "fd036fe8de013bd3899b0efef77677f4e079e737d4697844432f12acf2e6d7b7"
+  },
+  "source/assets/library/BWV862/bach-fugue17/bach-fugue17.rdf": {
+    "bytes": 1290,
+    "sha256": "a6c1cccecc9237b6d0c15e29a8858bf252ba19569d437c9fef1ff3e3ec2147f3"
+  },
+  "source/assets/library/BWV862/bach-prelude17/bach-prelude17.ly": {
+    "bytes": 5937,
+    "sha256": "054de809a9ed9da6093bcbe4b65bb6ac05b18775639532c5a408ff30c73563ce"
+  },
+  "source/assets/library/BWV862/bach-prelude17/bach-prelude17.mid": {
+    "bytes": 5714,
+    "sha256": "e712c3e9043c2f29d943f837a1f3895ee425117062413ece4811c7b432125647"
+  },
+  "source/assets/library/BWV862/bach-prelude17/bach-prelude17.rdf": {
+    "bytes": 1314,
+    "sha256": "33eeb3cc80a4898f8019d199187bdff66b17fae00d01cbb84559def3f76b7a36"
+  },
+  "source/assets/library/BWV865/BWV865_Fuga20/BWV865_Fuga20.ly": {
+    "bytes": 13949,
+    "sha256": "4c1e501c243299006820a7c676fa29053361a5fb2a83068ae8b408dca971390a"
+  },
+  "source/assets/library/BWV865/BWV865_Fuga20/BWV865_Fuga20.mid": {
+    "bytes": 19973,
+    "sha256": "d7d3f5d0056a8d7df7d907871e35d369782ec9129439bc2a6811e29cdf2786ee"
+  },
+  "source/assets/library/BWV865/BWV865_Fuga20/BWV865_Fuga20.rdf": {
+    "bytes": 1271,
+    "sha256": "a69de3bb2d4e48b304072fd24c93cbd1b98c33ba7a7a88f6b9d61ec5fbc6af9b"
+  },
+  "source/assets/library/BWV865/BWV865_Praeludium20/BWV865_Praeludium20.ly": {
+    "bytes": 4470,
+    "sha256": "a29cddaf24f3675322a88d2dd26b50a16a153fbe2b6ba350b76ea8488d969127"
+  },
+  "source/assets/library/BWV865/BWV865_Praeludium20/BWV865_Praeludium20.mid": {
+    "bytes": 5292,
+    "sha256": "8d6055aadb2d75371ee71494c5267bb31810ac4c3296bdb942d0c179d96b46d4"
+  },
+  "source/assets/library/BWV865/BWV865_Praeludium20/BWV865_Praeludium20.rdf": {
+    "bytes": 1319,
+    "sha256": "7f1cf492a0225c507e502c5eab0eef505892367e302b3c8c6b96e548b0c39898"
+  },
+  "source/assets/library/BWV869/BWV869_Praeludium24/BWV869_Praeludium24.ly": {
+    "bytes": 9392,
+    "sha256": "70009202f844be65c1a2b0538d960f579b8e3435c0be9cbd7e0e069e94f364ed"
+  },
+  "source/assets/library/BWV869/BWV869_Praeludium24/BWV869_Praeludium24.mid": {
+    "bytes": 6600,
+    "sha256": "8ebf4c8bda3c5ab8cf6a37566f96b9f66630350014019615edc76e92e71fb030"
+  },
+  "source/assets/library/BWV869/BWV869_Praeludium24/BWV869_Praeludium24.rdf": {
+    "bytes": 1326,
+    "sha256": "2744411d18910a22625b950d5b8feb223b8850281a81e60f84b862a17f1d41ef"
+  },
+  "source/assets/library/BWV869/bwv869b/bwv869b.mid": {
+    "bytes": 15540,
+    "sha256": "3385d3bb181fd878d023e4a06d60f260b798918a5d40804d80e0c195b9f89f42"
+  },
+  "source/assets/library/BWV869/bwv869b/bwv869b.rdf": {
+    "bytes": 1232,
+    "sha256": "ec7f16eddd29b8d2ea93e5dcd617d7bff480ba6f2a691f0069291cce4a813b83"
+  },
+  "source/assets/library/BWV870/wtk2fuga1/wtk2fuga1.ly": {
+    "bytes": 5898,
+    "sha256": "4bc4285cb76ec6c02576bc904086ff0e11e120cc42d3f14e3f2e6654949f6bb3"
+  },
+  "source/assets/library/BWV870/wtk2fuga1/wtk2fuga1.mid": {
+    "bytes": 8625,
+    "sha256": "486b0b0818e3823b4ce5b9d37a6b77adddfb7cff4ba99dd22c1266c7695c3949"
+  },
+  "source/assets/library/BWV870/wtk2fuga1/wtk2fuga1.rdf": {
+    "bytes": 1218,
+    "sha256": "2f5c4426b6985d2ba804eb318e510364293abf07e4414863672b45c316097952"
+  },
+  "source/assets/library/BWV870/wtk2prelude1/wtk2prelude1.ly": {
+    "bytes": 7824,
+    "sha256": "61dc7cbb4c90caf81aa161200b44a315d5375dd51241fe7400595f5aef992034"
+  },
+  "source/assets/library/BWV870/wtk2prelude1/wtk2prelude1.mid": {
+    "bytes": 7025,
+    "sha256": "e4fc1f57dd0f96c1b5037218eb20225d4764af6e26082fa14a07326c667f21ed"
+  },
+  "source/assets/library/BWV870/wtk2prelude1/wtk2prelude1.rdf": {
+    "bytes": 1301,
+    "sha256": "d3ae30f60a92f8fd26102933a42b481c018f95a3daab34aba373aea1957478b6"
+  },
+  "source/assets/library/BWV871/wtk2-fugue2/wtk2-fugue2.ly": {
+    "bytes": 5628,
+    "sha256": "1a5721ba5873385c8f14f6855cf25e2d7664275a97ba20dbbafec304372b72c0"
+  },
+  "source/assets/library/BWV871/wtk2-fugue2/wtk2-fugue2.mid": {
+    "bytes": 5568,
+    "sha256": "3ef4323dfd1743224ffdb368842bdb2f8ddf5395e34ce268829abbe1953ab0dd"
+  },
+  "source/assets/library/BWV871/wtk2-fugue2/wtk2-fugue2.rdf": {
+    "bytes": 1227,
+    "sha256": "5229e20af9cc146ba7305ad079b3447890b5618539e99a2b6ad4b81a8c6e7c09"
+  },
+  "source/assets/library/BWV871/wtk2-prelude2/wtk2-prelude2.ly": {
+    "bytes": 5293,
+    "sha256": "b415bf5931fab48fbf2c674d0994adf31030dbc190f9c49ffd91fe7b478b24aa"
+  },
+  "source/assets/library/BWV871/wtk2-prelude2/wtk2-prelude2.mid": {
+    "bytes": 5921,
+    "sha256": "3d7ef4788b5400f25bf7c3f565e29ef8d87ca474a4dbeb9d6aa25ace5dd97083"
+  },
+  "source/assets/library/BWV871/wtk2-prelude2/wtk2-prelude2.rdf": {
+    "bytes": 1262,
+    "sha256": "4b96a43c640a4bf621db7e7e6dacbabab8ce0c7eac0013ebb1cf29bfd1ae9ace"
+  },
+  "source/assets/library/BWV875/bwv875a/bwv875a.ly": {
+    "bytes": 7364,
+    "sha256": "f52e1632931cf73a86ade6da94552bd7eeeaac456019f4e8ad909aa78974e884"
+  },
+  "source/assets/library/BWV875/bwv875a/bwv875a.mid": {
+    "bytes": 9017,
+    "sha256": "11b796a6a4a833f359a560c216c011d61eb61cd31aa79a692b21d955d87a1b47"
+  },
+  "source/assets/library/BWV875/bwv875a/bwv875a.rdf": {
+    "bytes": 1254,
+    "sha256": "2807689e6b3b01b3f6bfbc94cd65808ef73f164f2ac00a0fc293763a52bd2e5a"
+  },
+  "source/assets/library/BWV878/f9/f9.ly": {
+    "bytes": 17314,
+    "sha256": "f54db01f5cefa96d2e3c7b2ed36b58fbd38b1b017b0e43c0187c203babcd7397"
+  },
+  "source/assets/library/BWV878/f9/f9.mid": {
+    "bytes": 13898,
+    "sha256": "46e2dd55e8ae19bc7630352bc7a4c8e8ce44700e7c57612743e836d2f5d6a123"
+  },
+  "source/assets/library/BWV878/f9/f9.rdf": {
+    "bytes": 1331,
+    "sha256": "caaa1f975f9b2fa55c63b0421c795260bd63c76d0a9e83b6b3abfad17bd7a6e3"
+  },
+  "source/assets/library/BWV878/spiritus_domini_bach/spiritus_domini_bach.ly": {
+    "bytes": 14561,
+    "sha256": "4c91264e243e28d3b3440b94bb5db713446824043f9473fac79b42a16789b020"
+  },
+  "source/assets/library/BWV878/spiritus_domini_bach/spiritus_domini_bach.mid": {
+    "bytes": 11863,
+    "sha256": "d86fa0d5d6ebeb42a2494c4bcad2478bedc7307ec5d75be43bad9ab93221195a"
+  },
+  "source/assets/library/BWV878/spiritus_domini_bach/spiritus_domini_bach.rdf": {
+    "bytes": 1505,
+    "sha256": "e8d0dd049b736f1d8ebd0767bc45e2f171b64175084ee9d19e6562d91377de1f"
+  },
+  "source/assets/library/BWV988/bwv-988-aria/bwv-988-aria.ly": {
+    "bytes": 8247,
+    "sha256": "69b38233c8391354266d7edf3bed32e1a8b7dfa8c0fdde61d5fdf5454a7daf22"
+  },
+  "source/assets/library/BWV988/bwv-988-aria/bwv-988-aria.mid": {
+    "bytes": 3759,
+    "sha256": "05c6155d67e1ef5167eef113defabbc6c42a0fa0f74abe11c7d63258084d9a48"
+  },
+  "source/assets/library/BWV988/bwv-988-aria/bwv-988-aria.rdf": {
+    "bytes": 1281,
+    "sha256": "51ac70044afea3e422e19618aafc0ad39f9fe42f0d226514e58740c74aa2ca68"
+  },
+  "source/assets/library/BWV988/bwv-988-v01/bwv-988-v01.ly": {
+    "bytes": 7874,
+    "sha256": "f6ed63d934a05da8aa47ad0c76abf03c7df754e03f2e6062af779a8c8b63f437"
+  },
+  "source/assets/library/BWV988/bwv-988-v01/bwv-988-v01.mid": {
+    "bytes": 4770,
+    "sha256": "9750c1fee267637e2a0301441f7b3bf3e92d85063c347ba39603f1f272665ced"
+  },
+  "source/assets/library/BWV988/bwv-988-v01/bwv-988-v01.rdf": {
+    "bytes": 1270,
+    "sha256": "f898f19fdef6cd97a60cb2039ba023bcab4db21d09c70001ba858e77b81fc23f"
+  },
+  "source/assets/library/BWV988/bwv-988-v02/bwv-988-v02.ly": {
+    "bytes": 8448,
+    "sha256": "4aaf84015215cd628bfd000e78474d45620a983b28a44d680365ab679d8e074f"
+  },
+  "source/assets/library/BWV988/bwv-988-v02/bwv-988-v02.mid": {
+    "bytes": 3607,
+    "sha256": "6d6b7a0fda7f8b442bfc3a7eec3500507041ae77ed3cd1b8a81e72e087fa86a5"
+  },
+  "source/assets/library/BWV988/bwv-988-v02/bwv-988-v02.rdf": {
+    "bytes": 1616,
+    "sha256": "c6b71fc865a89318c13a9af106ce426c5112dae515a061a9232c135e1827bc87"
+  },
+  "source/assets/library/BWV988/bwv-988-v03/bwv-988-v03.ly": {
+    "bytes": 6833,
+    "sha256": "9ddfd2b8b4be60f56fcc89564404258e215e7d57bff482934f488bfcfd2f9394"
+  },
+  "source/assets/library/BWV988/bwv-988-v03/bwv-988-v03.mid": {
+    "bytes": 5156,
+    "sha256": "eddb8b4e244adc523b65ec948695b6441e58d22a338f3caa5f892b61fa7d9830"
+  },
+  "source/assets/library/BWV988/bwv-988-v03/bwv-988-v03.rdf": {
+    "bytes": 1293,
+    "sha256": "c0eea453e4c004a463b731b6a6e155a7bc174979cd13d3d03e8f14512cdbdf82"
+  },
+  "source/assets/library/BWV988/bwv-988-v04/bwv-988-v04.ly": {
+    "bytes": 7456,
+    "sha256": "e0bae61211a04060c6dd7ccf4a91bd3231bf2eb78cd9c06be023b61b796e7854"
+  },
+  "source/assets/library/BWV988/bwv-988-v04/bwv-988-v04.mid": {
+    "bytes": 2498,
+    "sha256": "7e6309ec5c2bc63eea26195e85515339d402231e5796fb9d40dcf46120e30e10"
+  },
+  "source/assets/library/BWV988/bwv-988-v04/bwv-988-v04.rdf": {
+    "bytes": 1294,
+    "sha256": "dcfd0f24209ba15404f0090902f5c028e847e85f219760a4c0f4b2efb0ba7e0c"
+  },
+  "source/assets/library/BWV988/bwv-988-v05/bwv-988-v05.ly": {
+    "bytes": 6872,
+    "sha256": "7f7df1bbe849c93f0744cbd7a918c8a71d0d11af7c69b8e73568874986557858"
+  },
+  "source/assets/library/BWV988/bwv-988-v05/bwv-988-v05.mid": {
+    "bytes": 4543,
+    "sha256": "f2baf8b9def7eaa1a1d21ee95c8411b9c0b8074b660367327dffaadc767ea34c"
+  },
+  "source/assets/library/BWV988/bwv-988-v05/bwv-988-v05.rdf": {
+    "bytes": 1290,
+    "sha256": "c6cb3a529ea5058cb6b03a78acb28b5d56a812b55da80d3cc4d96f7b3414d214"
+  },
+  "source/assets/library/BWV988/bwv-988-v06/bwv-988-v06.ly": {
+    "bytes": 7634,
+    "sha256": "84a3e672ef47c90e33a1e0ead4f4fe4ca0b0fa9b93171267fac3981b485fbad6"
+  },
+  "source/assets/library/BWV988/bwv-988-v06/bwv-988-v06.mid": {
+    "bytes": 3347,
+    "sha256": "0a517e531795b869936fecfa45b23f0d7d4de9cf626069326371bf4c8f38da06"
+  },
+  "source/assets/library/BWV988/bwv-988-v06/bwv-988-v06.rdf": {
+    "bytes": 1293,
+    "sha256": "e54bb41b77fcef5a30c3e97e7dd44b4ff9044484e085382a50a26401aaf5a48d"
+  },
+  "source/assets/library/BWV988/bwv-988-v07/bwv-988-v07.ly": {
+    "bytes": 5314,
+    "sha256": "3f2eadbdc3795699471048b373f56e8248a9fd6afaea844a182cdefacb1e9b72"
+  },
+  "source/assets/library/BWV988/bwv-988-v07/bwv-988-v07.mid": {
+    "bytes": 3249,
+    "sha256": "7259702f5ce76a8e1a68bf1d0be7bfe24912afff5f01b37ac0c584517f598724"
+  },
+  "source/assets/library/BWV988/bwv-988-v07/bwv-988-v07.rdf": {
+    "bytes": 1293,
+    "sha256": "c7d06268bb4ef0d7ea6be1609a4866140fd5d242b7d5f55eaee96d56d737617a"
+  },
+  "source/assets/library/BWV988/bwv-988-v08/bwv-988-v08.ly": {
+    "bytes": 6400,
+    "sha256": "6353e68faf24988fbfa3c108bb324686631777ccc54fa9553e22d6829ecbbfa7"
+  },
+  "source/assets/library/BWV988/bwv-988-v08/bwv-988-v08.mid": {
+    "bytes": 5450,
+    "sha256": "6ad409e7a72adb5e2a36f2940d951e7f2e6e793c4b78fa14aa0981156931682e"
+  },
+  "source/assets/library/BWV988/bwv-988-v08/bwv-988-v08.rdf": {
+    "bytes": 1290,
+    "sha256": "acfef2090cce841133892e3af2c4fb65e03446bd9a2432f88bffc56012ce0b2b"
+  },
+  "source/assets/library/BWV988/bwv-988-v09/bwv-988-v09.ly": {
+    "bytes": 6254,
+    "sha256": "0e9f166d93d45447dad197026e7bd001cb0340dfdd921c3e4f0e9b63b19c7c44"
+  },
+  "source/assets/library/BWV988/bwv-988-v09/bwv-988-v09.mid": {
+    "bytes": 3267,
+    "sha256": "d6060b350f9b1201a9756e25f95ed737ffd57da2b09f5b79c7e213c85e1f4434"
+  },
+  "source/assets/library/BWV988/bwv-988-v09/bwv-988-v09.rdf": {
+    "bytes": 1294,
+    "sha256": "23bd8f833afa28cebc5b5f119c5c0a7444fba41cc819f41d892365c9772016d5"
+  },
+  "source/assets/library/BWV988/bwv-988-v10/bwv-988-v10.ly": {
+    "bytes": 7767,
+    "sha256": "2b1bf0b359204f914deb1ce9003f9c5fbc489782c1430f282ce939b20058b1ac"
+  },
+  "source/assets/library/BWV988/bwv-988-v10/bwv-988-v10.mid": {
+    "bytes": 3040,
+    "sha256": "33bfef340a49fad68a2178ae0de8d97fb9c5b3f87d1ceaf8bdb5d53e6b13a206"
+  },
+  "source/assets/library/BWV988/bwv-988-v10/bwv-988-v10.rdf": {
+    "bytes": 1294,
+    "sha256": "003b1cb045095b0eb00c88e09af4ac38b46a1096044585c5a1324c3556dfebd9"
+  },
+  "source/assets/library/BWV988/bwv-988-v11/bwv-988-v11.ly": {
+    "bytes": 8147,
+    "sha256": "35e596f8a87ef39ad66e0e922a413b018b74e8702b026b21eb1318f5e6c3d5ac"
+  },
+  "source/assets/library/BWV988/bwv-988-v11/bwv-988-v11.mid": {
+    "bytes": 5182,
+    "sha256": "3f7fc5b08fc139b88b661f812ec40e05eac09dd6c8b4a3abf2afcab1802c91ba"
+  },
+  "source/assets/library/BWV988/bwv-988-v11/bwv-988-v11.rdf": {
+    "bytes": 1291,
+    "sha256": "562f08a8d22b520480954417eedd32b53177341f1bd5216872a0c3aff7334e86"
+  },
+  "source/assets/library/BWV988/bwv-988-v12/bwv-988-v12.ly": {
+    "bytes": 9652,
+    "sha256": "78267976610c61c522f38003e7ff37b45befee94f9f62142d1ae42ba516c9926"
+  },
+  "source/assets/library/BWV988/bwv-988-v12/bwv-988-v12.mid": {
+    "bytes": 5463,
+    "sha256": "895be6b1a16d06e587f58edc8f081bcb271beb103761798c65a2a9278993838c"
+  },
+  "source/assets/library/BWV988/bwv-988-v12/bwv-988-v12.rdf": {
+    "bytes": 1291,
+    "sha256": "05715de7dccbc9023b993508a106936f6a18f4b74366fe4641789a60b122dfc4"
+  },
+  "source/assets/library/BWV988/bwv-988-v13/bwv-988-v13.ly": {
+    "bytes": 8489,
+    "sha256": "0e257f8cd542b02df857620eb9d1140e41eedcf5c560a1242e97ec23f490c51c"
+  },
+  "source/assets/library/BWV988/bwv-988-v13/bwv-988-v13.mid": {
+    "bytes": 6837,
+    "sha256": "4fea5e120058520d4217365b99b45feef8dc1dff0d01bb46f13ad904096b3d38"
+  },
+  "source/assets/library/BWV988/bwv-988-v13/bwv-988-v13.rdf": {
+    "bytes": 1294,
+    "sha256": "4030e3c3f0399f411196b347465aead252d427e351d8f960c9edc8c93eeeebae"
+  },
+  "source/assets/library/BWV988/bwv-988-v14/bwv-988-v14.ly": {
+    "bytes": 8474,
+    "sha256": "afe087929d2f65cab6b78f15b28a2025891146c3f21b46288d0aa7df8b6ba28c"
+  },
+  "source/assets/library/BWV988/bwv-988-v14/bwv-988-v14.mid": {
+    "bytes": 5460,
+    "sha256": "b1d645272b9a4a418e87b8229fae26b7ab00907c788762ee2b448ff453a21692"
+  },
+  "source/assets/library/BWV988/bwv-988-v14/bwv-988-v14.rdf": {
+    "bytes": 1295,
+    "sha256": "36050e5602fb1aec602c1eb260f5c736de29bf42dc97e1c6cd04eba303ccbb3b"
+  },
+  "source/assets/library/BWV988/bwv-988-v15/bwv-988-v15.ly": {
+    "bytes": 9745,
+    "sha256": "bd1c2a8447d609681b676794628aac37416967df9dfc260e679d29645cf66b1c"
+  },
+  "source/assets/library/BWV988/bwv-988-v15/bwv-988-v15.mid": {
+    "bytes": 4475,
+    "sha256": "23613e943c035116e009597765f14461d687e3b88e0e576374794f4cbcbfed1f"
+  },
+  "source/assets/library/BWV988/bwv-988-v15/bwv-988-v15.rdf": {
+    "bytes": 1297,
+    "sha256": "00cfac01f864fb8284361c1cbe2c5df3a49cf5e97b76c75edf9dc4ebcc7cd147"
+  },
+  "source/assets/library/BWV988/bwv-988-v16/bwv-988-v16.ly": {
+    "bytes": 12888,
+    "sha256": "ebc9b13a044c32e4959a7535f7ab522cd5d39e0b0200c914947fceb65312ce2a"
+  },
+  "source/assets/library/BWV988/bwv-988-v16/bwv-988-v16.mid": {
+    "bytes": 5720,
+    "sha256": "a19dab72bb47dc14796141948d441a1abde3abfec032d5d16e2c7e4e750ab5eb"
+  },
+  "source/assets/library/BWV988/bwv-988-v16/bwv-988-v16.rdf": {
+    "bytes": 1294,
+    "sha256": "864afb459eb01c39913427164f967f24cec6da6e744590cbfd4b0c32878ceab3"
+  },
+  "source/assets/library/BWV988/bwv-988-v17/bwv-988-v17.ly": {
+    "bytes": 7108,
+    "sha256": "1a821ff63d8277b42c92d38317a721030b65757536eaf94d6ce5f17105e80177"
+  },
+  "source/assets/library/BWV988/bwv-988-v17/bwv-988-v17.mid": {
+    "bytes": 5916,
+    "sha256": "aed5d27f987cb03e0af69c48f83559e96033603317096be17b44847d25fe294d"
+  },
+  "source/assets/library/BWV988/bwv-988-v17/bwv-988-v17.rdf": {
+    "bytes": 1276,
+    "sha256": "eee4986b984d0e908401906901a7717f0ffc33911d38494e2817bc465e957627"
+  },
+  "source/assets/library/BWV988/bwv-988-v18/bwv-988-v18.ly": {
+    "bytes": 5873,
+    "sha256": "5dbd55634f8a51915cd261a2f8807a815163f4689ba3f2e49c11ee89059c7036"
+  },
+  "source/assets/library/BWV988/bwv-988-v18/bwv-988-v18.mid": {
+    "bytes": 2961,
+    "sha256": "06756e6cf628ac24311d35db745ae3c5fb383f7ae63ad80b94b6b67948285064"
+  },
+  "source/assets/library/BWV988/bwv-988-v18/bwv-988-v18.rdf": {
+    "bytes": 1295,
+    "sha256": "e9535b748e792268a8251889b9f372bdaf57ff8258c8597f2a4431c7ebc49903"
+  },
+  "source/assets/library/BWV988/bwv-988-v19/bwv-988-v19.ly": {
+    "bytes": 7470,
+    "sha256": "d24f27036a0d1e8fb7bb626ad50206c9781e3046acc9f321de183d44ae5144bb"
+  },
+  "source/assets/library/BWV988/bwv-988-v19/bwv-988-v19.mid": {
+    "bytes": 3017,
+    "sha256": "6c57454a0b884d7c95fbccb7691d8d7284cafb69f099869a727bdc9bbe411057"
+  },
+  "source/assets/library/BWV988/bwv-988-v19/bwv-988-v19.rdf": {
+    "bytes": 1291,
+    "sha256": "19d8caba6b2fdb6f3edc38e0a85eae89afe21cad7f40b0cb6684f619e96884fe"
+  },
+  "source/assets/library/BWV988/bwv-988-v20/bwv-988-v20.ly": {
+    "bytes": 11465,
+    "sha256": "bcb634c8a5796f2531cb986abc7613cf84c71e4cbf7793d942a9423dbb131adb"
+  },
+  "source/assets/library/BWV988/bwv-988-v20/bwv-988-v20.mid": {
+    "bytes": 5241,
+    "sha256": "75892bd294ac2f12fe8d7e0011d73094cea0ee344f2bd93c1194031886a567d6"
+  },
+  "source/assets/library/BWV988/bwv-988-v20/bwv-988-v20.rdf": {
+    "bytes": 1291,
+    "sha256": "af0d5c58e69e6ed5eaa83469de170640aef67884a758b4a1df46e3485a932939"
+  },
+  "source/assets/library/BWV988/bwv-988-v21/bwv-988-v21.ly": {
+    "bytes": 6376,
+    "sha256": "905566fb91c3ebcdcb0f13e5d09783763a56ed969313dd206cf1b79f41f52528"
+  },
+  "source/assets/library/BWV988/bwv-988-v21/bwv-988-v21.mid": {
+    "bytes": 3970,
+    "sha256": "6df95eb4e511e8a12c298073235635c80d1a8e7a52cd81a80d3a3eda9ee4fb1b"
+  },
+  "source/assets/library/BWV988/bwv-988-v21/bwv-988-v21.rdf": {
+    "bytes": 1291,
+    "sha256": "2919d587ee596b31bde1bf8ab0ea647e6a01a4fbf364d82ab8612605a23bcf58"
+  },
+  "source/assets/library/BWV988/bwv-988-v22/bwv-988-v22.ly": {
+    "bytes": 7646,
+    "sha256": "4236213bd7fb657ac69e9b6455e22905ff46cf0b3ca11995068d18b83e985391"
+  },
+  "source/assets/library/BWV988/bwv-988-v22/bwv-988-v22.mid": {
+    "bytes": 2642,
+    "sha256": "a05eca36f2c8da824fd7787401e4321f2c47f86debe0fc8d44b69d2c2be3c4b9"
+  },
+  "source/assets/library/BWV988/bwv-988-v22/bwv-988-v22.rdf": {
+    "bytes": 1291,
+    "sha256": "dc5b1d910118d2d19f97ab2c5297ad7b6b3030c13eb23fbe5db6b2066f0f6aa4"
+  },
+  "source/assets/library/BWV988/bwv-988-v23/bwv-988-v23.ly": {
+    "bytes": 10634,
+    "sha256": "74de4aa1e356db697f1e25d7aeb04c7d14f27c87e1fb02ca5e1eb484beb15dfc"
+  },
+  "source/assets/library/BWV988/bwv-988-v23/bwv-988-v23.mid": {
+    "bytes": 6051,
+    "sha256": "6538fefc04cea957dfb588e2d20a29daa59299cc9fc653b431538dd66039509b"
+  },
+  "source/assets/library/BWV988/bwv-988-v23/bwv-988-v23.rdf": {
+    "bytes": 1291,
+    "sha256": "995298a3efc906e4a2561834856894bf9de80310bafd32b295edd0f9163efc72"
+  },
+  "source/assets/library/BWV988/bwv-988-v24/bwv-988-v24.ly": {
+    "bytes": 8221,
+    "sha256": "445346de5b8bdfba38931fa998dcc5ba9fea7437756d90179a4a14f69986d2ab"
+  },
+  "source/assets/library/BWV988/bwv-988-v24/bwv-988-v24.mid": {
+    "bytes": 5428,
+    "sha256": "88f1193268c090f6191c5bcc46f1576a1a0a9d5a1e4f96cb2018e1fb4b3c2318"
+  },
+  "source/assets/library/BWV988/bwv-988-v24/bwv-988-v24.rdf": {
+    "bytes": 1294,
+    "sha256": "6e880db7c67040de14038cc3bc3fcbe99c9c1381a1abbaae8dd820c7b2fba301"
+  },
+  "source/assets/library/BWV988/bwv-988-v25/bwv-988-v25.ly": {
+    "bytes": 8119,
+    "sha256": "fcc6b5166f239b27582ed296711d6e11ebcb9148f6e0199287b7542539bc4e27"
+  },
+  "source/assets/library/BWV988/bwv-988-v25/bwv-988-v25.mid": {
+    "bytes": 6356,
+    "sha256": "40d42594080a01088c463d338c02360052080ff36326746322e4b248ef17e1d6"
+  },
+  "source/assets/library/BWV988/bwv-988-v25/bwv-988-v25.rdf": {
+    "bytes": 1294,
+    "sha256": "fd74939927b8c2146b3ff8255df29ddd4595304ed34e9f11e6be0643b71fbcec"
+  },
+  "source/assets/library/BWV988/bwv-988-v26/bwv-988-v26.ly": {
+    "bytes": 13311,
+    "sha256": "07b9dd95eeb3e0a7eb821dda8c37b5d15b5a1d0e17611a6fed70e095ee321b5b"
+  },
+  "source/assets/library/BWV988/bwv-988-v26/bwv-988-v26.mid": {
+    "bytes": 7085,
+    "sha256": "9eaac377c5c0bdb9692a565ce84a96022a33019b7240eb26b35b0a51b9e1a22a"
+  },
+  "source/assets/library/BWV988/bwv-988-v26/bwv-988-v26.rdf": {
+    "bytes": 1291,
+    "sha256": "1144be3bc9f810582e109c7e3486f707b0163be9da8689e7b10e84a920526fb6"
+  },
+  "source/assets/library/BWV988/bwv-988-v27/bwv-988-v27.ly": {
+    "bytes": 6190,
+    "sha256": "395b8a7a8a7a0bf2ae622faea93754cfbd724bd5063826639344ea1699417689"
+  },
+  "source/assets/library/BWV988/bwv-988-v27/bwv-988-v27.mid": {
+    "bytes": 4228,
+    "sha256": "b0f4c619430e336021d0f981fb716393e618c3b9a6d8c4cf8fa02d32ee68fffd"
+  },
+  "source/assets/library/BWV988/bwv-988-v27/bwv-988-v27.rdf": {
+    "bytes": 1294,
+    "sha256": "900feeccda643c83d9cb387da566a264fd1e585e69237a910a44d9d4e3313ee7"
+  },
+  "source/assets/library/BWV988/bwv-988-v28/bwv-988-v28.ly": {
+    "bytes": 11483,
+    "sha256": "571548b91296f4d22bf4c2af369e7c9cfd72a1562e4875b80bb1183b9e6ebd63"
+  },
+  "source/assets/library/BWV988/bwv-988-v28/bwv-988-v28.mid": {
+    "bytes": 8177,
+    "sha256": "b18d92f020800ab11802f91ade5c4a48a651332e9c01a6ac6aecb227485bdfb2"
+  },
+  "source/assets/library/BWV988/bwv-988-v28/bwv-988-v28.rdf": {
+    "bytes": 1295,
+    "sha256": "718567433a0eab88274f8d8180c4e4f0b8f6d93b8ddce60545ee3b9841eecf49"
+  },
+  "source/assets/library/BWV988/bwv-988-v29/bwv-988-v29.ly": {
+    "bytes": 15767,
+    "sha256": "f4d64b496f599e9421e1728a0a3538ab81e9e0cf41929f485bdcdacf80359c89"
+  },
+  "source/assets/library/BWV988/bwv-988-v29/bwv-988-v29.mid": {
+    "bytes": 6133,
+    "sha256": "45f2e60293e6c897840de7a77702766f7c55606db1a8d5283ecde09ee1d719fc"
+  },
+  "source/assets/library/BWV988/bwv-988-v29/bwv-988-v29.rdf": {
+    "bytes": 1291,
+    "sha256": "31ee3c33d421e6a040c69de10a55e1ca41b789d0fa304fc322c74a3230565f6a"
+  },
+  "source/assets/library/BWV988/bwv-988-v30/bwv-988-v30.ly": {
+    "bytes": 7834,
+    "sha256": "2c2d2668ba9ccb984c28b6493514a24e970d2236c87c5558760b681ce2c19e53"
+  },
+  "source/assets/library/BWV988/bwv-988-v30/bwv-988-v30.mid": {
+    "bytes": 3400,
+    "sha256": "0628e64952bec02aa20856fffac45d41069547c043eff0a89cb0e728b88e94f2"
+  },
+  "source/assets/library/BWV988/bwv-988-v30/bwv-988-v30.rdf": {
+    "bytes": 1294,
+    "sha256": "086fe024d942101fefc051ade0335da9005d8b3aa8e4fab0ed65c937be2cc132"
+  },
+  "source/assets/library/wtc1/README.md": {
+    "bytes": 2028,
+    "sha256": "d8962986736c3d13aecc9d9946636b99a8dc3c122df6f3350ffb4150656f5f14"
+  },
+  "source/assets/library/wtc1/edition/README.md": {
+    "bytes": 2028,
+    "sha256": "d8962986736c3d13aecc9d9946636b99a8dc3c122df6f3350ffb4150656f5f14"
+  },
+  "source/assets/library/wtc1/edition/fugue-1-bwv-846-individual.ly": {
+    "bytes": 258,
+    "sha256": "d35268b883753a102e35c769296d29a67e942816af6a629ec1e6449ffd025f5c"
+  },
+  "source/assets/library/wtc1/edition/fugue-10-bwv-855-individual.ly": {
+    "bytes": 262,
+    "sha256": "13a27f07da76c070e2a803ed3043102b6e23c904a214acf07379304418007334"
+  },
+  "source/assets/library/wtc1/edition/fugue-11-bwv-856-individual.ly": {
+    "bytes": 268,
+    "sha256": "42ae786b919c4245288df62cdf9311830019436060f71da5df64a942b45c21e9"
+  },
+  "source/assets/library/wtc1/edition/fugue-12-bwv-857-individual.ly": {
+    "bytes": 270,
+    "sha256": "cd809b3e35aac0eb70d75a9029c5e3c4ef6461fa3daa24b6ea1f7b21349ecad6"
+  },
+  "source/assets/library/wtc1/edition/fugue-13-bwv-858-individual.ly": {
+    "bytes": 274,
+    "sha256": "5a503293eb1c663153afafcac81b8c63b19a7936aa1a5e09b97d851b18458efb"
+  },
+  "source/assets/library/wtc1/edition/fugue-14-bwv-859-individual.ly": {
+    "bytes": 274,
+    "sha256": "3ca7c888891d9519edb520e08210b6f37e1bf4b491268655771b4a721fc78350"
+  },
+  "source/assets/library/wtc1/edition/fugue-15-bwv-860-individual.ly": {
+    "bytes": 272,
+    "sha256": "3beda09eec70e3fc94aa7aff807e70b35ee69b7e9f5b3ff038e22ce7a5a21907"
+  },
+  "source/assets/library/wtc1/edition/fugue-16-bwv-861-individual.ly": {
+    "bytes": 272,
+    "sha256": "a7cc27b91cc0e2cf0c7a0354f81e56b59f5b1380ddc2395981a5fb083b7e1dc4"
+  },
+  "source/assets/library/wtc1/edition/fugue-17-bwv-862-individual.ly": {
+    "bytes": 276,
+    "sha256": "dea5cfb00aa76ba52411479c401fd0e229eec1c2cbe3af3159ad473d3eca57cd"
+  },
+  "source/assets/library/wtc1/edition/fugue-18-bwv-863-individual.ly": {
+    "bytes": 274,
+    "sha256": "0f099ee4c524b29fbb2b14882f7ac67d017fae94be1469be1b2ed1653a0142b0"
+  },
+  "source/assets/library/wtc1/edition/fugue-19-bwv-864-individual.ly": {
+    "bytes": 272,
+    "sha256": "4455c4b7763b461ab9567b221e52f4e08b6a12b87146f1a98d87a3f1e09659a8"
+  },
+  "source/assets/library/wtc1/edition/fugue-2-bwv-847-individual.ly": {
+    "bytes": 260,
+    "sha256": "c82f41521ff7b49cfbb14027ca59c58d2614a8fe0400a397b0d74126dc03a2cb"
+  },
+  "source/assets/library/wtc1/edition/fugue-20-bwv-865-individual.ly": {
+    "bytes": 270,
+    "sha256": "c40d66de59d0f5fb71d1377e3abc43e3dac54d944a8553de651e4675437656da"
+  },
+  "source/assets/library/wtc1/edition/fugue-21-bwv-866-individual.ly": {
+    "bytes": 276,
+    "sha256": "426262f6b9bab73745c09742acda38d37b8efcabfee1279cf9f38774cdb536b7"
+  },
+  "source/assets/library/wtc1/edition/fugue-22-bwv-867-individual.ly": {
+    "bytes": 276,
+    "sha256": "eed2682c139ee042190cb002af7170f9cdf33f109a4fd2fa098c24051a4769ea"
+  },
+  "source/assets/library/wtc1/edition/fugue-23-bwv-868-individual.ly": {
+    "bytes": 280,
+    "sha256": "6903ed228d67fba31b9dc246df2f87c2aba77d226fb078bd095750f1c6737f16"
+  },
+  "source/assets/library/wtc1/edition/fugue-24-bwv-869-individual.ly": {
+    "bytes": 278,
+    "sha256": "6b9a2c859957a81866ea97b04668d5b309a39f73947f980ea3d518b6f56bacc1"
+  },
+  "source/assets/library/wtc1/edition/fugue-3-bwv-848-individual.ly": {
+    "bytes": 264,
+    "sha256": "f1436bacf7dce3fd9dcaca6100f31cf1fdce3d8ded004a11722f3ebf372ae516"
+  },
+  "source/assets/library/wtc1/edition/fugue-4-bwv-849-individual.ly": {
+    "bytes": 262,
+    "sha256": "209819af264bf4ac59fe36c6d8f437c6178f4192e2666d0d08b891d251817802"
+  },
+  "source/assets/library/wtc1/edition/fugue-5-bwv-850-individual.ly": {
+    "bytes": 262,
+    "sha256": "3c381e0655c2984a71c9e6a8040d76e4e9694787f542d2b3b05a8d01d84b893f"
+  },
+  "source/assets/library/wtc1/edition/fugue-6-bwv-851-individual.ly": {
+    "bytes": 260,
+    "sha256": "a7dd182e86ccd11fa6c70841396584331a0f090d018b779af7e5c30b92abf797"
+  },
+  "source/assets/library/wtc1/edition/fugue-7-bwv-852-individual.ly": {
+    "bytes": 264,
+    "sha256": "4b14b29dae36b8e1573f28b3634614569b960c0220c6a781670852ad2361a602"
+  },
+  "source/assets/library/wtc1/edition/fugue-8-bwv-853-individual.ly": {
+    "bytes": 264,
+    "sha256": "210211357a5bce0a7c89ff20b5febd0d3adaae46996e35e8afdd6ffaf5d67f58"
+  },
+  "source/assets/library/wtc1/edition/fugue-9-bwv-854-individual.ly": {
+    "bytes": 262,
+    "sha256": "fee752bdf7db8163ef133aaa151fb33bfc25c053271a5ce30efbe11b993b807f"
+  },
+  "source/assets/library/wtc1/edition/includes/fugue-1-bwv-846-parts.ily": {
+    "bytes": 6246,
+    "sha256": "55363df846ad8c202b6e81c7a32a126216ac1064db722cee3cfc27064fd67f9e"
+  },
+  "source/assets/library/wtc1/edition/includes/fugue-10-bwv-855-parts.ily": {
+    "bytes": 5706,
+    "sha256": "bdaf7538090d0c9aebd368c79a31ef54124da369392008afacf8d2391d2756a7"
+  },
+  "source/assets/library/wtc1/edition/includes/fugue-11-bwv-856-parts.ily": {
+    "bytes": 6879,
+    "sha256": "39f250e5604ea34ece5f4221186cd3b7c43b9ff49df15f7063b23c68dfc59ff1"
+  },
+  "source/assets/library/wtc1/edition/includes/fugue-12-bwv-857-parts.ily": {
+    "bytes": 11554,
+    "sha256": "5b0781d794da20a19c64c05836e1195322691c68e89dd896dbf49b733f4b7ea6"
+  },
+  "source/assets/library/wtc1/edition/includes/fugue-13-bwv-858-parts.ily": {
+    "bytes": 8084,
+    "sha256": "f7de98bba1e03e5b11ae99e7cef5f5b2614efb4f65cd3039de00333dd30e92ab"
+  },
+  "source/assets/library/wtc1/edition/includes/fugue-14-bwv-859-parts.ily": {
+    "bytes": 7524,
+    "sha256": "e369c60bd7665f712f5674a21bbf0b6a048dce52822198d6f6a6802763f922d3"
+  },
+  "source/assets/library/wtc1/edition/includes/fugue-15-bwv-860-parts.ily": {
+    "bytes": 12611,
+    "sha256": "c355eb7d3c0b081a3e5b16201261030d265caa6ab7e756d4c9994a88c1a2ee68"
+  },
+  "source/assets/library/wtc1/edition/includes/fugue-16-bwv-861-parts.ily": {
+    "bytes": 6903,
+    "sha256": "e16ca14802762df44852b56d8e0e418423a4770c9d569d4904db5a3e928f1252"
+  },
+  "source/assets/library/wtc1/edition/includes/fugue-17-bwv-862-parts.ily": {
+    "bytes": 7542,
+    "sha256": "3cc0254d0c8f904674d65b30d6b5eb6356e3c1507173715c0517f697901b04f1"
+  },
+  "source/assets/library/wtc1/edition/includes/fugue-18-bwv-863-parts.ily": {
+    "bytes": 8801,
+    "sha256": "fd29214e5c12ca3339a8bffef14d6a0c9eb043975a3495b7a0e97aeaa021fa07"
+  },
+  "source/assets/library/wtc1/edition/includes/fugue-19-bwv-864-parts.ily": {
+    "bytes": 9820,
+    "sha256": "28b01d07a7f8742fe7da68f744b3f65a4285f1f5a00b06d392301f74a1d2260d"
+  },
+  "source/assets/library/wtc1/edition/includes/fugue-2-bwv-847-parts.ily": {
+    "bytes": 7740,
+    "sha256": "832a228a49f13fbba5aec479780bdeb8b3bb5db52b0cbfeff8c2381cf17be20d"
+  },
+  "source/assets/library/wtc1/edition/includes/fugue-20-bwv-865-parts.ily": {
+    "bytes": 18222,
+    "sha256": "176e5971e2beaf7cfb3f03ee5642484529d8db8d75fb2f4ba76deb185a1070aa"
+  },
+  "source/assets/library/wtc1/edition/includes/fugue-21-bwv-866-parts.ily": {
+    "bytes": 7875,
+    "sha256": "57ab4f2240095611a425add4a6226243075dd6d616ec8e6051ed11d3d5478857"
+  },
+  "source/assets/library/wtc1/edition/includes/fugue-22-bwv-867-parts.ily": {
+    "bytes": 10043,
+    "sha256": "4b4d4c3489e07ba28d92e6314fde49d158f7b539ae09fb488b6006d5aa21fc32"
+  },
+  "source/assets/library/wtc1/edition/includes/fugue-23-bwv-868-parts.ily": {
+    "bytes": 7653,
+    "sha256": "435f445601e88434b10103e8eba21d44459ae67cf9963a304423390233eb9b1c"
+  },
+  "source/assets/library/wtc1/edition/includes/fugue-24-bwv-869-parts.ily": {
+    "bytes": 14583,
+    "sha256": "ddc1b5d7f04087a46c57bb6ed0c70fe241178f6d2c3f4948e8d406519e20059f"
+  },
+  "source/assets/library/wtc1/edition/includes/fugue-3-bwv-848-parts.ily": {
+    "bytes": 11657,
+    "sha256": "0e5ef4e94dd8150f6b81b1b4b386776256a0e1a1020513668554dd7f593a4544"
+  },
+  "source/assets/library/wtc1/edition/includes/fugue-4-bwv-849-parts.ily": {
+    "bytes": 15513,
+    "sha256": "f8cfac3419d8ed63074a7fa414c1c3e320d87d155657db91b554f89f929c6677"
+  },
+  "source/assets/library/wtc1/edition/includes/fugue-5-bwv-850-parts.ily": {
+    "bytes": 7055,
+    "sha256": "00cc70753f1b9d51eec5ed5aefc3e15aac4fdc77b0fd9776096eae6477903a06"
+  },
+  "source/assets/library/wtc1/edition/includes/fugue-6-bwv-851-parts.ily": {
+    "bytes": 6723,
+    "sha256": "f808c69d0145d1f416d7a18ce2073cd6864d56fc675144bc78dc3e1caba5c932"
+  },
+  "source/assets/library/wtc1/edition/includes/fugue-7-bwv-852-parts.ily": {
+    "bytes": 7480,
+    "sha256": "0e5e40078ec543629eb25e4d15b463654be10b4cb9c13b60c2ba574b0214fdd5"
+  },
+  "source/assets/library/wtc1/edition/includes/fugue-8-bwv-853-parts.ily": {
+    "bytes": 10771,
+    "sha256": "2453a800e0b1c3a396e801c24fe1df05276c6b04eadeed19615da6e561e8b19f"
+  },
+  "source/assets/library/wtc1/edition/includes/fugue-9-bwv-854-parts.ily": {
+    "bytes": 6345,
+    "sha256": "65a25e3ecbf8bca5cf713afcee265b7b963c4f46464a7c31458f9fc4c4df883a"
+  },
+  "source/assets/library/wtc1/edition/includes/global-variables.ily": {
+    "bytes": 4486,
+    "sha256": "cafb47a18e787476a48aab4986f0bafac21a1fc0a5962805ea623e91a4ef0def"
+  },
+  "source/assets/library/wtc1/edition/includes/header-paper.ily": {
+    "bytes": 2653,
+    "sha256": "c3613c10abd44be2ee0e72e757ea6b49c88d1878d7432e49cb8d945162a7abf2"
+  },
+  "source/assets/library/wtc1/edition/includes/prelude-1-bwv-846-parts.ily": {
+    "bytes": 6343,
+    "sha256": "5296022e382bd1f7b6425023eac8767f3a8c355e82b9e3b671eaba232b0f9dd6"
+  },
+  "source/assets/library/wtc1/edition/includes/prelude-10-bwv-855-parts.ily": {
+    "bytes": 7941,
+    "sha256": "b7d059bd97dc0bc621b0e1f39f6d58757c785833f9eb43710357e774031dcd44"
+  },
+  "source/assets/library/wtc1/edition/includes/prelude-11-bwv-856-parts.ily": {
+    "bytes": 5275,
+    "sha256": "ee009596ee78d01f7217ccf6d7edb8ea8dca592210c7ba21c972a3d9a2451cc9"
+  },
+  "source/assets/library/wtc1/edition/includes/prelude-12-bwv-857-parts.ily": {
+    "bytes": 5767,
+    "sha256": "a777105fc68aff8cebc5260179449d3338d1fb872e71e33bf5e5779b21dd25e7"
+  },
+  "source/assets/library/wtc1/edition/includes/prelude-13-bwv-858-parts.ily": {
+    "bytes": 5028,
+    "sha256": "654b75865ac633e099cd088a3b68db4010f7e1328cf606393edb6b9d4c8f785c"
+  },
+  "source/assets/library/wtc1/edition/includes/prelude-14-bwv-859-parts.ily": {
+    "bytes": 5430,
+    "sha256": "16d80ca89729c1ad8b028b9842a0fbd0a148255bc5fecaa94c91c6f16690ea65"
+  },
+  "source/assets/library/wtc1/edition/includes/prelude-15-bwv-860-parts.ily": {
+    "bytes": 5131,
+    "sha256": "7c2b292d38dcfcb7609fe3452a366202d19307e9c84408af36736fcc98ad710a"
+  },
+  "source/assets/library/wtc1/edition/includes/prelude-16-bwv-861-parts.ily": {
+    "bytes": 5341,
+    "sha256": "70faf2dbedf3e8f556e8616ed9971dd99f225c4ef2d322f9e84d1f6ee5758b24"
+  },
+  "source/assets/library/wtc1/edition/includes/prelude-17-bwv-862-parts.ily": {
+    "bytes": 6257,
+    "sha256": "8cd7b925275f1f678d5e3689a5f9b1fc7207a9a2f0af34a128e7906484aa44aa"
+  },
+  "source/assets/library/wtc1/edition/includes/prelude-18-bwv-863-parts.ily": {
+    "bytes": 6464,
+    "sha256": "2bb4585451d961663d349ce9631c1eae29a152b8a557323be12f67d8ac03834a"
+  },
+  "source/assets/library/wtc1/edition/includes/prelude-19-bwv-864-parts.ily": {
+    "bytes": 5313,
+    "sha256": "1c37efb29b7ef97582d4e010c4f101a945eedd8d814829b97784d2909d00a820"
+  },
+  "source/assets/library/wtc1/edition/includes/prelude-2-bwv-847-parts.ily": {
+    "bytes": 6911,
+    "sha256": "35a69d2e1ceb897113d7001215fee8863997f83764bf65db2335372ffcce9924"
+  },
+  "source/assets/library/wtc1/edition/includes/prelude-20-bwv-865-parts.ily": {
+    "bytes": 6286,
+    "sha256": "59a41bd60d13ae00f884b7c0784f5e82c888909e0cde69e8741192a09e7e3bd9"
+  },
+  "source/assets/library/wtc1/edition/includes/prelude-21-bwv-866-parts.ily": {
+    "bytes": 6922,
+    "sha256": "1de7350d4ce82cf8bc89cb1480a2a926716ded9b3fa8534799e9b84b5e904ada"
+  },
+  "source/assets/library/wtc1/edition/includes/prelude-22-bwv-867-parts.ily": {
+    "bytes": 8115,
+    "sha256": "0d47cf1e63dd6c34135b347361d7d42763d66c92db51c77d0e9afb9c15321088"
+  },
+  "source/assets/library/wtc1/edition/includes/prelude-23-bwv-868-parts.ily": {
+    "bytes": 4566,
+    "sha256": "52d4af9bd90597bba940e556d52f0ee52fb9f4c134d2861b424511979258ee75"
+  },
+  "source/assets/library/wtc1/edition/includes/prelude-24-bwv-869-parts.ily": {
+    "bytes": 7734,
+    "sha256": "697c3e500e5b0da76ef5e5443755fb7bad8b44bb3a2d620dd60ab3f1d8d1fe18"
+  },
+  "source/assets/library/wtc1/edition/includes/prelude-3-bwv-848-parts.ily": {
+    "bytes": 10026,
+    "sha256": "85c05d5352ac8ee8780cc4deeac55be381edc8f5440565015be6e1d7a63864d5"
+  },
+  "source/assets/library/wtc1/edition/includes/prelude-4-bwv-849-parts.ily": {
+    "bytes": 8292,
+    "sha256": "40f3060176e7cdbcaadd233f00d1947d0fd3ed9fd4cf6923023b7a7c98bc14e9"
+  },
+  "source/assets/library/wtc1/edition/includes/prelude-5-bwv-850-parts.ily": {
+    "bytes": 5864,
+    "sha256": "f58c04f4e1eb6f94ec35ffb73e37ce9dde0315d8ac4fe94472b3f4f869129f3c"
+  },
+  "source/assets/library/wtc1/edition/includes/prelude-6-bwv-851-parts.ily": {
+    "bytes": 6155,
+    "sha256": "5a89f0cd5158a23bb2fc452f83b3b597e4cf557408f2077b5e8449c9cad8ad0d"
+  },
+  "source/assets/library/wtc1/edition/includes/prelude-7-bwv-852-parts.ily": {
+    "bytes": 11368,
+    "sha256": "54a7647b7a2ed25410c47ee0c81cd39f97e24cd1f9f58ce62e72e16983261a0e"
+  },
+  "source/assets/library/wtc1/edition/includes/prelude-8-bwv-853-parts.ily": {
+    "bytes": 8411,
+    "sha256": "90093c95b0ba06717fce386332ddf9eec262631223488382a3c72d7b907c629a"
+  },
+  "source/assets/library/wtc1/edition/includes/prelude-9-bwv-854-parts.ily": {
+    "bytes": 4989,
+    "sha256": "26e301711f0fe37d4f5176d4f9f1673718dc3d9555f9fa204ecd9696c7bc12d5"
+  },
+  "source/assets/library/wtc1/edition/includes/title-page.ily": {
+    "bytes": 531,
+    "sha256": "c6e1225d7d91b4254d3533f70fecbdfb8d41fcc70c557e710edcdf254e4ced5c"
+  },
+  "source/assets/library/wtc1/edition/prelude-1-bwv-846-individual.ly": {
+    "bytes": 266,
+    "sha256": "7a774114783f0c9bdd403a8667808f9a9935736984dbd65fa9d85ce7085c8680"
+  },
+  "source/assets/library/wtc1/edition/prelude-10-bwv-855-individual.ly": {
+    "bytes": 270,
+    "sha256": "a4dee6b0c743404d7d7bfdc4bcd7b0f5b7008c4d27fd215bbc4331a5b148ad68"
+  },
+  "source/assets/library/wtc1/edition/prelude-11-bwv-856-individual.ly": {
+    "bytes": 276,
+    "sha256": "68276ba2126dfef28610a2b2e0d0a6de11eeba536742edc5c2b1391d12178fd7"
+  },
+  "source/assets/library/wtc1/edition/prelude-12-bwv-857-individual.ly": {
+    "bytes": 274,
+    "sha256": "ac781e958851c324483c16607a7cbb12b6e1e9bf5bac3baa2d818a88158d895e"
+  },
+  "source/assets/library/wtc1/edition/prelude-13-bwv-858-individual.ly": {
+    "bytes": 278,
+    "sha256": "dacce1903d726f11caf3de1e6436bbb29ac797a50647423bb57657374c2b47a2"
+  },
+  "source/assets/library/wtc1/edition/prelude-14-bwv-859-individual.ly": {
+    "bytes": 278,
+    "sha256": "4fec5a11a086aaad838753f58fa30fd6a82074089b36f41e4d8545387e5679e5"
+  },
+  "source/assets/library/wtc1/edition/prelude-15-bwv-860-individual.ly": {
+    "bytes": 276,
+    "sha256": "c5521a4205bb13e37bbd7b95ed00fbdb475e2e9ca3575b67613d8e51e10a1b90"
+  },
+  "source/assets/library/wtc1/edition/prelude-16-bwv-861-individual.ly": {
+    "bytes": 276,
+    "sha256": "d68b47f571358a2ce8562216336f0e15d6543cf3f41d5d0e982f0eedce2a164d"
+  },
+  "source/assets/library/wtc1/edition/prelude-17-bwv-862-individual.ly": {
+    "bytes": 280,
+    "sha256": "d564750ab02684bd74a00edd900d8d05682c4ec6d3ebb9c5934d35f80f0589a3"
+  },
+  "source/assets/library/wtc1/edition/prelude-18-bwv-863-individual.ly": {
+    "bytes": 278,
+    "sha256": "f13b92805a4502b333c09f3dedf74d39953628b30daac6ebcc144a6539970a87"
+  },
+  "source/assets/library/wtc1/edition/prelude-19-bwv-864-individual.ly": {
+    "bytes": 276,
+    "sha256": "bc4c08a6b2dcbe4e5b266028884b51ee55eeb363186d2802d73e2fa58521bb6b"
+  },
+  "source/assets/library/wtc1/edition/prelude-2-bwv-847-individual.ly": {
+    "bytes": 268,
+    "sha256": "ea89e3e34b699f82d68b60a00af9a695723f843106818600573a91fbc43965ee"
+  },
+  "source/assets/library/wtc1/edition/prelude-20-bwv-865-individual.ly": {
+    "bytes": 274,
+    "sha256": "f2d53c747a33e2106cc86480bdd24a26a5f5574412b98aa69313a283321a1a76"
+  },
+  "source/assets/library/wtc1/edition/prelude-21-bwv-866-individual.ly": {
+    "bytes": 280,
+    "sha256": "05b24720e55aeea5d34c024493fa7e7b094f0e82dcb3ddccda8ab25c073ca878"
+  },
+  "source/assets/library/wtc1/edition/prelude-22-bwv-867-individual.ly": {
+    "bytes": 280,
+    "sha256": "e9145716f3c3d81f7cf2f53acb4d8c0bc975af775688654928446014b8c60ae5"
+  },
+  "source/assets/library/wtc1/edition/prelude-23-bwv-868-individual.ly": {
+    "bytes": 284,
+    "sha256": "c90641aa02f9a4b87a2a17a2c377083db4aa32f0550448975b85f6166c0516d5"
+  },
+  "source/assets/library/wtc1/edition/prelude-24-bwv-869-individual.ly": {
+    "bytes": 282,
+    "sha256": "a6f1580c657511092c773bbde544ca1b1022d4a2f6d463b532dc396b454de8c6"
+  },
+  "source/assets/library/wtc1/edition/prelude-3-bwv-848-individual.ly": {
+    "bytes": 272,
+    "sha256": "bb0aee01402f41f6b287d5368dc437e012759a2921425828ec2304b97f76f19f"
+  },
+  "source/assets/library/wtc1/edition/prelude-4-bwv-849-individual.ly": {
+    "bytes": 270,
+    "sha256": "2e7a69476051f2b147ad29f947a9344bd34a020e0ed9707d3644dcc87927f4d8"
+  },
+  "source/assets/library/wtc1/edition/prelude-5-bwv-850-individual.ly": {
+    "bytes": 270,
+    "sha256": "245d5320a55ab83d8c9e30142e05b8102bfa74b2231fbdbecef92e97bc018c92"
+  },
+  "source/assets/library/wtc1/edition/prelude-6-bwv-851-individual.ly": {
+    "bytes": 268,
+    "sha256": "6730ff9df3b62b825d21c419bb809621d366b7c9bcf652683d92b505875fd0ab"
+  },
+  "source/assets/library/wtc1/edition/prelude-7-bwv-852-individual.ly": {
+    "bytes": 272,
+    "sha256": "93b914ff7d54df7236ba61c02ee6bebc2e0483aa72e5c89c73cde8b39edcd12d"
+  },
+  "source/assets/library/wtc1/edition/prelude-8-bwv-853-individual.ly": {
+    "bytes": 272,
+    "sha256": "c2130f68e696692f4bd8262feb678dbee35a99166f4c806fde67b353fb1615b6"
+  },
+  "source/assets/library/wtc1/edition/prelude-9-bwv-854-individual.ly": {
+    "bytes": 270,
+    "sha256": "702cc8bb199fa2240906b5046200e912003c1a6f6a780ae96da469b734c3f9ae"
+  },
+  "source/assets/library/wtc1/edition/well-tempered-clavier-I-book.ly": {
+    "bytes": 6707,
+    "sha256": "8525a33bb513805759191cde9c9dbcf924ed5345e2850973ded87f809a36752e"
+  },
+  "source/assets/library/wtc1/fugue-1-bwv-846.midi": {
+    "bytes": 6408,
+    "sha256": "8489bf0102625bc84193e36bae4e689ca7fe75b93f86fccb6a863d507fb39cc8"
+  },
+  "source/assets/library/wtc1/fugue-10-bwv-855.midi": {
+    "bytes": 6755,
+    "sha256": "0aa09b6877529d03552f079af47e28a4f0ba39785d0f30709a817f270cd69e63"
+  },
+  "source/assets/library/wtc1/fugue-11-bwv-856.midi": {
+    "bytes": 7077,
+    "sha256": "19a520e9990a4941bed9f3a7df156b24fce9ee690b61faaf7d91e069dc73a5de"
+  },
+  "source/assets/library/wtc1/fugue-12-bwv-857.midi": {
+    "bytes": 11613,
+    "sha256": "2de69854a276d72038b478a8e646a623866ff0e2992502d4bb9ac56211dff5ba"
+  },
+  "source/assets/library/wtc1/fugue-13-bwv-858.midi": {
+    "bytes": 7874,
+    "sha256": "92deb436de791291226146d3708a194b56c334830d06f7ce50eb325bed46351d"
+  },
+  "source/assets/library/wtc1/fugue-14-bwv-859.midi": {
+    "bytes": 8298,
+    "sha256": "1b6ec19e545faa3516fcadd1d4537ee692a41b58790997df2d9e1d2e9955dfa1"
+  },
+  "source/assets/library/wtc1/fugue-15-bwv-860.midi": {
+    "bytes": 14399,
+    "sha256": "a2374d89d4a27300b8382e69abe00e78d02458db30aade96714cca4603df5dc1"
+  },
+  "source/assets/library/wtc1/fugue-16-bwv-861.midi": {
+    "bytes": 6440,
+    "sha256": "0affb6cb96bedf4f2d71f5bc569f76c48f0c33dcadcc48389936ecba6f58455b"
+  },
+  "source/assets/library/wtc1/fugue-17-bwv-862.midi": {
+    "bytes": 7450,
+    "sha256": "37168a014312aeea9f048a07c8fca8c45429ff16f3cce3c6f048e5da5d0edb43"
+  },
+  "source/assets/library/wtc1/fugue-18-bwv-863.midi": {
+    "bytes": 6974,
+    "sha256": "e17e0b3277aecba54ed350b53c922150cded03e64a39c60530c8f8e55fcf7170"
+  },
+  "source/assets/library/wtc1/fugue-19-bwv-864.midi": {
+    "bytes": 10487,
+    "sha256": "9c6ceab097b5569534a32f76014a46b7f36d4121c2d3e651a448d71e65ef4af6"
+  },
+  "source/assets/library/wtc1/fugue-2-bwv-847.midi": {
+    "bytes": 6649,
+    "sha256": "3975adcd2a29a88f207230a57ca8f0875be62daf969a65b6267e17ca55f279a7"
+  },
+  "source/assets/library/wtc1/fugue-20-bwv-865.midi": {
+    "bytes": 20576,
+    "sha256": "9b83d1ad4fb85d1ce87783703303b5b8192a0a05a868460f74789f102eb07657"
+  },
+  "source/assets/library/wtc1/fugue-21-bwv-866.midi": {
+    "bytes": 7971,
+    "sha256": "0b0c4d939fe0adf2efa1b30196df50dee326cd26ed5201ae28bbb97c338d6ec5"
+  },
+  "source/assets/library/wtc1/fugue-22-bwv-867.midi": {
+    "bytes": 6854,
+    "sha256": "dc9b869456c77ccb316de30a8f32d2ea6e5aafaf366182c55d8765ddbf17ce14"
+  },
+  "source/assets/library/wtc1/fugue-23-bwv-868.midi": {
+    "bytes": 8719,
+    "sha256": "0013cfce4c11b6fcce8e1b305774890c80568d03b98633f4e40b2aaad6a1fdb2"
+  },
+  "source/assets/library/wtc1/fugue-24-bwv-869.midi": {
+    "bytes": 15769,
+    "sha256": "be5b107e75840844d6964b8bc69bcdd836ab8236ba97105a7f914afe5b33718c"
+  },
+  "source/assets/library/wtc1/fugue-3-bwv-848.midi": {
+    "bytes": 11955,
+    "sha256": "221eecd677826cc0e3006321e51b38789d527a0155b067d5819250b77ff38019"
+  },
+  "source/assets/library/wtc1/fugue-4-bwv-849.midi": {
+    "bytes": 11793,
+    "sha256": "b49b2bbc1276bb07ef3ee378d918fe24461dfb2f47bd8650a2e9cf29b282aa6c"
+  },
+  "source/assets/library/wtc1/fugue-5-bwv-850.midi": {
+    "bytes": 6708,
+    "sha256": "b49fe1baca2633a1437fddb4e191e059fb5d699443061488287b2a5339abae2f"
+  },
+  "source/assets/library/wtc1/fugue-6-bwv-851.midi": {
+    "bytes": 8781,
+    "sha256": "0640eb665aed9253055ad99242c4c2a688b4b1df470aa7c8b6ef9931b6bb8fb9"
+  },
+  "source/assets/library/wtc1/fugue-7-bwv-852.midi": {
+    "bytes": 8369,
+    "sha256": "847db2a29346a683da6912f08b6c3aef3fd7076d495d97f5ddc76474def8f98c"
+  },
+  "source/assets/library/wtc1/fugue-8-bwv-853.midi": {
+    "bytes": 12545,
+    "sha256": "10c4b017c369982ea22cf6ce482a9e27e32f47d9919e4e931822d28982c14b0a"
+  },
+  "source/assets/library/wtc1/fugue-9-bwv-854.midi": {
+    "bytes": 6206,
+    "sha256": "84c723278833b1c518a70fc05787fdd98b9f7c2dcd1418c1b3f5ca36df17e359"
+  },
+  "source/assets/library/wtc1/prelude-1-bwv-846.midi": {
+    "bytes": 4824,
+    "sha256": "12492bd3544d95c7dc56ce8ed700cca11bf3ac3a99c096b157d3a89f42b9dcd3"
+  },
+  "source/assets/library/wtc1/prelude-10-bwv-855.midi": {
+    "bytes": 10297,
+    "sha256": "f792746cc13b9513b7fd6759df52dcb2eead8ce45dd1e2faa0f1b510583c3573"
+  },
+  "source/assets/library/wtc1/prelude-11-bwv-856.midi": {
+    "bytes": 10343,
+    "sha256": "9e9d7711f00c81b19c7a3460edf233583e8311d82c9b909273c538705e2438d6"
+  },
+  "source/assets/library/wtc1/prelude-12-bwv-857.midi": {
+    "bytes": 4748,
+    "sha256": "d896f63e39afc36425d64d90078e63aa6d4d96675e6015a64a73fa8a23ba4e45"
+  },
+  "source/assets/library/wtc1/prelude-13-bwv-858.midi": {
+    "bytes": 3911,
+    "sha256": "b7fca3dc58333a858268740f557134d848a76851d196292998767af4286db3b8"
+  },
+  "source/assets/library/wtc1/prelude-14-bwv-859.midi": {
+    "bytes": 5256,
+    "sha256": "a0dbe3804fe95ff3c82eddd592b2283391d4349a5eb07c638346f07308739764"
+  },
+  "source/assets/library/wtc1/prelude-15-bwv-860.midi": {
+    "bytes": 5218,
+    "sha256": "a693666026c55cdfce0f2d1adf583d457e1fbc264633600688da92e0e63453c4"
+  },
+  "source/assets/library/wtc1/prelude-16-bwv-861.midi": {
+    "bytes": 6637,
+    "sha256": "d63dc5d82a1c759878dae0505fd9af3ea7cde24b2a3f0942a293866135ff72f5"
+  },
+  "source/assets/library/wtc1/prelude-17-bwv-862.midi": {
+    "bytes": 5942,
+    "sha256": "b9e0fd32a2b816b58d214e6faa3c5bb375e4eca3b65c64ceb0ba2dbb94b760b9"
+  },
+  "source/assets/library/wtc1/prelude-18-bwv-863.midi": {
+    "bytes": 4729,
+    "sha256": "453b7aa6e754a0450d1524c49cfd554ede48387936cdb1c46196d138c1280a5a"
+  },
+  "source/assets/library/wtc1/prelude-19-bwv-864.midi": {
+    "bytes": 5222,
+    "sha256": "09bd90489aa557d9d350e4c2236ad729fab51f04006ebc30dc2747fdb9eff69a"
+  },
+  "source/assets/library/wtc1/prelude-2-bwv-847.midi": {
+    "bytes": 9034,
+    "sha256": "01333f74a40b7cfa54dcbe41d22aaf19fe1b88ce818207a4e6916b15d3f6fb10"
+  },
+  "source/assets/library/wtc1/prelude-20-bwv-865.midi": {
+    "bytes": 5298,
+    "sha256": "1d9efb6ca645085d712eed7963ee6b8a92c6a97f0a48be00d73f533f53f42b9b"
+  },
+  "source/assets/library/wtc1/prelude-21-bwv-866.midi": {
+    "bytes": 5368,
+    "sha256": "8594df1e00744cea1730eb960c69553c9ac11b092922473f79ed24b01fa2b266"
+  },
+  "source/assets/library/wtc1/prelude-22-bwv-867.midi": {
+    "bytes": 6607,
+    "sha256": "3a5aea07621b2bec8c86027a612e75859d09ed3459cca1e0689db0fb580edd2e"
+  },
+  "source/assets/library/wtc1/prelude-23-bwv-868.midi": {
+    "bytes": 3600,
+    "sha256": "d40cd1d9dc5b9b8d18a58409f0697fe82e46b60ee8410f7917aa307b0e0207fb"
+  },
+  "source/assets/library/wtc1/prelude-24-bwv-869.midi": {
+    "bytes": 13473,
+    "sha256": "e57d5979f78d679ff61919febcc30cf4bcb4f60e6af5183555700cf2c35848a7"
+  },
+  "source/assets/library/wtc1/prelude-3-bwv-848.midi": {
+    "bytes": 6817,
+    "sha256": "10f17d8c80da13f429410f8cf89483ba40d4da6546b3fee5e8ead5787855e5d4"
+  },
+  "source/assets/library/wtc1/prelude-4-bwv-849.midi": {
+    "bytes": 6398,
+    "sha256": "ad9bf99141ad3c3276fb91a5acda1150c0d869c5bc558a10c1420cccfdd8679e"
+  },
+  "source/assets/library/wtc1/prelude-5-bwv-850.midi": {
+    "bytes": 6145,
+    "sha256": "d62921d4b129a0c856b463e52950cd5122d864164398bb5118e840144a84b724"
+  },
+  "source/assets/library/wtc1/prelude-6-bwv-851.midi": {
+    "bytes": 6633,
+    "sha256": "6f0ac20f8750eefca8990d4b59a522bdf58d6dde078e56662aff0bfdad180503"
+  },
+  "source/assets/library/wtc1/prelude-7-bwv-852.midi": {
+    "bytes": 12017,
+    "sha256": "bbea5cbb79b476b3154a166f221623364ebd57d96259a74140eea35c0b81e09f"
+  },
+  "source/assets/library/wtc1/prelude-8-bwv-853.midi": {
+    "bytes": 7263,
+    "sha256": "b36950c0dd3e4c03177ca95f206582860c8085f4f04fea91958aab3d7914dabd"
+  },
+  "source/assets/library/wtc1/prelude-9-bwv-854.midi": {
+    "bytes": 4014,
+    "sha256": "c9d58c5c1deb930267acc99838783fbef02a0689f27c9065c562f6345eda037d"
+  },
+  "source/assets/library/wtc1/release.json": {
+    "bytes": 140275,
+    "sha256": "d62951fd1cf066dfc94c86d550871e97f0bd1230e8fb4877b10147560b97f069"
+  },
+  "source/assets/library/wtc2/README.md": {
+    "bytes": 2520,
+    "sha256": "d9d637ddd25f7ccabc8f8a5602e8e0f64ab9dc68fb8e09877aa0400bace5f17a"
+  },
+  "source/assets/library/wtc2/edition/README.md": {
+    "bytes": 2520,
+    "sha256": "d9d637ddd25f7ccabc8f8a5602e8e0f64ab9dc68fb8e09877aa0400bace5f17a"
+  },
+  "source/assets/library/wtc2/edition/fugue-1-bwv-870-individual.ly": {
+    "bytes": 286,
+    "sha256": "5d06b7570bb86b22686873144afcf36ffe261c9127899341dec65d9770aa9b84"
+  },
+  "source/assets/library/wtc2/edition/fugue-10-bwv-879-individual.ly": {
+    "bytes": 288,
+    "sha256": "514634632ded4fb52905a21b55e8c38353ecc98c52be1fe38719789423d798cf"
+  },
+  "source/assets/library/wtc2/edition/fugue-11-bwv-880-individual.ly": {
+    "bytes": 294,
+    "sha256": "53dd84f37c7973218bf93917ab2cb6734de84da6d1527ad1d923251750395c74"
+  },
+  "source/assets/library/wtc2/edition/fugue-12-bwv-881-individual.ly": {
+    "bytes": 294,
+    "sha256": "029b798404f5a156bd155b64856e86225eb31b9beb0f08fc7956df2b79813e47"
+  },
+  "source/assets/library/wtc2/edition/fugue-13-bwv-882-individual.ly": {
+    "bytes": 298,
+    "sha256": "675c45a121e99800622b7d9493cfe195562a80fd2b0b745b81890e9370cb2b0e"
+  },
+  "source/assets/library/wtc2/edition/fugue-14-bwv-883-individual.ly": {
+    "bytes": 270,
+    "sha256": "60dc8277fd6f9ae1214c9a87a74a0187ada08c47daba8d245a69dc9ddca6fc98"
+  },
+  "source/assets/library/wtc2/edition/fugue-15-bwv-884-individual.ly": {
+    "bytes": 296,
+    "sha256": "64fabc1967ff989bf824e2e37f084e0e50311e59880f78e7b1780c5904aed623"
+  },
+  "source/assets/library/wtc2/edition/fugue-16-bwv-885-individual.ly": {
+    "bytes": 296,
+    "sha256": "ec8695043defbf330773d79d31fbe16cc77a438573605e28811948d811254f40"
+  },
+  "source/assets/library/wtc2/edition/fugue-17-bwv-886-individual.ly": {
+    "bytes": 300,
+    "sha256": "b9bc09f5fa089119d3b7c7b068fb76325ee236dce2f82390b9c6dd06b777e186"
+  },
+  "source/assets/library/wtc2/edition/fugue-18-bwv-887-individual.ly": {
+    "bytes": 298,
+    "sha256": "b754f07a4d4e038ea671a426a2c26b23258ad9a8e23d6958c4a30fb9a7ac3f3a"
+  },
+  "source/assets/library/wtc2/edition/fugue-19-bwv-888-individual.ly": {
+    "bytes": 298,
+    "sha256": "a3ddad3c38650a3c3c7034f85043ec8443e9e3623607bd276a340344b10589bd"
+  },
+  "source/assets/library/wtc2/edition/fugue-2-bwv-871-individual.ly": {
+    "bytes": 286,
+    "sha256": "c19ccd34c53166c454a08981b9f834b86164c10956e688d044f04a773e66dbc5"
+  },
+  "source/assets/library/wtc2/edition/fugue-20-bwv-889-individual.ly": {
+    "bytes": 294,
+    "sha256": "c698439349c53888dddecfc488476104ea514d49a14cf00481c8c5b736292067"
+  },
+  "source/assets/library/wtc2/edition/fugue-21-bwv-890-individual.ly": {
+    "bytes": 300,
+    "sha256": "977db8a01cf8eca4a42c2838344e214317c2b08893359724077b79dd17d0871d"
+  },
+  "source/assets/library/wtc2/edition/fugue-22-bwv-891-individual.ly": {
+    "bytes": 300,
+    "sha256": "3c99fd022e33362e4182deaeeb6e29ddbbc43cc92c3ef02a58a7ea1c8db16420"
+  },
+  "source/assets/library/wtc2/edition/fugue-23-bwv-892-individual.ly": {
+    "bytes": 304,
+    "sha256": "e69393d06f0b20a40ac94ea395ed41aa613beb1cc7764e4b7e8a08ebd87c07fe"
+  },
+  "source/assets/library/wtc2/edition/fugue-24-bwv-893-individual.ly": {
+    "bytes": 302,
+    "sha256": "0862720c464150d41d3ce1a851be34ac69dbbeeb2cb06cde24083dbcda52c954"
+  },
+  "source/assets/library/wtc2/edition/fugue-3-bwv-872-individual.ly": {
+    "bytes": 290,
+    "sha256": "334ead623ff73c60ad59485818c809006426aea78e37805b3863bcafe3b02f99"
+  },
+  "source/assets/library/wtc2/edition/fugue-4-bwv-873-individual.ly": {
+    "bytes": 288,
+    "sha256": "43d3f680018c30d7de7c48a937ed0d561a808ac8a393b639caa17e7d7681e1c6"
+  },
+  "source/assets/library/wtc2/edition/fugue-5-bwv-874-individual.ly": {
+    "bytes": 288,
+    "sha256": "4b4872ea2f91efe47dbdf8c656c54c12457aa109f50d59ae8c0d5f309de3385b"
+  },
+  "source/assets/library/wtc2/edition/fugue-6-bwv-875-individual.ly": {
+    "bytes": 286,
+    "sha256": "682b976752a3ff8dfbcaf10f8b415d07dcd0a2e97d6c76cb49f3ac9116749e9e"
+  },
+  "source/assets/library/wtc2/edition/fugue-7-bwv-876-individual.ly": {
+    "bytes": 290,
+    "sha256": "b43fcd76312e08db94d296c1816b73d2428db921feda6adf7fcbca6ed381e998"
+  },
+  "source/assets/library/wtc2/edition/fugue-8-bwv-877-individual.ly": {
+    "bytes": 290,
+    "sha256": "3be525f35c66975fd45dd1633cd9b65736a2db6fa28251f658a6d9c6df5c7ece"
+  },
+  "source/assets/library/wtc2/edition/fugue-9-bwv-878-individual.ly": {
+    "bytes": 288,
+    "sha256": "97c098a39d391980868921285b0fcfd14611e216f9a4429095fbe6998b29d1a3"
+  },
+  "source/assets/library/wtc2/edition/includes/fugue-1-bwv-870-parts.ily": {
+    "bytes": 6671,
+    "sha256": "a2e04e41e6b58f80001af5a266f9622aec211ac9955bd82aa6d55caacb70e48e"
+  },
+  "source/assets/library/wtc2/edition/includes/fugue-10-bwv-879-parts.ily": {
+    "bytes": 14299,
+    "sha256": "550113df6a488779b2f94db60de4dc49559b6c58278c20b29eead0bb6d34734c"
+  },
+  "source/assets/library/wtc2/edition/includes/fugue-11-bwv-880-parts.ily": {
+    "bytes": 8477,
+    "sha256": "1a6d1be1e5893a8bfa89b1ba0ba207e32a4c0311d13bcc29064015d79236c128"
+  },
+  "source/assets/library/wtc2/edition/includes/fugue-12-bwv-881-parts.ily": {
+    "bytes": 7679,
+    "sha256": "21f5c4b7215e09b17b68ef11fed647c026bda8e1c4fbb4dc31b44f27837be359"
+  },
+  "source/assets/library/wtc2/edition/includes/fugue-13-bwv-882-parts.ily": {
+    "bytes": 8507,
+    "sha256": "bf27813d615fa819f667281ce375a6df254621ff9f0ab5c578eaf5d60f15a959"
+  },
+  "source/assets/library/wtc2/edition/includes/fugue-14-bwv-883-parts.ily": {
+    "bytes": 9416,
+    "sha256": "b0e7ad0fb252cb915b2b165122f289b55a28ff7829ad018a0a73eb964a082420"
+  },
+  "source/assets/library/wtc2/edition/includes/fugue-15-bwv-884-parts.ily": {
+    "bytes": 6521,
+    "sha256": "0f19a94ae121cbfae2686f3eac323ffe86768f9866145acc57ad9ccfa7aec048"
+  },
+  "source/assets/library/wtc2/edition/includes/fugue-16-bwv-885-parts.ily": {
+    "bytes": 10362,
+    "sha256": "26b337f38afa971667c1b1498ed81719f4d884fc45fb429d90b5112d3162bbbf"
+  },
+  "source/assets/library/wtc2/edition/includes/fugue-17-bwv-886-parts.ily": {
+    "bytes": 8988,
+    "sha256": "2aa4e646316fa8af08a645c520c521e49eadb328342e02a9e32e84e3e32b16b0"
+  },
+  "source/assets/library/wtc2/edition/includes/fugue-18-bwv-887-parts.ily": {
+    "bytes": 12376,
+    "sha256": "64dc520dde81a0909d47ce5cdedead806acd4f953686d6f1c7eec2d4fe846659"
+  },
+  "source/assets/library/wtc2/edition/includes/fugue-19-bwv-888-parts.ily": {
+    "bytes": 5045,
+    "sha256": "b4d6632c1d90b319509fceb3dd8fd4dff1b57982fb8865b0795f05cf33daf77b"
+  },
+  "source/assets/library/wtc2/edition/includes/fugue-2-bwv-871-parts.ily": {
+    "bytes": 5180,
+    "sha256": "58ce1716dc6dce4549e54afd4836a0e523df500636f683dc2b36438def84c631"
+  },
+  "source/assets/library/wtc2/edition/includes/fugue-20-bwv-889-parts.ily": {
+    "bytes": 6464,
+    "sha256": "c3474695dda9109d9d01dbc6ed820c2ad087cba5b24fd1a73c58112d19b4af6c"
+  },
+  "source/assets/library/wtc2/edition/includes/fugue-21-bwv-890-parts.ily": {
+    "bytes": 6791,
+    "sha256": "f3a89267402f2e651e77476dab9b002a15f9e4a4f59fcba1079ba3f30454dc6c"
+  },
+  "source/assets/library/wtc2/edition/includes/fugue-22-bwv-891-parts.ily": {
+    "bytes": 12672,
+    "sha256": "15493073d0bd81b85dba763449cdb4d189ae3f049ea34cc3a182e3d04551793f"
+  },
+  "source/assets/library/wtc2/edition/includes/fugue-23-bwv-892-parts.ily": {
+    "bytes": 11581,
+    "sha256": "31fc87eff2dc925492a5a6b36358fd3480a7105efb11276d64ea0e3c30e2b47d"
+  },
+  "source/assets/library/wtc2/edition/includes/fugue-24-bwv-893-parts.ily": {
+    "bytes": 8172,
+    "sha256": "071fa7e8b4350cfc9e1d15a8afbd0afa0570f69ddc357140c17b8b7b8ee933ac"
+  },
+  "source/assets/library/wtc2/edition/includes/fugue-3-bwv-872-parts.ily": {
+    "bytes": 7626,
+    "sha256": "b2e7a338404924e6d6a7eaa0d8e402f0af598f8aea27df93bc1b228907c8843d"
+  },
+  "source/assets/library/wtc2/edition/includes/fugue-4-bwv-873-parts.ily": {
+    "bytes": 9956,
+    "sha256": "54aaa7f4b184a2cd176deaef96aab6c0044d1f7d20bff3c23e706bf5faa3e518"
+  },
+  "source/assets/library/wtc2/edition/includes/fugue-5-bwv-874-parts.ily": {
+    "bytes": 6393,
+    "sha256": "d69d8111b017c211b916d50de6bd5ceb8773392943af769072efc6af31acf696"
+  },
+  "source/assets/library/wtc2/edition/includes/fugue-6-bwv-875-parts.ily": {
+    "bytes": 5552,
+    "sha256": "34129644808206d19d0113842e9b93bdaa3e2afe6a47a9d869cda7b85c02edac"
+  },
+  "source/assets/library/wtc2/edition/includes/fugue-7-bwv-876-parts.ily": {
+    "bytes": 5892,
+    "sha256": "ccfbd628b147b870536b636e5e90ee439a2017e0be9fba7f43cf4b32b1d5c8f9"
+  },
+  "source/assets/library/wtc2/edition/includes/fugue-8-bwv-877-parts.ily": {
+    "bytes": 9179,
+    "sha256": "c8da92886d5cd6c43a91d08ce7ae9598c0987aaf2c8e4fbb337de3b046b7f884"
+  },
+  "source/assets/library/wtc2/edition/includes/fugue-9-bwv-878-parts.ily": {
+    "bytes": 6040,
+    "sha256": "ce4d9ded366480fde02823ef3a941bb6f5687e42c63dad77c69899f4102d0a41"
+  },
+  "source/assets/library/wtc2/edition/includes/global-variables.ily": {
+    "bytes": 2996,
+    "sha256": "3bb3cfad34ce7356d090e29a066357728e58f54c9b85dacad71fc02776664f1d"
+  },
+  "source/assets/library/wtc2/edition/includes/header-paper.ily": {
+    "bytes": 2073,
+    "sha256": "acbf86945ab38c2db4e497b6513db92b93de1b1a3e8f13dd54bd9bbffe40c986"
+  },
+  "source/assets/library/wtc2/edition/includes/prelude-10-bwv-879-parts.ily": {
+    "bytes": 8236,
+    "sha256": "7214439b324a91332a4b62c62a5d968aaa9e09e0600e35ffe875623ae363d0d4"
+  },
+  "source/assets/library/wtc2/edition/includes/prelude-11-bwv-880-parts.ily": {
+    "bytes": 11906,
+    "sha256": "33cb5288bd07ecf6c97e8730d6e339d4dc46456d5cd82df111628d80bf8a7278"
+  },
+  "source/assets/library/wtc2/edition/includes/prelude-12-bwv-881-parts.ily": {
+    "bytes": 7608,
+    "sha256": "fa301702ac2182b3d385feb27427dfbb6d3e4706aabaee9ce04603f0376b0d75"
+  },
+  "source/assets/library/wtc2/edition/includes/prelude-13-bwv-882-parts.ily": {
+    "bytes": 10590,
+    "sha256": "0facede0e642ffdc73bc80a9e60460996b625631b4396a1c18907e4e81775fd8"
+  },
+  "source/assets/library/wtc2/edition/includes/prelude-14-bwv-883-parts.ily": {
+    "bytes": 6627,
+    "sha256": "d8ccb782c18af25ed9510711a75ef410014f2e730a30236a0703acf23acfe4d7"
+  },
+  "source/assets/library/wtc2/edition/includes/prelude-15-bwv-884-parts.ily": {
+    "bytes": 5419,
+    "sha256": "ce51208c11d0d9645244775d2887b9d8f119033e8b22fb6ea363b60a8d66e4e2"
+  },
+  "source/assets/library/wtc2/edition/includes/prelude-16-bwv-885-parts.ily": {
+    "bytes": 5947,
+    "sha256": "b58eda51e5b2096e641ee1686f5afd53b2371ad390c70c91bac689e540d05a54"
+  },
+  "source/assets/library/wtc2/edition/includes/prelude-17-bwv-886-parts.ily": {
+    "bytes": 12956,
+    "sha256": "6053bb62aa61830712649bd8c866c7088dc1cb0b1f7bbd619af7aa739daa066c"
+  },
+  "source/assets/library/wtc2/edition/includes/prelude-18-bwv-887-parts.ily": {
+    "bytes": 10489,
+    "sha256": "e44f3d756380e1d8212cd5f14ced4c863c6e3336141bf0b2735fb048b1e54218"
+  },
+  "source/assets/library/wtc2/edition/includes/prelude-19-bwv-888-parts.ily": {
+    "bytes": 5166,
+    "sha256": "06faf9eee8a8882b694c94eaa7f9c1e05e46b41e91e5a99f812c1ef408a9187c"
+  },
+  "source/assets/library/wtc2/edition/includes/prelude-1a-bwv-870-parts.ily": {
+    "bytes": 7407,
+    "sha256": "55ec07d96d98355671e16db0e14bc16ce919ad10a4b57ae30936d12f4bf0febf"
+  },
+  "source/assets/library/wtc2/edition/includes/prelude-1b-bwv-870-parts.ily": {
+    "bytes": 7025,
+    "sha256": "da51a753aabc937ae0a1d316f53622c09eb5ec705bca80d3919c60096c1f893e"
+  },
+  "source/assets/library/wtc2/edition/includes/prelude-2-bwv-871-parts.ily": {
+    "bytes": 4537,
+    "sha256": "3c5a20ad28fd8d38a576d6d0557458f3fdaac68bfb415095729922dce4df3e92"
+  },
+  "source/assets/library/wtc2/edition/includes/prelude-20-bwv-889-parts.ily": {
+    "bytes": 4968,
+    "sha256": "a4b363c2a291c52b649d6214bb2c43559803e0121bb0de01fb6c484a1951b03a"
+  },
+  "source/assets/library/wtc2/edition/includes/prelude-21-bwv-890-parts.ily": {
+    "bytes": 13809,
+    "sha256": "fcfed679750a791ae52ff9be8e5ba8c6adefa2d07ae2ee10314758e402b997c5"
+  },
+  "source/assets/library/wtc2/edition/includes/prelude-22-bwv-891-parts.ily": {
+    "bytes": 7697,
+    "sha256": "25d2949e7d89e89d9fae9d220afe126d87977527bb6709d5722378c3afad7d64"
+  },
+  "source/assets/library/wtc2/edition/includes/prelude-23-bwv-892-parts.ily": {
+    "bytes": 7744,
+    "sha256": "7498e090e94c35f8081e358cc9916fb27e187cbc23f1ca8acc6bca6ae6d6d702"
+  },
+  "source/assets/library/wtc2/edition/includes/prelude-24a-bwv-893-parts.ily": {
+    "bytes": 5909,
+    "sha256": "34db6feec1d0988f1d8f3cd22323af5b48f43db3fad8b0f2536533165c6a6e21"
+  },
+  "source/assets/library/wtc2/edition/includes/prelude-24b-bwv-893-parts.ily": {
+    "bytes": 6198,
+    "sha256": "71586e1078458f3799d34f50d1b4340fd1e7c02005eacc3523628d713bb69a1e"
+  },
+  "source/assets/library/wtc2/edition/includes/prelude-3-bwv-872-parts.ily": {
+    "bytes": 7044,
+    "sha256": "be65e182757b4f793d4cc031b10f2c981046daf80deb76409b030427e90b84bb"
+  },
+  "source/assets/library/wtc2/edition/includes/prelude-4-bwv-873-parts.ily": {
+    "bytes": 11586,
+    "sha256": "a4bbc630f9a200c310df5d388a7d496d92e200cb83e5300443bb4ecb631f74cd"
+  },
+  "source/assets/library/wtc2/edition/includes/prelude-5-bwv-874-parts.ily": {
+    "bytes": 13271,
+    "sha256": "6a95efdd191157e9ab29f43a994bc71120ac0898944afe0bf947c0e5ad3abcad"
+  },
+  "source/assets/library/wtc2/edition/includes/prelude-6-bwv-875-parts.ily": {
+    "bytes": 5819,
+    "sha256": "3646d184a75dabea21da2b24dcd91f55de1dceffda9d163ff11aa53849880b5e"
+  },
+  "source/assets/library/wtc2/edition/includes/prelude-7-bwv-876-parts.ily": {
+    "bytes": 8549,
+    "sha256": "69a8fe04911cc3ae06cfb487de051d2af6c804afb701d3506e12004cbac5090b"
+  },
+  "source/assets/library/wtc2/edition/includes/prelude-8-bwv-877-parts.ily": {
+    "bytes": 5915,
+    "sha256": "53736956ad26f47b539e295cdd327d8670716ca1126e0aff8fb9fba2bf7585c7"
+  },
+  "source/assets/library/wtc2/edition/includes/prelude-9-bwv-878-parts.ily": {
+    "bytes": 8232,
+    "sha256": "07e38db0c624447a92be60ff7022eb3f9a28bde6959aa325876ebb53db4cfda7"
+  },
+  "source/assets/library/wtc2/edition/includes/title-page.ily": {
+    "bytes": 447,
+    "sha256": "5e14b93cecad0b8e471ed4d07f1235221cb0b220fb294fe7de4a1c2eb9caef09"
+  },
+  "source/assets/library/wtc2/edition/prelude-10-bwv-879-individual.ly": {
+    "bytes": 268,
+    "sha256": "520993d189850d63d2fc48a221a23dcec9cd3fbf494792dba804cc110aed5dd5"
+  },
+  "source/assets/library/wtc2/edition/prelude-11-bwv-880-individual.ly": {
+    "bytes": 274,
+    "sha256": "b2879fa4f7d93e189246a0cc8cef71959dce0d11d2afc01ab32f76735911db5b"
+  },
+  "source/assets/library/wtc2/edition/prelude-12-bwv-881-individual.ly": {
+    "bytes": 274,
+    "sha256": "605588f4fc1d0504982eb743941c303e93db31e388a552d1f8a6c8519b7fed52"
+  },
+  "source/assets/library/wtc2/edition/prelude-13-bwv-882-individual.ly": {
+    "bytes": 278,
+    "sha256": "3edee4ef83db8fbb499db05a909f7c84999889b6f1d386aa32f1006226c09fe1"
+  },
+  "source/assets/library/wtc2/edition/prelude-14-bwv-883-individual.ly": {
+    "bytes": 278,
+    "sha256": "86332615209c961255b1e450541b26de388d9d9120fc55f409a15a303fc68a67"
+  },
+  "source/assets/library/wtc2/edition/prelude-15-bwv-884-individual.ly": {
+    "bytes": 276,
+    "sha256": "4b9baf3b719364451813b8459f34e400c2a54c4a85ca30b15431f73d20633da5"
+  },
+  "source/assets/library/wtc2/edition/prelude-16-bwv-885-individual.ly": {
+    "bytes": 276,
+    "sha256": "349a75575d9b49dc9e3e0b57cb577258e3082aea9a00b161c2077abd9b8c68af"
+  },
+  "source/assets/library/wtc2/edition/prelude-17-bwv-886-individual.ly": {
+    "bytes": 280,
+    "sha256": "39558e2dedb0945e4fe2dfcbc00290a01481e3d193ead32475c17d78a2edd98a"
+  },
+  "source/assets/library/wtc2/edition/prelude-18-bwv-887-individual.ly": {
+    "bytes": 278,
+    "sha256": "638b591b2a0c23f8043fcb05dac521643315a45773f4eb9588f624e55d758a4c"
+  },
+  "source/assets/library/wtc2/edition/prelude-19-bwv-888-individual.ly": {
+    "bytes": 278,
+    "sha256": "1c842ad92f03171bbf90d165889cf6bcbc49f5f43eb6d58d986c8f4ce8533477"
+  },
+  "source/assets/library/wtc2/edition/prelude-1a-bwv-870-individual.ly": {
+    "bytes": 327,
+    "sha256": "8f179c7c50ce8fb2e33b2aa1f39e83ba6257823b711d68f2243b7850f0a57d52"
+  },
+  "source/assets/library/wtc2/edition/prelude-1b-bwv-870-individual.ly": {
+    "bytes": 309,
+    "sha256": "ba7d17ce226aededa0d72136f403a9f4a6572f02da42084db9d911345dc664e6"
+  },
+  "source/assets/library/wtc2/edition/prelude-2-bwv-871-individual.ly": {
+    "bytes": 266,
+    "sha256": "b633f5e1ecc3a89f0a6fc955bbd4be685e34fefcd1b81f5510c546c5e7ed507c"
+  },
+  "source/assets/library/wtc2/edition/prelude-20-bwv-889-individual.ly": {
+    "bytes": 274,
+    "sha256": "1104e30354c723bf6c8b490249cdd24d2a7898679853364068629b92fd19ed27"
+  },
+  "source/assets/library/wtc2/edition/prelude-21-bwv-890-individual.ly": {
+    "bytes": 280,
+    "sha256": "09bcfecec514547d3cb080ef5376381724982e168f3a7508539a930d8caa9da0"
+  },
+  "source/assets/library/wtc2/edition/prelude-22-bwv-891-individual.ly": {
+    "bytes": 280,
+    "sha256": "26871131c3c849bacbf46538211d6037f52c8604af71046237ad1832196719bc"
+  },
+  "source/assets/library/wtc2/edition/prelude-23-bwv-892-individual.ly": {
+    "bytes": 284,
+    "sha256": "de04a3dc8288284f7cbaf5807490aa8e5877c5d21d50da3533e59c0868453326"
+  },
+  "source/assets/library/wtc2/edition/prelude-24a-bwv-893-individual.ly": {
+    "bytes": 343,
+    "sha256": "e4e4d26fc516333525f9f39cdbf1576b44ee7ac8e9d56ad2197924da61a35068"
+  },
+  "source/assets/library/wtc2/edition/prelude-24b-bwv-893-individual.ly": {
+    "bytes": 325,
+    "sha256": "302b9fb8a59133c95c4e5a7f05ccea27915d23114cd0de341faef85f9d5ca983"
+  },
+  "source/assets/library/wtc2/edition/prelude-3-bwv-872-individual.ly": {
+    "bytes": 270,
+    "sha256": "9b9d8b07c5acd7db0b60d297d79a225246837d7f184b44766d117147afc9ce3e"
+  },
+  "source/assets/library/wtc2/edition/prelude-4-bwv-873-individual.ly": {
+    "bytes": 268,
+    "sha256": "82ccf297d033f3ea10526b8d03c7eed67af40c1596b7a436936771d949538d6c"
+  },
+  "source/assets/library/wtc2/edition/prelude-5-bwv-874-individual.ly": {
+    "bytes": 268,
+    "sha256": "619f8b84d365aa11176e43b174449a8460f04382ff676339bf19cfbafc80363c"
+  },
+  "source/assets/library/wtc2/edition/prelude-6-bwv-875-individual.ly": {
+    "bytes": 267,
+    "sha256": "2040fa9c4542108e7662e5db5d8df01efd06a2dd26d8fe691d35cc3375f9f8fd"
+  },
+  "source/assets/library/wtc2/edition/prelude-7-bwv-876-individual.ly": {
+    "bytes": 270,
+    "sha256": "1b295046101ab6d1bdb9cf7049253defa66d000cc9058b9bbed7e604c132a867"
+  },
+  "source/assets/library/wtc2/edition/prelude-8-bwv-877-individual.ly": {
+    "bytes": 270,
+    "sha256": "b7d3db6d72e37b6a39afa90824702382d07d6b49d4cd38e4f9c2196e820214b9"
+  },
+  "source/assets/library/wtc2/edition/prelude-9-bwv-878-individual.ly": {
+    "bytes": 268,
+    "sha256": "f6c996267b6659656e821f33fd867633a64fb729a89b7b32419f9e6c921fdda6"
+  },
+  "source/assets/library/wtc2/edition/well-tempered-clavier-II-book.ly": {
+    "bytes": 6503,
+    "sha256": "b638e157c98242536e48f20d1b02a5d2a038855ad6173533580dcd45c975ce9b"
+  },
+  "source/assets/library/wtc2/fugue-1-bwv-870.midi": {
+    "bytes": 8749,
+    "sha256": "8a7e7e18f48e7b90c620ee1463e729ce4867afc6feb952dd782af4115d7ed8db"
+  },
+  "source/assets/library/wtc2/fugue-10-bwv-879.midi": {
+    "bytes": 12198,
+    "sha256": "5b84a1a9fcd8b2fb47baf29752b24202f5a0a6f20a40defd9500db87c9d44b33"
+  },
+  "source/assets/library/wtc2/fugue-11-bwv-880.midi": {
+    "bytes": 8073,
+    "sha256": "05413bc42a9afb05ab8ef8a3fa9d1564eac1c5f9926e35127754919b269d2a2d"
+  },
+  "source/assets/library/wtc2/fugue-12-bwv-881.midi": {
+    "bytes": 9409,
+    "sha256": "cfdb4f995b5cf259fc8eeb6648006d78d65a49974835c42e9d0bf82b8633fb39"
+  },
+  "source/assets/library/wtc2/fugue-13-bwv-882.midi": {
+    "bytes": 10634,
+    "sha256": "b1394a7b6e7df4c79eaaf0a58146fa494e01545ecef405a1eaaec312d0a31129"
+  },
+  "source/assets/library/wtc2/fugue-14-bwv-883.midi": {
+    "bytes": 12869,
+    "sha256": "d03c49423f3c18a5a8aa17ab33e11e122741094985205981d11c0d33fbe775be"
+  },
+  "source/assets/library/wtc2/fugue-15-bwv-884.midi": {
+    "bytes": 6709,
+    "sha256": "56afe73f69a48a4fe6f3007023043fa0e281bbf3233881b83ca6cfc318c5f51e"
+  },
+  "source/assets/library/wtc2/fugue-16-bwv-885.midi": {
+    "bytes": 13792,
+    "sha256": "eb500e7b49811fabcebcbbfdfbe2da0cf503c34a487c278d73283be1b5d0d7ec"
+  },
+  "source/assets/library/wtc2/fugue-17-bwv-886.midi": {
+    "bytes": 11321,
+    "sha256": "289d1de8759ee8b6810a3bce0f996b67971520ac046ccabdc280df677f4ae2b9"
+  },
+  "source/assets/library/wtc2/fugue-18-bwv-887.midi": {
+    "bytes": 13699,
+    "sha256": "293161a903dbbb48c94d2d33c16b142303f0060131a2066ea199fffeec408a7c"
+  },
+  "source/assets/library/wtc2/fugue-19-bwv-888.midi": {
+    "bytes": 6334,
+    "sha256": "7e4706ad53139e015f4b312b24b9e7c7b0e4f69a7fe18d54a89482399eb2fdff"
+  },
+  "source/assets/library/wtc2/fugue-2-bwv-871.midi": {
+    "bytes": 5667,
+    "sha256": "859caebcfe5957dc1cd86964e46ce373a53f11fe00f2d82a991a42417f389a32"
+  },
+  "source/assets/library/wtc2/fugue-20-bwv-889.midi": {
+    "bytes": 7850,
+    "sha256": "d88efa0e6eba4317dc0cd64a7d43295c236fd39c1b5133797ce68695956dc8d1"
+  },
+  "source/assets/library/wtc2/fugue-21-bwv-890.midi": {
+    "bytes": 8726,
+    "sha256": "e150f27a6e8e7025752dae172d6f8c7bb54d3bd0fe0471c55d613053c59db161"
+  },
+  "source/assets/library/wtc2/fugue-22-bwv-891.midi": {
+    "bytes": 15652,
+    "sha256": "a5977a6918eda57764207b3514dc3e9e9850ad1c52661f47e4573fe0a9a85924"
+  },
+  "source/assets/library/wtc2/fugue-23-bwv-892.midi": {
+    "bytes": 11752,
+    "sha256": "251800aabd8332a1061b4e6de2eb6c028cb93f892d4a3de7bb7288a55f564344"
+  },
+  "source/assets/library/wtc2/fugue-24-bwv-893.midi": {
+    "bytes": 9156,
+    "sha256": "d38a60ca72d5e34fd747702c5aa5c70fb4f0e66dcdf69ee9f444522b8a295ba9"
+  },
+  "source/assets/library/wtc2/fugue-3-bwv-872.midi": {
+    "bytes": 6994,
+    "sha256": "7e6c038630afd038d647223f126c918e45580c9a7f8c29dc2526ad7b5bdb21e4"
+  },
+  "source/assets/library/wtc2/fugue-4-bwv-873.midi": {
+    "bytes": 11286,
+    "sha256": "fd73db36345796d5332ce5363fa111e7a005eda24047729549be85bbc988333b"
+  },
+  "source/assets/library/wtc2/fugue-5-bwv-874.midi": {
+    "bytes": 7770,
+    "sha256": "d654d266cf2bac5661cb76a619535c7e9ae27bb8c850480552b53f4ce37a9696"
+  },
+  "source/assets/library/wtc2/fugue-6-bwv-875.midi": {
+    "bytes": 6778,
+    "sha256": "449763a6e0f24a8d0911d87776421bb00581503ee6b3d3f6c453377041cdad9a"
+  },
+  "source/assets/library/wtc2/fugue-7-bwv-876.midi": {
+    "bytes": 6340,
+    "sha256": "14b519d1b457230604ca062fb449c4c6020b79a62339fd93208b81785474dcb5"
+  },
+  "source/assets/library/wtc2/fugue-8-bwv-877.midi": {
+    "bytes": 8705,
+    "sha256": "ce4cca672ffeca322d2cadb131f5b7ba83b3e338858479fbf1500496f2b76dc1"
+  },
+  "source/assets/library/wtc2/fugue-9-bwv-878.midi": {
+    "bytes": 6728,
+    "sha256": "108fa62a3ade382f4070029d421b2fe31bd559e358ad293ff50639d74584f695"
+  },
+  "source/assets/library/wtc2/prelude-10-bwv-879.midi": {
+    "bytes": 16388,
+    "sha256": "6ba54f364d12c232a43bc6c3b07a60e4782200e1199029ccfcc443c0686b7b21"
+  },
+  "source/assets/library/wtc2/prelude-11-bwv-880.midi": {
+    "bytes": 11431,
+    "sha256": "7d85a064aefa3e6a45f40c4359684842bad56358262101aea48e46c425ed63f6"
+  },
+  "source/assets/library/wtc2/prelude-12-bwv-881.midi": {
+    "bytes": 12675,
+    "sha256": "68a790a5769d82ec5d140d711263e8aee1d0d0474be577ce8cdbaffb0156723a"
+  },
+  "source/assets/library/wtc2/prelude-13-bwv-882.midi": {
+    "bytes": 12407,
+    "sha256": "633133e16199d287e1f64d7a5c55742cd343a6bb9b1f5a837a99560a8d4261d9"
+  },
+  "source/assets/library/wtc2/prelude-14-bwv-883.midi": {
+    "bytes": 7581,
+    "sha256": "1ab1856f7e36fb6770c4a4682f2d6829bbdcb06252dc4da63a2cfd2bab6f8c1a"
+  },
+  "source/assets/library/wtc2/prelude-15-bwv-884.midi": {
+    "bytes": 15143,
+    "sha256": "d19b81966324b280a2f73b53a8e111b7fc9ec5b7b7840d789dba5eda91e14159"
+  },
+  "source/assets/library/wtc2/prelude-16-bwv-885.midi": {
+    "bytes": 4427,
+    "sha256": "e2fa2dd0f1d2165985838579a452a80c753dbe93ec9c412a902fd2a98f42d68a"
+  },
+  "source/assets/library/wtc2/prelude-17-bwv-886.midi": {
+    "bytes": 13022,
+    "sha256": "b5087c19a9c5e110eb854630fab4ea83e5176cbb878cff3d7d37b82024ad1707"
+  },
+  "source/assets/library/wtc2/prelude-18-bwv-887.midi": {
+    "bytes": 21897,
+    "sha256": "23dfa8fa6febc2554064c11b561bb15c1dca672f41f808a0595cef4304a41938"
+  },
+  "source/assets/library/wtc2/prelude-19-bwv-888.midi": {
+    "bytes": 6324,
+    "sha256": "85f1ac2d508ddb508acf778eaed231ca27d2cca5945e652de6ccf4ea05f3a641"
+  },
+  "source/assets/library/wtc2/prelude-1a-bwv-870.midi": {
+    "bytes": 6981,
+    "sha256": "005f46083a15040497a76b9906170402a5fd627fdf51862a8942b164646ee83a"
+  },
+  "source/assets/library/wtc2/prelude-1b-bwv-870.midi": {
+    "bytes": 6806,
+    "sha256": "d9c0e9352f3fa36a7c9991f30d4b6e1414a85b71fc411fa6184d3284f2409208"
+  },
+  "source/assets/library/wtc2/prelude-2-bwv-871.midi": {
+    "bytes": 11799,
+    "sha256": "1814fa35a94c0376f36d4170f3e161dd55065ef87d5bb79d8a4181146071c553"
+  },
+  "source/assets/library/wtc2/prelude-20-bwv-889.midi": {
+    "bytes": 13562,
+    "sha256": "909c39d14df2a54b20752feefe601bd8344089f8606b4065d443ccfe3448d21c"
+  },
+  "source/assets/library/wtc2/prelude-21-bwv-890.midi": {
+    "bytes": 28861,
+    "sha256": "498214c1968adf3c0b663ad9ce2c9dc7b4b826c77f26851feea23c2c6fd7409f"
+  },
+  "source/assets/library/wtc2/prelude-22-bwv-891.midi": {
+    "bytes": 10677,
+    "sha256": "c51efdc187029e4706ef3b8973b01f314f793f2b97015fe1ed48f018f916980a"
+  },
+  "source/assets/library/wtc2/prelude-23-bwv-892.midi": {
+    "bytes": 9527,
+    "sha256": "174863f0d8a2705105298cdab9f87cc618b22e69c4f66676af1182f55f87e65f"
+  },
+  "source/assets/library/wtc2/prelude-24a-bwv-893.midi": {
+    "bytes": 7568,
+    "sha256": "3d8e6452afbe0fe1b650fac0981c01b6dc25558febf6738bf064a6c25e8b5868"
+  },
+  "source/assets/library/wtc2/prelude-24b-bwv-893.midi": {
+    "bytes": 7985,
+    "sha256": "732c5b877e53ca7b938832f88f96639203f847e4d15f89a19030aafec3a96916"
+  },
+  "source/assets/library/wtc2/prelude-3-bwv-872.midi": {
+    "bytes": 6941,
+    "sha256": "e44a5257b97626c2f9b4c303f43e963997113813c64e9cd8e64a0b7a06856180"
+  },
+  "source/assets/library/wtc2/prelude-4-bwv-873.midi": {
+    "bytes": 12077,
+    "sha256": "a47edf72bc601a3173ee214f9a0619ab4fb03138612fcdc0138991959b7387a4"
+  },
+  "source/assets/library/wtc2/prelude-5-bwv-874.midi": {
+    "bytes": 25444,
+    "sha256": "8a3d581fb0083be1d2977536fbf3adb6afc29b91cf807e4d774c3f09a87c0ff8"
+  },
+  "source/assets/library/wtc2/prelude-6-bwv-875.midi": {
+    "bytes": 9246,
+    "sha256": "b3e0ffc208d3bd4d190b360c43310a3d1cee5f2dad1d0db9d87cd43e379694b9"
+  },
+  "source/assets/library/wtc2/prelude-7-bwv-876.midi": {
+    "bytes": 8477,
+    "sha256": "f50389f25d293f568e18ecf16df2f3e6c1f594e9315f595ad30f6d2d13a74d8e"
+  },
+  "source/assets/library/wtc2/prelude-8-bwv-877.midi": {
+    "bytes": 16467,
+    "sha256": "b6b5b1fae7d5c77af16a45b48a4830ff939b10d38130e5d46465fe4f514fdb31"
+  },
+  "source/assets/library/wtc2/prelude-9-bwv-878.midi": {
+    "bytes": 15397,
+    "sha256": "1abd735aa4effa89af2d82199c6f004c7bf4e6f2617f2a142637c1e54cba5b01"
+  },
+  "source/assets/library/wtc2/release.json": {
+    "bytes": 145995,
+    "sha256": "94670bf7192bbf7425d25503eda8a70711ae92bde98ab66df6c7af8eddb03e02"
+  },
+  "source/assets/library.json": {
+    "bytes": 3832321,
+    "sha256": "0c525a231a50b5797979d2550114608c410ecf33b0db302a232726f5a4b9fa4f"
+  },
+  "source/assets/score.json": {
+    "bytes": 33077,
+    "sha256": "4fe3d77c9ff2cc844718643acbb791bf81b8dce1d61f3ebe39d06fd92779c4ef"
+  },
+  "source/assets/sources.json": {
+    "bytes": 808,
+    "sha256": "e3005b6d1aa0a0774dd09afad2428109760a2a930fd50ef1bff21384d18eb8d8"
+  },
+  "source/assets/support/alipay.jpg": {
+    "bytes": 129908,
+    "sha256": "3309422ebe474d8016843c2d8c9b1592aa73d1f5a21f072c44a9675f19c87dd8"
+  },
+  "source/assets/support/sources.json": {
+    "bytes": 657,
+    "sha256": "c57be8ee9712ea0e81813d318b7659e251010bc04b38f7d761aec80f302ee414"
+  },
+  "source/assets/support/wechat.png": {
+    "bytes": 109535,
+    "sha256": "0e029b6f7dfb7215e444dd69599fdb9b6b0aece4a6ad1c5fb1b29075d64da4e8"
+  },
+  "source/assets/three.min.js": {
+    "bytes": 669884,
+    "sha256": "170c6789f43217c96b3170f4b42fafe135de7f7cd48497a4218f9757ee1d49fa"
+  },
+  "source/audio.js": {
+    "bytes": 9458,
+    "sha256": "b15b5957a17811cccfdc639ff660fd031ea8870ddd2f78b45af77d7c49584c4a"
+  },
+  "source/build.py": {
+    "bytes": 2659,
+    "sha256": "2bcdf4478b6307bbb32c3785e15f4e59ed1aa7e0bf18ad7e689c3d65e9976ada"
+  },
+  "source/collect_art_pairs.py": {
+    "bytes": 1939,
+    "sha256": "64d4d4b0e5d4683969a80303122c4eade0f33ba283497009f82ee00daf082c16"
+  },
+  "source/collect_library.py": {
+    "bytes": 3823,
+    "sha256": "3dd9c5d4f9836aebd5e33ec3dad7d3507fd987de3992afa934e927b0bdc11820"
+  },
+  "source/collect_wtc.py": {
+    "bytes": 2771,
+    "sha256": "d59961810049c59633553e0e9f532d1e04a9b190b0fca622a075b925583c5dc6"
+  },
+  "source/convert_midi.py": {
+    "bytes": 5606,
+    "sha256": "1304684f44a02f4b2f1f932935c7bff9b06c5a6e508c80ec0928229b7efb29df"
+  },
+  "source/finalize_v2.py": {
+    "bytes": 9450,
+    "sha256": "97dd3be885b408e4f5d927758a513dde0624bec2fee6e8534d6a32ffbf95991c"
+  },
+  "source/index.template.html": {
+    "bytes": 14797,
+    "sha256": "7f209933335720c3f05278b42f20d35f8ee3ace2e3fd11582c67866873ab3672"
+  },
+  "source/make_library.py": {
+    "bytes": 12823,
+    "sha256": "db27745da6c4d758ededad0f6c977a50ce6a873d64c1fab33bf773ef05325fb9"
+  },
+  "source/prepare.py": {
+    "bytes": 1385,
+    "sha256": "136b85813494a7ef21a827bd3a6d6bc3b69db3b8cf4a653d0900dde86f6e6108"
+  },
+  "source/research/art-pairs.json": {
+    "bytes": 3909,
+    "sha256": "e0cf5f7b4eb69c94c01b77f5a7cc3bfba269b37743dc53a940a047670454c706"
+  },
+  "source/research/library-summary.json": {
+    "bytes": 15228,
+    "sha256": "1003920c70fd0e537b3ef9541b233ff60a160601ed1a7ea6638d677f39b42494"
+  },
+  "source/research/mutopia-library.json": {
+    "bytes": 94270,
+    "sha256": "9fe0e816446b9fc78e2df3b05cae0e2703463296330cac773c075262c02b29a7"
+  },
+  "source/research/wtc-library.json": {
+    "bytes": 44598,
+    "sha256": "6ede6750f25299d3576d62c5ffe83f2523f8952b32094c629ad43d174635310c"
+  },
+  "source/scene.js": {
+    "bytes": 8856,
+    "sha256": "3b130c169712038b2914e3b090be42404586cfeb7f6fa2bd2558d18e0a883556"
+  },
+  "source/study.css": {
+    "bytes": 5957,
+    "sha256": "21e4049c864d318fbf2a837a30c38fdaa366093bba204623a8a844f6df902bf1"
+  },
+  "source/study.js": {
+    "bytes": 16047,
+    "sha256": "8dfdcbf6057a31ab6bf106488dedc6d50a8c97925de4518ea5062655ba0cb4f4"
+  },
+  "source/style.css": {
+    "bytes": 11950,
+    "sha256": "c5c4aa022c16ccd888df203eae5d9eeac70f1b06ebaf12044465b65b76eda916"
+  },
+  "source/support.js": {
+    "bytes": 1504,
+    "sha256": "6a6999473d433b826f5da30c5155870e6c2ab5011354ff8141364efae0fd0cd5"
+  },
+  "verification/README.md": {
+    "bytes": 2973,
+    "sha256": "2a088906442658f4dde1547581613465a22d780487331fc94306a4fe580228ab"
+  },
+  "verification/browser-fallback.png": {
+    "bytes": 209477,
+    "sha256": "7ec76d42f6a627c7afeaeec685005c43fe93df1758b8df659f86f64c30361dc2"
+  },
+  "verification/browser-report.json": {
+    "bytes": 1777,
+    "sha256": "cf27b31ce7ca5bfc22799227fcaae3b145aee5d3c8f84473be8616302fd11879"
+  },
+  "verification/counterpoint-desktop.png": {
+    "bytes": 156465,
+    "sha256": "5d2509e2bb91da3e86505afa8dbb52719cd4b024bdcb18216da276d0cce3cddc"
+  },
+  "verification/counterpoint-mobile.png": {
+    "bytes": 197466,
+    "sha256": "8c3bc81b00547a1d593f5f43f29b530acc04b136defafdba5147d01bd8610dd1"
+  },
+  "verification/counterpoint-small.png": {
+    "bytes": 197862,
+    "sha256": "15145bfb9e591b373fcd96b584375c2adb4b16ce47a9d3b6eb008bca554eca28"
+  },
+  "verification/design-evidence.json": {
+    "bytes": 3536,
+    "sha256": "4d4dbced6d96c45dbc8c401776a497dee174323442a83efb73c7f8b47f3d6f4a"
+  },
+  "verification/desktop.png": {
+    "bytes": 203061,
+    "sha256": "9372ae6838fbeac14b3d43e71ef0a95556d57e42a58250c2e1392600773e8fad"
+  },
+  "verification/extension-evidence.json": {
+    "bytes": 3693,
+    "sha256": "d454769de1386f6d1e302da4fbbc039b029a57c9430afc0faae78ccb9486e4bb"
+  },
+  "verification/library-desktop.png": {
+    "bytes": 249921,
+    "sha256": "c57ac6866e2f405cdd0a73f8f7a138e96b0ab22ee948b478a4891dff932bb8f8"
+  },
+  "verification/library-report.json": {
+    "bytes": 792,
+    "sha256": "63d4916d07ca65af65f76113341d44e56044adb86846fe54a8697c87f241a352"
+  },
+  "verification/mobile.png": {
+    "bytes": 158965,
+    "sha256": "0dbec460191c0ea3ebe51db93c1127e96d71050ee40f304ed788f63f7b2bd9cb"
+  },
+  "verification/pages-desktop.png": {
+    "bytes": 75548,
+    "sha256": "249dc396ea134d64f6ebf15367fc382a90067473d4937ac34f1698c1cbb275f7"
+  },
+  "verification/pages-mobile.png": {
+    "bytes": 40858,
+    "sha256": "764e0266924e5aa5cd0bdc9332a9c5db6f3df988542aba30f28eb88c9adf33cb"
+  },
+  "verification/playing.png": {
+    "bytes": 203245,
+    "sha256": "95fe45fd4d37233fd61f0ba6a129761e4a3e28204ab8d6a5701d01bec7e0d23f"
+  },
+  "verification/public-browser-report.json": {
+    "bytes": 905,
+    "sha256": "0e66ea6951d4583e7360b2df40969cb8f3a38c31e503508f6510bf4121a3cc17"
+  },
+  "verification/score-report.json": {
+    "bytes": 765,
+    "sha256": "442688d0f65b7ff95f7db5497e2091961effc85913b4c94ce03086b43b10918f"
+  },
+  "verification/scripts/check.cjs": {
+    "bytes": 9439,
+    "sha256": "096b1f14d047590c0d731a237220d15ca4e9f37c8944f340c0ab3f2cc74f1933"
+  },
+  "verification/scripts/fontconfig.conf": {
+    "bytes": 150,
+    "sha256": "5d54311d494ed51351fcf62ad36fedf48f11fe46a2abc26e62b3cc44591a0656"
+  },
+  "verification/scripts/library-check.cjs": {
+    "bytes": 2842,
+    "sha256": "496ab6a1cac07af04415573a8eee2b109b3a6c82b10081c72b62927838fcdabe"
+  },
+  "verification/scripts/package-lock.json": {
+    "bytes": 2434,
+    "sha256": "88c4be892c833b33e5df6c21fde36ef011d106b6a5171d4a5cd675722684373a"
+  },
+  "verification/scripts/package.json": {
+    "bytes": 87,
+    "sha256": "4c2f2d64920c64155ca0dfd6d0710694e8c2fe43fc8683829b394d6c682e5c7a"
+  },
+  "verification/scripts/score-check.cjs": {
+    "bytes": 1876,
+    "sha256": "84109e0139a3cd9b4740f551764493d22bdf4d17a48e77088f95069ca1699eab"
+  },
+  "verification/scripts/study-check.cjs": {
+    "bytes": 7043,
+    "sha256": "f071ee287b7cbe052730abe7040b000795a228c2713e53a749d393944230450c"
+  },
+  "verification/small-mobile.png": {
+    "bytes": 160368,
+    "sha256": "88bc05c33abb7d21ef468c8d83bf5e63cbcfa65a2ba6de0340a119a0cc71fbeb"
+  },
+  "verification/study-report.json": {
+    "bytes": 836,
+    "sha256": "9bb3e9ea5fa784fb450f152dd9d13d488d0f1b016ec481b30de932375194eb75"
+  },
+  "verification/support-mobile.png": {
+    "bytes": 93968,
+    "sha256": "ea6265beef0111dddebdf41c0810183c05983b81d5b3239720daa93d37c5bb7c"
+  }
+}

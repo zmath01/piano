@@ -1,0 +1,456 @@
+{
+  "research_date": "2026-11-03",
+  "question": "Open-source piano apps usable on Android with MuseScore scores",
+  "scope": "Native Android apps with published packages; compatibility through documented MIDI/MusicXML interchange. Nearby projects screened separately.",
+  "method": "Official documentation, public GitHub source/build/release metadata and F-Droid listings. No APK installation or execution.",
+  "evidence_boundaries": [
+    "Recommendations are inferences from documented capabilities.",
+    "Current source minimum SDK does not independently verify a released APK's manifest.",
+    "No direct native MSCZ-import piano app satisfying all criteria was confirmed; search is not exhaustive.",
+    "Source-repository pushed_at is activity metadata, not evidence of substantive maintenance."
+  ],
+  "sources": [
+    {
+      "checked_on": "2026-11-03",
+      "id": "musescore_repo",
+      "url": "https://github.com/musescore/MuseScore/blob/main/README.md",
+      "kind": "project documentation",
+      "supports": [
+        "Studio is open source and provides MIDI/MusicXML interchange."
+      ]
+    },
+    {
+      "checked_on": "2026-11-03",
+      "id": "musescore_export",
+      "url": "https://handbook.musescore.org/file-management/file-export",
+      "kind": "official handbook",
+      "supports": [
+        "Export procedure, MIDI formatting loss, repeat expansion and MusicXML."
+      ]
+    },
+    {
+      "checked_on": "2026-11-03",
+      "id": "musescore_musicxml",
+      "url": "https://handbook.musescore.org/file-management/working-with-musicxml-files",
+      "kind": "official handbook",
+      "supports": [
+        "MusicXML interchange may require layout cleanup."
+      ]
+    },
+    {
+      "checked_on": "2026-11-03",
+      "id": "sunpiano_fdroid",
+      "url": "https://f-droid.org/en/packages/code.alimiracle.sunpiano/",
+      "kind": "F-Droid package listing",
+      "supports": [
+        "MIDI interchange, license, Android requirements and package availability."
+      ]
+    },
+    {
+      "checked_on": "2026-11-03",
+      "id": "sunpiano_source",
+      "url": "https://codeberg.org/alimiracle/sun-piano",
+      "kind": "source repository",
+      "verification": "Linked from F-Droid; direct browser retrieval failed. Source code was not inspected."
+    },
+    {
+      "checked_on": "2026-11-03",
+      "id": "pianoish_readme",
+      "url": "https://github.com/m-movahedi/Piano-ish/blob/main/README.md",
+      "kind": "project documentation",
+      "supports": [
+        "MIDI import, practice modes, USB/Bluetooth MIDI, local storage."
+      ]
+    },
+    {
+      "checked_on": "2026-11-03",
+      "id": "pianoish_license",
+      "url": "https://github.com/m-movahedi/Piano-ish/blob/main/LICENSE",
+      "kind": "license file",
+      "supports": [
+        "MIT license."
+      ]
+    },
+    {
+      "checked_on": "2026-11-03",
+      "id": "pianoish_release",
+      "url": "https://api.github.com/repos/m-movahedi/Piano-ish/releases?per_page=3",
+      "kind": "GitHub release metadata",
+      "supports": [
+        "APK name, size, date and beta-tag/false-prerelease-flag distinction."
+      ]
+    },
+    {
+      "checked_on": "2026-11-03",
+      "id": "pianoish_android",
+      "url": "https://github.com/m-movahedi/Piano-ish/blob/main/android/app/build.gradle.kts",
+      "kind": "build configuration",
+      "supports": [
+        "Minimum SDK delegates to Flutter; numeric floor not established."
+      ]
+    },
+    {
+      "checked_on": "2026-11-03",
+      "id": "midisheet_readme",
+      "url": "https://github.com/drakarah/MidiSheetMusic-Android/blob/master/README.md",
+      "kind": "project documentation",
+      "supports": [
+        "MIDI playback, synchronized notation, USB MIDI and GPL-2.0-only declaration."
+      ]
+    },
+    {
+      "checked_on": "2026-11-03",
+      "id": "midisheet_android",
+      "url": "https://github.com/drakarah/MidiSheetMusic-Android/blob/master/app/build.gradle",
+      "kind": "build configuration",
+      "supports": [
+        "minSdk 30 and versionName 3.0."
+      ]
+    },
+    {
+      "checked_on": "2026-11-03",
+      "id": "midisheet_release",
+      "url": "https://api.github.com/repos/drakarah/MidiSheetMusic-Android/releases?per_page=2",
+      "kind": "GitHub release metadata",
+      "supports": [
+        "v3.0 Android APK release, date and size."
+      ]
+    },
+    {
+      "checked_on": "2026-11-03",
+      "id": "pianosync_repo",
+      "url": "https://github.com/clquwu/PianoSync",
+      "kind": "repository metadata",
+      "supports": [
+        "Android MIDI visualization project; default branch dev-android; GPL v3 license metadata."
+      ]
+    },
+    {
+      "checked_on": "2026-11-03",
+      "id": "pianosync_readme",
+      "url": "https://github.com/clquwu/PianoSync/blob/dev-android/README.md",
+      "kind": "project documentation",
+      "supports": [
+        "Source/build instructions and Google Play link."
+      ]
+    },
+    {
+      "checked_on": "2026-11-03",
+      "id": "pianosync_license",
+      "url": "https://github.com/clquwu/PianoSync/blob/dev-android/LICENSE",
+      "kind": "license file",
+      "supports": [
+        "GPL version 3 license text."
+      ]
+    },
+    {
+      "checked_on": "2026-11-03",
+      "id": "pianosync_tree",
+      "url": "https://api.github.com/repos/clquwu/PianoSync/git/trees/dev-android?recursive=1",
+      "kind": "source tree metadata",
+      "supports": [
+        "Public MIDI import, playback, connection and progress source components."
+      ]
+    },
+    {
+      "checked_on": "2026-11-03",
+      "id": "pianosync_android",
+      "url": "https://github.com/clquwu/PianoSync/blob/dev-android/app/build.gradle.kts",
+      "kind": "build configuration",
+      "supports": [
+        "minSdk 28."
+      ]
+    },
+    {
+      "checked_on": "2026-11-03",
+      "id": "pianosync_release",
+      "url": "https://api.github.com/repos/clquwu/PianoSync/releases?per_page=3",
+      "kind": "GitHub release metadata",
+      "supports": [
+        "0.5.6 APK release, date and size."
+      ]
+    },
+    {
+      "checked_on": "2026-11-03",
+      "id": "scoreflow_play",
+      "url": "https://play.google.com/store/apps/details?id=io.scoreflow.app",
+      "kind": "developer store listing",
+      "supports": [
+        "Linked app is named Scoreflow and describes itself as based on PianoSync."
+      ]
+    },
+    {
+      "checked_on": "2026-11-03",
+      "id": "musicore_readme",
+      "url": "https://github.com/mlm-games/musicore-libre/blob/main/README.md",
+      "kind": "project documentation",
+      "supports": [
+        "MusicXML extensions, MIT license, no audio playback and prototype status."
+      ]
+    },
+    {
+      "checked_on": "2026-11-03",
+      "id": "musicore_fdroid",
+      "url": "https://f-droid.org/en/packages/io.github.mlm_games.musicore/",
+      "kind": "F-Droid package listing",
+      "supports": [
+        "Android minimum, version and package availability."
+      ]
+    },
+    {
+      "checked_on": "2026-11-03",
+      "id": "musicore_release",
+      "url": "https://api.github.com/repos/mlm-games/musicore-libre/releases?per_page=1",
+      "kind": "GitHub release metadata",
+      "supports": [
+        "v1.6.0 release date and architecture-specific APK assets."
+      ]
+    },
+    {
+      "checked_on": "2026-11-03",
+      "id": "scoreflow_editor",
+      "url": "https://github.com/IlyaSkorik/scoreflow/blob/main/README.md",
+      "kind": "project documentation",
+      "supports": [
+        "Unrelated MIT editor marks MusicXML import as in progress."
+      ]
+    },
+    {
+      "checked_on": "2026-11-03",
+      "id": "pianly",
+      "url": "https://pianly.org/",
+      "kind": "project website",
+      "supports": [
+        "Download section lists desktop platforms; Android availability not established."
+      ]
+    },
+    {
+      "checked_on": "2026-11-03",
+      "id": "folino",
+      "url": "https://folino.app/",
+      "kind": "developer website",
+      "supports": [
+        "Advertises Android and MSCZ import. Complete app source/license not established."
+      ]
+    },
+    {
+      "checked_on": "2026-11-03",
+      "id": "swift_sheet_music",
+      "url": "https://github.com/jiyimeta/swift-sheet-music",
+      "kind": "project documentation",
+      "supports": [
+        "Android-compatible library with MuseScore format parsing; not itself a ready piano app."
+      ]
+    },
+    {
+      "checked_on": "2026-11-03",
+      "id": "librescore_app",
+      "url": "https://github.com/LibreScore/app-librescore/blob/master/docs/en/README.md",
+      "kind": "distribution documentation",
+      "supports": [
+        "Android download exists."
+      ]
+    },
+    {
+      "checked_on": "2026-11-03",
+      "id": "librescore_contents",
+      "url": "https://api.github.com/repos/LibreScore/app-librescore/contents/",
+      "kind": "repository contents",
+      "supports": [
+        "Inspected root provides documentation/localization, not complete application source."
+      ]
+    },
+    {
+      "checked_on": "2026-11-03",
+      "id": "webmscore",
+      "url": "https://github.com/LibreScore/webmscore/blob/webmscore/README.md",
+      "kind": "project documentation",
+      "supports": [
+        "Browser-based MuseScore core with export functions."
+      ]
+    },
+    {
+      "checked_on": "2026-11-03",
+      "id": "webmscore_issues",
+      "url": "https://github.com/LibreScore/webmscore/issues",
+      "kind": "project issue index",
+      "supports": [
+        "Open issue 14 reports recent MuseScore 4 conversion failures; no universal failure inferred."
+      ]
+    }
+  ],
+  "github_metadata": [
+    {
+      "key": "pianoish_meta",
+      "repo": "m-movahedi/Piano-ish",
+      "url": "https://github.com/m-movahedi/Piano-ish",
+      "branch": "main",
+      "license": "MIT",
+      "pushed_at": "2026-09-02T04:18:57Z",
+      "archived": false
+    },
+    {
+      "key": "pianoish_releases",
+      "releases": [
+        {
+          "tag": "v1.2.0-beta.1",
+          "date": "2026-09-01T22:34:18Z",
+          "prerelease": false,
+          "url": "https://github.com/m-movahedi/Piano-ish/releases/tag/v1.2.0-beta.1",
+          "assets": [
+            {
+              "name": "Piano-ish-Setup-1.2.0-build5.apk",
+              "url": "https://github.com/m-movahedi/Piano-ish/releases/download/v1.2.0-beta.1/Piano-ish-Setup-1.2.0-build5.apk",
+              "size": 81135863,
+              "digest": "sha256:15604d58d6b7f7559b4b3ec8a7542cb17db5b63d6822e6df1c70b06e37cb8f88"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pianosync_meta",
+      "repo": "clquwu/PianoSync",
+      "url": "https://github.com/clquwu/PianoSync",
+      "branch": "dev-android",
+      "license": "GPL-3.0",
+      "pushed_at": "2026-01-04T22:31:23Z",
+      "archived": false
+    },
+    {
+      "key": "pianosync_releases",
+      "releases": [
+        {
+          "tag": "0.5.6",
+          "date": "2025-05-29T17:32:54Z",
+          "prerelease": false,
+          "url": "https://github.com/clquwu/PianoSync/releases/tag/0.5.6",
+          "assets": [
+            {
+              "name": "app-release.apk",
+              "url": "https://github.com/clquwu/PianoSync/releases/download/0.5.6/app-release.apk",
+              "size": 43863335,
+              "digest": null
+            }
+          ]
+        },
+        {
+          "tag": "0.5.5",
+          "date": "2025-05-26T18:13:18Z",
+          "prerelease": false,
+          "url": "https://github.com/clquwu/PianoSync/releases/tag/0.5.5",
+          "assets": [
+            {
+              "name": "app-release.apk",
+              "url": "https://github.com/clquwu/PianoSync/releases/download/0.5.5/app-release.apk",
+              "size": 43756874,
+              "digest": null
+            }
+          ]
+        },
+        {
+          "tag": "0.5.1",
+          "date": "2025-05-22T21:48:27Z",
+          "prerelease": false,
+          "url": "https://github.com/clquwu/PianoSync/releases/tag/0.5.1",
+          "assets": [
+            {
+              "name": "app-release.apk",
+              "url": "https://github.com/clquwu/PianoSync/releases/download/0.5.1/app-release.apk",
+              "size": 43707726,
+              "digest": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "midisheet_meta2",
+      "repo": "drakarah/MidiSheetMusic-Android",
+      "url": "https://github.com/drakarah/MidiSheetMusic-Android",
+      "branch": "master",
+      "license": "GPL-2.0",
+      "pushed_at": "2026-08-31T12:07:13Z",
+      "archived": false
+    },
+    {
+      "key": "midisheet_releases",
+      "releases": [
+        {
+          "tag": "v3.0",
+          "date": "2026-08-31T12:07:13Z",
+          "prerelease": false,
+          "url": "https://github.com/drakarah/MidiSheetMusic-Android/releases/tag/v3.0",
+          "assets": [
+            {
+              "name": "app-release.apk",
+              "url": "https://github.com/drakarah/MidiSheetMusic-Android/releases/download/v3.0/app-release.apk",
+              "size": 11600346,
+              "digest": "sha256:0e160a3f8d4a9f4b659320caf581ef61ed7e5aece3558cb9428fa5c1591740bc"
+            }
+          ]
+        },
+        {
+          "tag": "v2.9",
+          "date": "2026-08-31T07:15:14Z",
+          "prerelease": false,
+          "url": "https://github.com/drakarah/MidiSheetMusic-Android/releases/tag/v2.9",
+          "assets": [
+            {
+              "name": "app-release.apk",
+              "url": "https://github.com/drakarah/MidiSheetMusic-Android/releases/download/v2.9/app-release.apk",
+              "size": 11598002,
+              "digest": "sha256:52df301bb69f100944f02291f0b8c5ad9aadad749424139a2233cdc6b5697017"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "musicore_meta",
+      "repo": "mlm-games/musicore-libre",
+      "url": "https://github.com/mlm-games/musicore-libre",
+      "branch": "main",
+      "license": "MIT",
+      "pushed_at": "2026-07-21T16:24:53Z",
+      "archived": false
+    },
+    {
+      "key": "musicore_releases",
+      "releases": [
+        {
+          "tag": "v1.6.0",
+          "date": "2025-10-05T04:14:12Z",
+          "prerelease": false,
+          "url": "https://github.com/mlm-games/musicore-libre/releases/tag/v1.6.0",
+          "assets": [
+            {
+              "name": "musicore-1.6.0-android-arm64-v8a.apk",
+              "url": "https://github.com/mlm-games/musicore-libre/releases/download/v1.6.0/musicore-1.6.0-android-arm64-v8a.apk",
+              "size": 8713339,
+              "digest": "sha256:affdf3c2fb2780b8aede93bb2d6ef061699291d9800d2fb5f52876381136ab3e"
+            },
+            {
+              "name": "musicore-1.6.0-android-armeabi-v7a.apk",
+              "url": "https://github.com/mlm-games/musicore-libre/releases/download/v1.6.0/musicore-1.6.0-android-armeabi-v7a.apk",
+              "size": 8156790,
+              "digest": "sha256:9636f81944e48e1287981d4f4c41d2e49ee30c2d9006e760eabc47a57ff38df4"
+            },
+            {
+              "name": "musicore-1.6.0-android-universal.apk",
+              "url": "https://github.com/mlm-games/musicore-libre/releases/download/v1.6.0/musicore-1.6.0-android-universal.apk",
+              "size": 21671201,
+              "digest": "sha256:d4f9128b049d4c7b5235a7d74e34942a3a76acf3306219d3a89ba7849b5ac9cf"
+            },
+            {
+              "name": "musicore-1.6.0-android-x86_64.apk",
+              "url": "https://github.com/mlm-games/musicore-libre/releases/download/v1.6.0/musicore-1.6.0-android-x86_64.apk",
+              "size": 8843881,
+              "digest": "sha256:c6d0cfcd08cb99df99ad70dbe34cb6ca69539b35c93f0d73a73d3ac4e8b42383"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

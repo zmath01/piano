@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:mp="http://www.mutopiaproject.org/piece-data/0.1/">
+
+<rdf:Description rdf:about=".">
+    <mp:title>Spiritus Domini</mp:title>
+    <mp:composer>BachJS</mp:composer>
+    <mp:opus>BWV 878</mp:opus>
+    <mp:lyricist/>
+    <mp:for>Voice (SATB)</mp:for>
+    <mp:date/>
+    <mp:style>Baroque</mp:style>
+    <mp:metre/>
+    <mp:arranger>Arr. SATB Kris Van Bruwaene</mp:arranger>
+    <mp:source>J.S. Bach Le Clavecin Bien Tempéré, par Adolphe F. Wouters, Schott Frères Bruxelles SF 5862</mp:source>
+    <mp:licence>Creative Commons Attribution-ShareAlike 3.0</mp:licence>
+
+    <mp:lyFile>spiritus_domini_bach.ly</mp:lyFile>
+    <mp:midFile>spiritus_domini_bach.mid</mp:midFile>
+    <mp:psFileA4>spiritus_domini_bach-a4.ps.gz</mp:psFileA4>
+    <mp:pdfFileA4>spiritus_domini_bach-a4.pdf</mp:pdfFileA4>
+    <mp:psFileLet>spiritus_domini_bach-let.ps.gz</mp:psFileLet>
+    <mp:pdfFileLet>spiritus_domini_bach-let.pdf</mp:pdfFileLet>
+    <mp:pngFile>spiritus_domini_bach-preview.png</mp:pngFile>
+    <mp:pngHeight>199</mp:pngHeight>
+    <mp:pngWidth>536</mp:pngWidth>
+
+    <mp:id>Mutopia-2013/09/01-1865</mp:id>
+    <mp:maintainer>Kris Van Bruwaene</mp:maintainer>
+    <mp:maintainerEmail></mp:maintainerEmail>
+    <mp:maintainerWeb/>
+    <mp:moreInfo>Arrangement for choir SATB of Bach's fugue nr. 9 in E from WTC II</mp:moreInfo>
+    <mp:lilypondVersion>2.16.1</mp:lilypondVersion>
+</rdf:Description>
+
+</rdf:RDF>

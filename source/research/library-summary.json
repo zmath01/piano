@@ -1,0 +1,939 @@
+{
+  "counts": {
+    "wtc1": 48,
+    "wtc2": 50,
+    "art": 22,
+    "goldberg": 32,
+    "original": 1
+  },
+  "totalTracks": 153,
+  "totalNotes": 163943,
+  "cueKinds": {
+    "opening": 135,
+    "transposition": 211,
+    "inversion": 16,
+    "augmentation": 2,
+    "diminution": 7,
+    "repetition": 58
+  },
+  "perWork": [
+    {
+      "id": "wtc1-prelude-1",
+      "notes": 565,
+      "parts": 2,
+      "cues": 0
+    },
+    {
+      "id": "wtc1-fugue-1",
+      "notes": 753,
+      "parts": 2,
+      "cues": 5
+    },
+    {
+      "id": "wtc1-prelude-2",
+      "notes": 1098,
+      "parts": 2,
+      "cues": 2
+    },
+    {
+      "id": "wtc1-fugue-2",
+      "notes": 798,
+      "parts": 2,
+      "cues": 2
+    },
+    {
+      "id": "wtc1-prelude-3",
+      "notes": 811,
+      "parts": 2,
+      "cues": 4
+    },
+    {
+      "id": "wtc1-fugue-3",
+      "notes": 1445,
+      "parts": 2,
+      "cues": 3
+    },
+    {
+      "id": "wtc1-prelude-4",
+      "notes": 700,
+      "parts": 2,
+      "cues": 0
+    },
+    {
+      "id": "wtc1-fugue-4",
+      "notes": 1323,
+      "parts": 2,
+      "cues": 1
+    },
+    {
+      "id": "wtc1-prelude-5",
+      "notes": 719,
+      "parts": 2,
+      "cues": 1
+    },
+    {
+      "id": "wtc1-fugue-5",
+      "notes": 799,
+      "parts": 2,
+      "cues": 14
+    },
+    {
+      "id": "wtc1-prelude-6",
+      "notes": 784,
+      "parts": 2,
+      "cues": 1
+    },
+    {
+      "id": "wtc1-fugue-6",
+      "notes": 1047,
+      "parts": 2,
+      "cues": 3
+    },
+    {
+      "id": "wtc1-prelude-7",
+      "notes": 1440,
+      "parts": 2,
+      "cues": 0
+    },
+    {
+      "id": "wtc1-fugue-7",
+      "notes": 1009,
+      "parts": 2,
+      "cues": 2
+    },
+    {
+      "id": "wtc1-prelude-8",
+      "notes": 854,
+      "parts": 2,
+      "cues": 1
+    },
+    {
+      "id": "wtc1-fugue-8",
+      "notes": 1420,
+      "parts": 2,
+      "cues": 2
+    },
+    {
+      "id": "wtc1-prelude-9",
+      "notes": 434,
+      "parts": 2,
+      "cues": 2
+    },
+    {
+      "id": "wtc1-fugue-9",
+      "notes": 735,
+      "parts": 2,
+      "cues": 3
+    },
+    {
+      "id": "wtc1-prelude-10",
+      "notes": 1251,
+      "parts": 2,
+      "cues": 9
+    },
+    {
+      "id": "wtc1-fugue-10",
+      "notes": 810,
+      "parts": 2,
+      "cues": 7
+    },
+    {
+      "id": "wtc1-prelude-11",
+      "notes": 1268,
+      "parts": 2,
+      "cues": 5
+    },
+    {
+      "id": "wtc1-fugue-11",
+      "notes": 846,
+      "parts": 2,
+      "cues": 1
+    },
+    {
+      "id": "wtc1-prelude-12",
+      "notes": 560,
+      "parts": 2,
+      "cues": 0
+    },
+    {
+      "id": "wtc1-fugue-12",
+      "notes": 1388,
+      "parts": 2,
+      "cues": 2
+    },
+    {
+      "id": "wtc1-prelude-13",
+      "notes": 446,
+      "parts": 2,
+      "cues": 2
+    },
+    {
+      "id": "wtc1-fugue-13",
+      "notes": 935,
+      "parts": 2,
+      "cues": 2
+    },
+    {
+      "id": "wtc1-prelude-14",
+      "notes": 628,
+      "parts": 2,
+      "cues": 1
+    },
+    {
+      "id": "wtc1-fugue-14",
+      "notes": 933,
+      "parts": 2,
+      "cues": 3
+    },
+    {
+      "id": "wtc1-prelude-15",
+      "notes": 608,
+      "parts": 2,
+      "cues": 6
+    },
+    {
+      "id": "wtc1-fugue-15",
+      "notes": 1755,
+      "parts": 2,
+      "cues": 1
+    },
+    {
+      "id": "wtc1-prelude-16",
+      "notes": 793,
+      "parts": 2,
+      "cues": 0
+    },
+    {
+      "id": "wtc1-fugue-16",
+      "notes": 747,
+      "parts": 2,
+      "cues": 1
+    },
+    {
+      "id": "wtc1-prelude-17",
+      "notes": 688,
+      "parts": 2,
+      "cues": 4
+    },
+    {
+      "id": "wtc1-fugue-17",
+      "notes": 880,
+      "parts": 2,
+      "cues": 1
+    },
+    {
+      "id": "wtc1-prelude-18",
+      "notes": 554,
+      "parts": 2,
+      "cues": 2
+    },
+    {
+      "id": "wtc1-fugue-18",
+      "notes": 798,
+      "parts": 2,
+      "cues": 1
+    },
+    {
+      "id": "wtc1-prelude-19",
+      "notes": 614,
+      "parts": 2,
+      "cues": 2
+    },
+    {
+      "id": "wtc1-fugue-19",
+      "notes": 1213,
+      "parts": 2,
+      "cues": 2
+    },
+    {
+      "id": "wtc1-prelude-20",
+      "notes": 611,
+      "parts": 2,
+      "cues": 2
+    },
+    {
+      "id": "wtc1-fugue-20",
+      "notes": 2466,
+      "parts": 2,
+      "cues": 4
+    },
+    {
+      "id": "wtc1-prelude-21",
+      "notes": 637,
+      "parts": 2,
+      "cues": 1
+    },
+    {
+      "id": "wtc1-fugue-21",
+      "notes": 958,
+      "parts": 2,
+      "cues": 2
+    },
+    {
+      "id": "wtc1-prelude-22",
+      "notes": 769,
+      "parts": 2,
+      "cues": 0
+    },
+    {
+      "id": "wtc1-fugue-22",
+      "notes": 768,
+      "parts": 2,
+      "cues": 0
+    },
+    {
+      "id": "wtc1-prelude-23",
+      "notes": 418,
+      "parts": 2,
+      "cues": 1
+    },
+    {
+      "id": "wtc1-fugue-23",
+      "notes": 1040,
+      "parts": 2,
+      "cues": 1
+    },
+    {
+      "id": "wtc1-prelude-24",
+      "notes": 1502,
+      "parts": 2,
+      "cues": 2
+    },
+    {
+      "id": "wtc1-fugue-24",
+      "notes": 1884,
+      "parts": 2,
+      "cues": 3
+    },
+    {
+      "id": "wtc2-prelude-1a",
+      "notes": 833,
+      "parts": 2,
+      "cues": 1
+    },
+    {
+      "id": "wtc2-prelude-1b",
+      "notes": 810,
+      "parts": 2,
+      "cues": 1
+    },
+    {
+      "id": "wtc2-fugue-1",
+      "notes": 1049,
+      "parts": 2,
+      "cues": 3
+    },
+    {
+      "id": "wtc2-prelude-2",
+      "notes": 1408,
+      "parts": 2,
+      "cues": 2
+    },
+    {
+      "id": "wtc2-fugue-2",
+      "notes": 657,
+      "parts": 2,
+      "cues": 4
+    },
+    {
+      "id": "wtc2-prelude-3",
+      "notes": 812,
+      "parts": 2,
+      "cues": 0
+    },
+    {
+      "id": "wtc2-fugue-3",
+      "notes": 814,
+      "parts": 2,
+      "cues": 1
+    },
+    {
+      "id": "wtc2-prelude-4",
+      "notes": 1404,
+      "parts": 2,
+      "cues": 0
+    },
+    {
+      "id": "wtc2-fugue-4",
+      "notes": 1361,
+      "parts": 2,
+      "cues": 6
+    },
+    {
+      "id": "wtc2-prelude-5",
+      "notes": 2992,
+      "parts": 2,
+      "cues": 2
+    },
+    {
+      "id": "wtc2-fugue-5",
+      "notes": 866,
+      "parts": 2,
+      "cues": 2
+    },
+    {
+      "id": "wtc2-prelude-6",
+      "notes": 1101,
+      "parts": 2,
+      "cues": 3
+    },
+    {
+      "id": "wtc2-fugue-6",
+      "notes": 807,
+      "parts": 2,
+      "cues": 7
+    },
+    {
+      "id": "wtc2-prelude-7",
+      "notes": 918,
+      "parts": 2,
+      "cues": 1
+    },
+    {
+      "id": "wtc2-fugue-7",
+      "notes": 702,
+      "parts": 2,
+      "cues": 1
+    },
+    {
+      "id": "wtc2-prelude-8",
+      "notes": 1984,
+      "parts": 2,
+      "cues": 16
+    },
+    {
+      "id": "wtc2-fugue-8",
+      "notes": 1015,
+      "parts": 2,
+      "cues": 1
+    },
+    {
+      "id": "wtc2-prelude-9",
+      "notes": 1824,
+      "parts": 2,
+      "cues": 2
+    },
+    {
+      "id": "wtc2-fugue-9",
+      "notes": 744,
+      "parts": 2,
+      "cues": 0
+    },
+    {
+      "id": "wtc2-prelude-10",
+      "notes": 1981,
+      "parts": 2,
+      "cues": 2
+    },
+    {
+      "id": "wtc2-fugue-10",
+      "notes": 1449,
+      "parts": 2,
+      "cues": 3
+    },
+    {
+      "id": "wtc2-prelude-11",
+      "notes": 1255,
+      "parts": 2,
+      "cues": 1
+    },
+    {
+      "id": "wtc2-fugue-11",
+      "notes": 972,
+      "parts": 2,
+      "cues": 3
+    },
+    {
+      "id": "wtc2-prelude-12",
+      "notes": 1476,
+      "parts": 2,
+      "cues": 1
+    },
+    {
+      "id": "wtc2-fugue-12",
+      "notes": 1124,
+      "parts": 2,
+      "cues": 1
+    },
+    {
+      "id": "wtc2-prelude-13",
+      "notes": 1500,
+      "parts": 2,
+      "cues": 1
+    },
+    {
+      "id": "wtc2-fugue-13",
+      "notes": 1196,
+      "parts": 2,
+      "cues": 4
+    },
+    {
+      "id": "wtc2-prelude-14",
+      "notes": 892,
+      "parts": 2,
+      "cues": 5
+    },
+    {
+      "id": "wtc2-fugue-14",
+      "notes": 1513,
+      "parts": 2,
+      "cues": 2
+    },
+    {
+      "id": "wtc2-prelude-15",
+      "notes": 1816,
+      "parts": 2,
+      "cues": 2
+    },
+    {
+      "id": "wtc2-fugue-15",
+      "notes": 799,
+      "parts": 2,
+      "cues": 5
+    },
+    {
+      "id": "wtc2-prelude-16",
+      "notes": 516,
+      "parts": 2,
+      "cues": 0
+    },
+    {
+      "id": "wtc2-fugue-16",
+      "notes": 1645,
+      "parts": 2,
+      "cues": 1
+    },
+    {
+      "id": "wtc2-prelude-17",
+      "notes": 1569,
+      "parts": 2,
+      "cues": 3
+    },
+    {
+      "id": "wtc2-fugue-17",
+      "notes": 1352,
+      "parts": 2,
+      "cues": 2
+    },
+    {
+      "id": "wtc2-prelude-18",
+      "notes": 2616,
+      "parts": 2,
+      "cues": 10
+    },
+    {
+      "id": "wtc2-fugue-18",
+      "notes": 1537,
+      "parts": 2,
+      "cues": 7
+    },
+    {
+      "id": "wtc2-prelude-19",
+      "notes": 688,
+      "parts": 2,
+      "cues": 0
+    },
+    {
+      "id": "wtc2-fugue-19",
+      "notes": 757,
+      "parts": 2,
+      "cues": 4
+    },
+    {
+      "id": "wtc2-prelude-20",
+      "notes": 1576,
+      "parts": 2,
+      "cues": 6
+    },
+    {
+      "id": "wtc2-fugue-20",
+      "notes": 929,
+      "parts": 2,
+      "cues": 1
+    },
+    {
+      "id": "wtc2-prelude-21",
+      "notes": 3510,
+      "parts": 2,
+      "cues": 0
+    },
+    {
+      "id": "wtc2-fugue-21",
+      "notes": 965,
+      "parts": 2,
+      "cues": 5
+    },
+    {
+      "id": "wtc2-prelude-22",
+      "notes": 1185,
+      "parts": 2,
+      "cues": 3
+    },
+    {
+      "id": "wtc2-fugue-22",
+      "notes": 1751,
+      "parts": 2,
+      "cues": 3
+    },
+    {
+      "id": "wtc2-prelude-23",
+      "notes": 1133,
+      "parts": 2,
+      "cues": 1
+    },
+    {
+      "id": "wtc2-fugue-23",
+      "notes": 1309,
+      "parts": 2,
+      "cues": 1
+    },
+    {
+      "id": "wtc2-prelude-24a",
+      "notes": 881,
+      "parts": 2,
+      "cues": 10
+    },
+    {
+      "id": "wtc2-prelude-24b",
+      "notes": 887,
+      "parts": 2,
+      "cues": 11
+    },
+    {
+      "id": "wtc2-fugue-24",
+      "notes": 1093,
+      "parts": 2,
+      "cues": 1
+    },
+    {
+      "id": "art-1-contrapunctusI",
+      "notes": 898,
+      "parts": 4,
+      "cues": 5
+    },
+    {
+      "id": "art-2-contrapunctusII",
+      "notes": 1078,
+      "parts": 4,
+      "cues": 5
+    },
+    {
+      "id": "art-3-contrapunctusIII",
+      "notes": 1053,
+      "parts": 4,
+      "cues": 2
+    },
+    {
+      "id": "art-4-contrapunctusIV",
+      "notes": 1803,
+      "parts": 4,
+      "cues": 4
+    },
+    {
+      "id": "art-5-contrapunctusV",
+      "notes": 1246,
+      "parts": 4,
+      "cues": 5
+    },
+    {
+      "id": "art-6-contrapunctusVI",
+      "notes": 1684,
+      "parts": 4,
+      "cues": 12
+    },
+    {
+      "id": "art-7-contrapunctusVII",
+      "notes": 1525,
+      "parts": 4,
+      "cues": 6
+    },
+    {
+      "id": "art-8-contrapunctusVIII",
+      "notes": 2680,
+      "parts": 3,
+      "cues": 12
+    },
+    {
+      "id": "art-9-contrapunctusIX",
+      "notes": 1691,
+      "parts": 4,
+      "cues": 7
+    },
+    {
+      "id": "art-10-contrapunctusX",
+      "notes": 1728,
+      "parts": 4,
+      "cues": 6
+    },
+    {
+      "id": "art-11-contrapunctusXI",
+      "notes": 3037,
+      "parts": 4,
+      "cues": 10
+    },
+    {
+      "id": "art-12-contrapunctusXII",
+      "notes": 2304,
+      "parts": 2,
+      "cues": 6
+    },
+    {
+      "id": "art-13-contrapunctusXIII",
+      "notes": 1897,
+      "parts": 2,
+      "cues": 11
+    },
+    {
+      "id": "art-14-contrapunctusXIV",
+      "notes": 1396,
+      "parts": 2,
+      "cues": 4
+    },
+    {
+      "id": "art-15-contrapunctusXV",
+      "notes": 1374,
+      "parts": 2,
+      "cues": 3
+    },
+    {
+      "id": "art-16-rectus",
+      "notes": 1160,
+      "parts": 3,
+      "cues": 3
+    },
+    {
+      "id": "art-16-inversus",
+      "notes": 1158,
+      "parts": 3,
+      "cues": 4
+    },
+    {
+      "id": "art-17-rectus",
+      "notes": 1595,
+      "parts": 4,
+      "cues": 3
+    },
+    {
+      "id": "art-17-inversus",
+      "notes": 1682,
+      "parts": 4,
+      "cues": 4
+    },
+    {
+      "id": "art-18-rectus",
+      "notes": 1020,
+      "parts": 4,
+      "cues": 2
+    },
+    {
+      "id": "art-18-inversus",
+      "notes": 1020,
+      "parts": 4,
+      "cues": 2
+    },
+    {
+      "id": "art-19-contrapunctusXIX",
+      "notes": 2620,
+      "parts": 4,
+      "cues": 1
+    },
+    {
+      "id": "goldberg-0",
+      "notes": 418,
+      "parts": 2,
+      "cues": 1
+    },
+    {
+      "id": "goldberg-1",
+      "notes": 551,
+      "parts": 2,
+      "cues": 2
+    },
+    {
+      "id": "goldberg-2",
+      "notes": 410,
+      "parts": 2,
+      "cues": 1
+    },
+    {
+      "id": "goldberg-3",
+      "notes": 600,
+      "parts": 2,
+      "cues": 1
+    },
+    {
+      "id": "goldberg-4",
+      "notes": 268,
+      "parts": 2,
+      "cues": 0
+    },
+    {
+      "id": "goldberg-5",
+      "notes": 517,
+      "parts": 2,
+      "cues": 1
+    },
+    {
+      "id": "goldberg-6",
+      "notes": 386,
+      "parts": 2,
+      "cues": 1
+    },
+    {
+      "id": "goldberg-7",
+      "notes": 355,
+      "parts": 2,
+      "cues": 1
+    },
+    {
+      "id": "goldberg-8",
+      "notes": 644,
+      "parts": 2,
+      "cues": 4
+    },
+    {
+      "id": "goldberg-9",
+      "notes": 365,
+      "parts": 2,
+      "cues": 1
+    },
+    {
+      "id": "goldberg-10",
+      "notes": 321,
+      "parts": 2,
+      "cues": 2
+    },
+    {
+      "id": "goldberg-11",
+      "notes": 615,
+      "parts": 2,
+      "cues": 3
+    },
+    {
+      "id": "goldberg-12",
+      "notes": 634,
+      "parts": 2,
+      "cues": 2
+    },
+    {
+      "id": "goldberg-13",
+      "notes": 804,
+      "parts": 2,
+      "cues": 1
+    },
+    {
+      "id": "goldberg-14",
+      "notes": 638,
+      "parts": 2,
+      "cues": 1
+    },
+    {
+      "id": "goldberg-15",
+      "notes": 524,
+      "parts": 2,
+      "cues": 1
+    },
+    {
+      "id": "goldberg-16",
+      "notes": 667,
+      "parts": 2,
+      "cues": 1
+    },
+    {
+      "id": "goldberg-17",
+      "notes": 709,
+      "parts": 2,
+      "cues": 1
+    },
+    {
+      "id": "goldberg-18",
+      "notes": 305,
+      "parts": 2,
+      "cues": 1
+    },
+    {
+      "id": "goldberg-19",
+      "notes": 340,
+      "parts": 2,
+      "cues": 1
+    },
+    {
+      "id": "goldberg-20",
+      "notes": 607,
+      "parts": 2,
+      "cues": 1
+    },
+    {
+      "id": "goldberg-21",
+      "notes": 458,
+      "parts": 2,
+      "cues": 1
+    },
+    {
+      "id": "goldberg-22",
+      "notes": 274,
+      "parts": 2,
+      "cues": 0
+    },
+    {
+      "id": "goldberg-23",
+      "notes": 712,
+      "parts": 2,
+      "cues": 4
+    },
+    {
+      "id": "goldberg-24",
+      "notes": 606,
+      "parts": 2,
+      "cues": 1
+    },
+    {
+      "id": "goldberg-25",
+      "notes": 739,
+      "parts": 2,
+      "cues": 2
+    },
+    {
+      "id": "goldberg-26",
+      "notes": 838,
+      "parts": 2,
+      "cues": 6
+    },
+    {
+      "id": "goldberg-27",
+      "notes": 489,
+      "parts": 2,
+      "cues": 2
+    },
+    {
+      "id": "goldberg-28",
+      "notes": 983,
+      "parts": 2,
+      "cues": 1
+    },
+    {
+      "id": "goldberg-29",
+      "notes": 718,
+      "parts": 2,
+      "cues": 0
+    },
+    {
+      "id": "goldberg-30",
+      "notes": 377,
+      "parts": 2,
+      "cues": 0
+    },
+    {
+      "id": "goldberg-da-capo",
+      "notes": 418,
+      "parts": 2,
+      "cues": 1
+    },
+    {
+      "id": "bwv617",
+      "notes": 1529,
+      "parts": 3,
+      "cues": 0
+    }
+  ]
+}

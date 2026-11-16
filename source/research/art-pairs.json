@@ -1,0 +1,92 @@
+[
+  {
+    "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV1080/contrapunctusXVI/",
+    "stem": "inversus",
+    "assets": {
+      ".mid": {
+        "file": "assets/library/BWV1080/contrapunctusXVI/inversus.mid",
+        "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV1080/contrapunctusXVI/contrapunctusXVI-mids.zip",
+        "sha256": "e73ad508ac972d8a1a44030dff0e630768f49913792a78d27a93a211b7368493"
+      },
+      ".rdf": {
+        "file": "assets/library/BWV1080/contrapunctusXVI/contrapunctusXVI.rdf",
+        "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV1080/contrapunctusXVI/contrapunctusXVI.rdf"
+      }
+    }
+  },
+  {
+    "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV1080/contrapunctusXVI/",
+    "stem": "rectus",
+    "assets": {
+      ".mid": {
+        "file": "assets/library/BWV1080/contrapunctusXVI/rectus.mid",
+        "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV1080/contrapunctusXVI/contrapunctusXVI-mids.zip",
+        "sha256": "12ee107859a1e202b864518712428eaca38dab05a483a1a768fff59394c06622"
+      },
+      ".rdf": {
+        "file": "assets/library/BWV1080/contrapunctusXVI/contrapunctusXVI.rdf",
+        "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV1080/contrapunctusXVI/contrapunctusXVI.rdf"
+      }
+    }
+  },
+  {
+    "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV1080/contrapunctusXVII/",
+    "stem": "inversus",
+    "assets": {
+      ".mid": {
+        "file": "assets/library/BWV1080/contrapunctusXVII/inversus.mid",
+        "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV1080/contrapunctusXVII/contrapunctusXVII-mids.zip",
+        "sha256": "2451ba54fff06e30ece7862a9816db29e25edbfabf976569d094b37357ccfd5c"
+      },
+      ".rdf": {
+        "file": "assets/library/BWV1080/contrapunctusXVII/contrapunctusXVII.rdf",
+        "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV1080/contrapunctusXVII/contrapunctusXVII.rdf"
+      }
+    }
+  },
+  {
+    "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV1080/contrapunctusXVII/",
+    "stem": "rectus",
+    "assets": {
+      ".mid": {
+        "file": "assets/library/BWV1080/contrapunctusXVII/rectus.mid",
+        "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV1080/contrapunctusXVII/contrapunctusXVII-mids.zip",
+        "sha256": "63f3a76add263ceed4f47255928dd73df83e6bcedcac8c5db1eccb0582e3ac2e"
+      },
+      ".rdf": {
+        "file": "assets/library/BWV1080/contrapunctusXVII/contrapunctusXVII.rdf",
+        "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV1080/contrapunctusXVII/contrapunctusXVII.rdf"
+      }
+    }
+  },
+  {
+    "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV1080/contrapunctusXVIII/",
+    "stem": "inversus",
+    "assets": {
+      ".mid": {
+        "file": "assets/library/BWV1080/contrapunctusXVIII/inversus.mid",
+        "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV1080/contrapunctusXVIII/contrapunctusXVIII-mids.zip",
+        "sha256": "ad29826dcd62424015235d835c72c989c00de9929c035e4324315aedddee2d6e"
+      },
+      ".rdf": {
+        "file": "assets/library/BWV1080/contrapunctusXVIII/contrapunctusXVIII.rdf",
+        "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV1080/contrapunctusXVIII/contrapunctusXVIII.rdf"
+      }
+    }
+  },
+  {
+    "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV1080/contrapunctusXVIII/",
+    "stem": "rectus",
+    "assets": {
+      ".mid": {
+        "file": "assets/library/BWV1080/contrapunctusXVIII/rectus.mid",
+        "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV1080/contrapunctusXVIII/contrapunctusXVIII-mids.zip",
+        "sha256": "ad7be0c5ea28e2916333fd994bceda0a5c75da52d24c6d36ff98dcf1ca626289"
+      },
+      ".rdf": {
+        "file": "assets/library/BWV1080/contrapunctusXVIII/contrapunctusXVIII.rdf",
+        "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV1080/contrapunctusXVIII/contrapunctusXVIII.rdf"
+      }
+    }
+  }
+]

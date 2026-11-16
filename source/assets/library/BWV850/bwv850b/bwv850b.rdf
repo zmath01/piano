@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rdf:RDF xmlns:mp="http://www.mutopiaproject.org/piece-data/0.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=".">
+    <mp:title>Das Wohltemperierte Clavier I, Fuga V</mp:title>
+    <mp:composer>BachJS</mp:composer>
+    <mp:opus>BWV 850</mp:opus>
+    <mp:lyricist />
+    <mp:for>Harpsichord, Piano</mp:for>
+    <mp:date />
+    <mp:style>Baroque</mp:style>
+    <mp:metre />
+    <mp:arranger />
+    <mp:source>Breitkopf &amp; Härtel, 1866, Plate XIV, p.20-21</mp:source>
+    <mp:licence>Creative Commons Attribution-ShareAlike 4.0</mp:licence>
+    <mp:lyFile>bwv850b-lys.zip</mp:lyFile>
+    <mp:midFile>bwv850b.mid</mp:midFile>
+    <mp:psFileA4>bwv850b-a4.ps.gz</mp:psFileA4>
+    <mp:pdfFileA4>bwv850b-a4.pdf</mp:pdfFileA4>
+    <mp:psFileLet>bwv850b-let.ps.gz</mp:psFileLet>
+    <mp:pdfFileLet>bwv850b-let.pdf</mp:pdfFileLet>
+    <mp:pngFile>bwv850b-preview.svg</mp:pngFile>
+    <mp:pngHeight>0</mp:pngHeight>
+    <mp:pngWidth>0</mp:pngWidth>
+    <mp:id>Mutopia-2018/10/08-2233</mp:id>
+    <mp:maintainer>Sven Reichard</mp:maintainer>
+    <mp:maintainerEmail />
+    <mp:maintainerWeb />
+    <mp:moreInfo />
+    <mp:lilypondVersion>2.18.2</mp:lilypondVersion>
+  </rdf:Description>
+</rdf:RDF>

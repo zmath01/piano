@@ -1,0 +1,20 @@
+{
+  "contract": "README.md and ANALYSIS.md: 153 offline Bach tracks, recorded-part isolation, following and looping of conservative timed motifs, mirror-version comparison, Goldberg navigation and a mathematical transformation lab. Preserve live piano controls and the Canvas fallback.",
+  "targetViewports": ["1440x900", "390x844", "320x740"],
+  "accessibility": {"status": "pass", "evidence": "Labelled collection buttons, movement and fragment selects, part/solo controls, laboratory inputs and playback buttons are native controls. Original Enter-key piano input, focus, Escape and reduced-motion checks passed. Semantic labels distinguish source MIDI parts from score voices. Chinese terms render with installed CJK fonts in the final captures. This is a scoped review, not WCAG certification."},
+  "responsive": {"status": "pass", "evidence": "Actual desktop study capture was visually inspected. Browser checks at 390 and 320 px found no horizontal page overflow. Mobile controls stack, and the close piano view retains register navigation. Full-page captures include content below the initial viewport."},
+  "contentStates": {
+    "loading": {"status": "pass", "evidence": "Local HTML loads while the browser is offline; all 153 track selections render their notes, context and controls without HTTP requests."},
+    "empty": {"status": "pass", "evidence": "Tracks without a safe eight-note prefix show an explicit no-detection state and identify the separate teaching motif used in the laboratory; absence of detection is not described as absence of imitation."},
+    "error": {"status": "pass", "evidence": "The original regression check still passes the Web Audio unavailable message. WebGL failure switches to Canvas rendering. A source unpaired note-off is disclosed in metadata and the track-credit panel, without discarding a sounding note-on."},
+    "partial": {"status": "pass", "evidence": "The surviving unfinished final fugue is labelled as a fragment; no invented completion is supplied. Limited analytical coverage and MIDI-part encoding are expressly disclosed."},
+    "success": {"status": "pass", "evidence": "All 153 track loads, WTC playback, following and looping, part solo/restore, mirror comparison, Goldberg navigation, transform formulas and transform audition passed. Every note and all 429 cue equations were independently validated against source MIDI."},
+    "permission": {"status": "pass", "evidence": "Audio starts from an explicit play/key gesture. There are no microphone, account or MIDI-device permission requests."}
+  },
+  "renderedEvidence": [
+    {"viewport": "1440x900", "artifact": "counterpoint-desktop.png", "observation": "Actual study-element crop from the desktop viewport: legible bilingual headings, part controls, moving note graph, detected-fragment annotation, mathematical plot and lab controls; visually inspected after font correction."},
+    {"viewport": "390x844", "artifact": "counterpoint-mobile.png", "observation": "Full-page mobile capture; analysis columns and controls stack, with the collection picker and register arrows preserved. Scroll-width check passed."},
+    {"viewport": "320x740", "artifact": "counterpoint-small.png", "observation": "Small-phone full-page capture; scroll-width check passed and the control layout remains inside the page width."}
+  ],
+  "limits": ["Native WebGL appearance is unverified in this host; the Three.js geometry with Canvas fallback and raycast input were checked.", "The timed matches are local eight-note-prefix relations, not complete subject boundaries or a comprehensive fugue analysis.", "Physical speaker output and subjective piano timbre require listening by the user."]
+}

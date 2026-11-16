@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:mp="http://www.mutopiaproject.org/piece-data/0.1/">
+
+<rdf:Description rdf:about=".">
+    <mp:title>Das Wohltemperierte Clavier II, Fuga IX</mp:title>
+    <mp:composer>BachJS</mp:composer>
+    <mp:opus>BWV 878</mp:opus>
+    <mp:lyricist/>
+    <mp:for>Harpsichord, Piano</mp:for>
+    <mp:date/>
+    <mp:style>Baroque</mp:style>
+    <mp:metre/>
+    <mp:arranger/>
+    <mp:source>Le clavecin bien tempéré, volume 2, Révision et annotations par Vincent d'Indy, Édition nationale de musique classique, Éditions Salabert, Paris, 1920.</mp:source>
+    <mp:licence>Creative Commons Attribution-ShareAlike 3.0</mp:licence>
+
+    <mp:lyFile>f9.ly</mp:lyFile>
+    <mp:midFile>f9.mid</mp:midFile>
+    <mp:psFileA4>f9-a4.ps.gz</mp:psFileA4>
+    <mp:pdfFileA4>f9-a4.pdf</mp:pdfFileA4>
+    <mp:psFileLet>f9-let.ps.gz</mp:psFileLet>
+    <mp:pdfFileLet>f9-let.pdf</mp:pdfFileLet>
+    <mp:pngFile>f9-preview.png</mp:pngFile>
+    <mp:pngHeight>110</mp:pngHeight>
+    <mp:pngWidth>504</mp:pngWidth>
+
+    <mp:id>Mutopia-2008/03/04-1328</mp:id>
+    <mp:maintainer>Gérard Gréco</mp:maintainer>
+    <mp:maintainerEmail/>
+    <mp:maintainerWeb/>
+    <mp:moreInfo/>
+    <mp:lilypondVersion>2.10.33</mp:lilypondVersion>
+</rdf:Description>
+
+</rdf:RDF>

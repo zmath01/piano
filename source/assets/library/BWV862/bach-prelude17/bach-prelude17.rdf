@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:mp="http://www.mutopiaproject.org/piece-data/0.1/">
+
+<rdf:Description rdf:about=".">
+    <mp:title>Das Wohltemperierte Clavier I, Praeludium XVII</mp:title>
+    <mp:composer>BachJS</mp:composer>
+    <mp:opus>BWV 862</mp:opus>
+    <mp:lyricist/>
+    <mp:for>Harpsichord, Piano</mp:for>
+    <mp:date/>
+    <mp:style>Baroque</mp:style>
+    <mp:metre/>
+    <mp:arranger/>
+    <mp:source>Bach-Gesellschaft edition, 1866</mp:source>
+    <mp:licence>Public Domain</mp:licence>
+
+    <mp:lyFile>bach-prelude17.ly</mp:lyFile>
+    <mp:midFile>bach-prelude17.mid</mp:midFile>
+    <mp:psFileA4>bach-prelude17-a4.ps.gz</mp:psFileA4>
+    <mp:pdfFileA4>bach-prelude17-a4.pdf</mp:pdfFileA4>
+    <mp:psFileLet>bach-prelude17-let.ps.gz</mp:psFileLet>
+    <mp:pdfFileLet>bach-prelude17-let.pdf</mp:pdfFileLet>
+    <mp:pngFile>bach-prelude17-preview.png</mp:pngFile>
+    <mp:pngHeight>119</mp:pngHeight>
+    <mp:pngWidth>504</mp:pngWidth>
+
+    <mp:id>Mutopia-2007/10/06-1045</mp:id>
+    <mp:maintainer>Andrew Hawryluk</mp:maintainer>
+    <mp:maintainerEmail/>
+    <mp:maintainerWeb>http://www.musicbyandrew.ca/</mp:maintainerWeb>
+    <mp:moreInfo/>
+    <mp:lilypondVersion>2.10.33</mp:lilypondVersion>
+</rdf:Description>
+
+</rdf:RDF>

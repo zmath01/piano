@@ -1,0 +1,26 @@
+{
+  "contract": "See source/DESIGN.md: playable 88-key piano, embedded BWV 617, offline loading, responsive register view, visible focus and reduced motion.",
+  "targetViewports": ["1440x900", "390x844", "320x740"],
+  "accessibility": {
+    "status": "pass",
+    "evidence": "Semantic buttons, range labels, select labels and About dialog inspected. Enter holds/releases a semantic key, Escape closes About, A/E play a chord, and reduced-motion preference is recognized. Focus styles are defined for keyboard controls. Secondary text was darkened for readability. Piano keys have spatially necessary narrow targets. This is a focused interaction review, not a WCAG certification."
+  },
+  "responsive": {
+    "status": "pass",
+    "evidence": "Viewed actual captures at 1440x900 and 390x844. Browser layout checks at those sizes and 320x740 found no horizontal overflow. Desktop shows all 88 keys; phones frame a register and retain the register arrows and sample controls. Full-page captures include content below the viewport."
+  },
+  "contentStates": {
+    "loading": {"status": "pass", "evidence": "With the context offline, local HTML loads all embedded assets. First Play resumes one AudioContext and starts the score; the status changes to Bach is at the piano. No runtime HTTP requests were observed."},
+    "empty": {"status": "not-applicable", "reason": "A single validated 1529-note score is embedded at build time; there is no user music library or empty-data screen."},
+    "error": {"status": "pass", "evidence": "A second browser page disables WebGL and Web Audio. The same scene renders on Canvas 2D, and pressing Play shows the specific Web Audio unavailable message. The real host GPU also lost its context and automatically switched to Canvas drawing."},
+    "partial": {"status": "not-applicable", "reason": "There is one bundled score and no asynchronous remote assets, imports or partially loaded data."},
+    "success": {"status": "pass", "evidence": "Browser checks passed for active voices and note feedback, play/pause, cleanup, keyboard chord, sustain, tempo, seek, restart, volume, About, raycast input and register changes. Signal RMS and peak are finite and nonzero."},
+    "permission": {"status": "pass", "evidence": "Audio is unlocked after the Play or key gesture; context state was running. No microphone, MIDI, account or device permissions are requested."}
+  },
+  "renderedEvidence": [
+    {"viewport": "1440x900", "artifact": "desktop.png", "observation": "Inspected full-range keyboard with visible black keys, warm ivory layout, Bach transport, readable controls and no overlap. This capture uses the working Canvas 2D renderer with Three.js geometry."},
+    {"viewport": "390x844", "artifact": "mobile.png", "observation": "Inspected the close keyboard view, wrapped Bach title, play button, seek and settings. Register arrows remain available; no page overflow."},
+    {"viewport": "320x740", "artifact": "small-mobile.png", "observation": "Automated capture and scroll-width check confirm no horizontal overflow at 320 px; the register view keeps the physical keys large enough to play."}
+  ],
+  "limits": ["This Android-hosted headless environment loses its native WebGL context. Canvas 2D geometry rendering, its pointer raycasts and fallback transition were exercised; native WebGL visual fidelity remains unverified.", "Generated audio buffers, AudioContext activity and note cleanup were checked; physical speaker output and subjective piano timbre were not listened to by automation."]
+}

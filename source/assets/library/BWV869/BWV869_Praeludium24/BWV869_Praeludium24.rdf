@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:mp="http://www.mutopiaproject.org/piece-data/0.1/">
+
+<rdf:Description rdf:about=".">
+    <mp:title>Das Wohltemperierte Clavier I, Praeludium 24</mp:title>
+    <mp:composer>BachJS</mp:composer>
+    <mp:opus>BWV 869</mp:opus>
+    <mp:lyricist/>
+    <mp:for>Harpsichord, Piano</mp:for>
+    <mp:date/>
+    <mp:style>Baroque</mp:style>
+    <mp:metre/>
+    <mp:arranger/>
+    <mp:source>Manuscript copy, n.d.(ca.1733-40)</mp:source>
+    <mp:licence>Creative Commons Attribution-ShareAlike 4.0</mp:licence>
+
+    <mp:lyFile>BWV869_Praeludium24.ly</mp:lyFile>
+    <mp:midFile>BWV869_Praeludium24.mid</mp:midFile>
+    <mp:psFileA4>BWV869_Praeludium24-a4.ps.gz</mp:psFileA4>
+    <mp:pdfFileA4>BWV869_Praeludium24-a4.pdf</mp:pdfFileA4>
+    <mp:psFileLet>BWV869_Praeludium24-let.ps.gz</mp:psFileLet>
+    <mp:pdfFileLet>BWV869_Praeludium24-let.pdf</mp:pdfFileLet>
+    <mp:pngFile>BWV869_Praeludium24-preview.svg</mp:pngFile>
+    <mp:pngHeight>0</mp:pngHeight>
+    <mp:pngWidth>0</mp:pngWidth>
+
+    <mp:id>Mutopia-2015/09/07-2049</mp:id>
+    <mp:maintainer>Heikki Junes</mp:maintainer>
+    <mp:maintainerEmail/>
+    <mp:maintainerWeb/>
+    <mp:moreInfo/>
+    <mp:lilypondVersion>2.19.26</mp:lilypondVersion>
+</rdf:Description>
+
+</rdf:RDF>

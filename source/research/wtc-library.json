@@ -1,0 +1,982 @@
+[
+  {
+    "book": 1,
+    "file": "assets/library/wtc1/fugue-1-bwv-846.midi",
+    "name": "fugue-1-bwv-846.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-1/releases/download/v0.3/fugue-1-bwv-846.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-1/releases/tag/v0.3",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "8489bf0102625bc84193e36bae4e689ca7fe75b93f86fccb6a863d507fb39cc8"
+  },
+  {
+    "book": 1,
+    "file": "assets/library/wtc1/fugue-10-bwv-855.midi",
+    "name": "fugue-10-bwv-855.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-1/releases/download/v0.3/fugue-10-bwv-855.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-1/releases/tag/v0.3",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "0aa09b6877529d03552f079af47e28a4f0ba39785d0f30709a817f270cd69e63"
+  },
+  {
+    "book": 1,
+    "file": "assets/library/wtc1/fugue-11-bwv-856.midi",
+    "name": "fugue-11-bwv-856.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-1/releases/download/v0.3/fugue-11-bwv-856.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-1/releases/tag/v0.3",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "19a520e9990a4941bed9f3a7df156b24fce9ee690b61faaf7d91e069dc73a5de"
+  },
+  {
+    "book": 1,
+    "file": "assets/library/wtc1/fugue-12-bwv-857.midi",
+    "name": "fugue-12-bwv-857.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-1/releases/download/v0.3/fugue-12-bwv-857.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-1/releases/tag/v0.3",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "2de69854a276d72038b478a8e646a623866ff0e2992502d4bb9ac56211dff5ba"
+  },
+  {
+    "book": 1,
+    "file": "assets/library/wtc1/fugue-13-bwv-858.midi",
+    "name": "fugue-13-bwv-858.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-1/releases/download/v0.3/fugue-13-bwv-858.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-1/releases/tag/v0.3",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "92deb436de791291226146d3708a194b56c334830d06f7ce50eb325bed46351d"
+  },
+  {
+    "book": 1,
+    "file": "assets/library/wtc1/fugue-14-bwv-859.midi",
+    "name": "fugue-14-bwv-859.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-1/releases/download/v0.3/fugue-14-bwv-859.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-1/releases/tag/v0.3",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "1b6ec19e545faa3516fcadd1d4537ee692a41b58790997df2d9e1d2e9955dfa1"
+  },
+  {
+    "book": 1,
+    "file": "assets/library/wtc1/fugue-15-bwv-860.midi",
+    "name": "fugue-15-bwv-860.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-1/releases/download/v0.3/fugue-15-bwv-860.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-1/releases/tag/v0.3",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "a2374d89d4a27300b8382e69abe00e78d02458db30aade96714cca4603df5dc1"
+  },
+  {
+    "book": 1,
+    "file": "assets/library/wtc1/fugue-16-bwv-861.midi",
+    "name": "fugue-16-bwv-861.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-1/releases/download/v0.3/fugue-16-bwv-861.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-1/releases/tag/v0.3",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "0affb6cb96bedf4f2d71f5bc569f76c48f0c33dcadcc48389936ecba6f58455b"
+  },
+  {
+    "book": 1,
+    "file": "assets/library/wtc1/fugue-17-bwv-862.midi",
+    "name": "fugue-17-bwv-862.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-1/releases/download/v0.3/fugue-17-bwv-862.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-1/releases/tag/v0.3",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "37168a014312aeea9f048a07c8fca8c45429ff16f3cce3c6f048e5da5d0edb43"
+  },
+  {
+    "book": 1,
+    "file": "assets/library/wtc1/fugue-18-bwv-863.midi",
+    "name": "fugue-18-bwv-863.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-1/releases/download/v0.3/fugue-18-bwv-863.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-1/releases/tag/v0.3",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "e17e0b3277aecba54ed350b53c922150cded03e64a39c60530c8f8e55fcf7170"
+  },
+  {
+    "book": 1,
+    "file": "assets/library/wtc1/fugue-19-bwv-864.midi",
+    "name": "fugue-19-bwv-864.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-1/releases/download/v0.3/fugue-19-bwv-864.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-1/releases/tag/v0.3",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "9c6ceab097b5569534a32f76014a46b7f36d4121c2d3e651a448d71e65ef4af6"
+  },
+  {
+    "book": 1,
+    "file": "assets/library/wtc1/fugue-2-bwv-847.midi",
+    "name": "fugue-2-bwv-847.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-1/releases/download/v0.3/fugue-2-bwv-847.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-1/releases/tag/v0.3",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "3975adcd2a29a88f207230a57ca8f0875be62daf969a65b6267e17ca55f279a7"
+  },
+  {
+    "book": 1,
+    "file": "assets/library/wtc1/fugue-20-bwv-865.midi",
+    "name": "fugue-20-bwv-865.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-1/releases/download/v0.3/fugue-20-bwv-865.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-1/releases/tag/v0.3",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "9b83d1ad4fb85d1ce87783703303b5b8192a0a05a868460f74789f102eb07657"
+  },
+  {
+    "book": 1,
+    "file": "assets/library/wtc1/fugue-21-bwv-866.midi",
+    "name": "fugue-21-bwv-866.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-1/releases/download/v0.3/fugue-21-bwv-866.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-1/releases/tag/v0.3",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "0b0c4d939fe0adf2efa1b30196df50dee326cd26ed5201ae28bbb97c338d6ec5"
+  },
+  {
+    "book": 1,
+    "file": "assets/library/wtc1/fugue-22-bwv-867.midi",
+    "name": "fugue-22-bwv-867.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-1/releases/download/v0.3/fugue-22-bwv-867.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-1/releases/tag/v0.3",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "dc9b869456c77ccb316de30a8f32d2ea6e5aafaf366182c55d8765ddbf17ce14"
+  },
+  {
+    "book": 1,
+    "file": "assets/library/wtc1/fugue-23-bwv-868.midi",
+    "name": "fugue-23-bwv-868.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-1/releases/download/v0.3/fugue-23-bwv-868.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-1/releases/tag/v0.3",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "0013cfce4c11b6fcce8e1b305774890c80568d03b98633f4e40b2aaad6a1fdb2"
+  },
+  {
+    "book": 1,
+    "file": "assets/library/wtc1/fugue-24-bwv-869.midi",
+    "name": "fugue-24-bwv-869.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-1/releases/download/v0.3/fugue-24-bwv-869.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-1/releases/tag/v0.3",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "be5b107e75840844d6964b8bc69bcdd836ab8236ba97105a7f914afe5b33718c"
+  },
+  {
+    "book": 1,
+    "file": "assets/library/wtc1/fugue-3-bwv-848.midi",
+    "name": "fugue-3-bwv-848.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-1/releases/download/v0.3/fugue-3-bwv-848.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-1/releases/tag/v0.3",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "221eecd677826cc0e3006321e51b38789d527a0155b067d5819250b77ff38019"
+  },
+  {
+    "book": 1,
+    "file": "assets/library/wtc1/fugue-4-bwv-849.midi",
+    "name": "fugue-4-bwv-849.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-1/releases/download/v0.3/fugue-4-bwv-849.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-1/releases/tag/v0.3",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "b49b2bbc1276bb07ef3ee378d918fe24461dfb2f47bd8650a2e9cf29b282aa6c"
+  },
+  {
+    "book": 1,
+    "file": "assets/library/wtc1/fugue-5-bwv-850.midi",
+    "name": "fugue-5-bwv-850.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-1/releases/download/v0.3/fugue-5-bwv-850.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-1/releases/tag/v0.3",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "b49fe1baca2633a1437fddb4e191e059fb5d699443061488287b2a5339abae2f"
+  },
+  {
+    "book": 1,
+    "file": "assets/library/wtc1/fugue-6-bwv-851.midi",
+    "name": "fugue-6-bwv-851.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-1/releases/download/v0.3/fugue-6-bwv-851.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-1/releases/tag/v0.3",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "0640eb665aed9253055ad99242c4c2a688b4b1df470aa7c8b6ef9931b6bb8fb9"
+  },
+  {
+    "book": 1,
+    "file": "assets/library/wtc1/fugue-7-bwv-852.midi",
+    "name": "fugue-7-bwv-852.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-1/releases/download/v0.3/fugue-7-bwv-852.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-1/releases/tag/v0.3",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "847db2a29346a683da6912f08b6c3aef3fd7076d495d97f5ddc76474def8f98c"
+  },
+  {
+    "book": 1,
+    "file": "assets/library/wtc1/fugue-8-bwv-853.midi",
+    "name": "fugue-8-bwv-853.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-1/releases/download/v0.3/fugue-8-bwv-853.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-1/releases/tag/v0.3",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "10c4b017c369982ea22cf6ce482a9e27e32f47d9919e4e931822d28982c14b0a"
+  },
+  {
+    "book": 1,
+    "file": "assets/library/wtc1/fugue-9-bwv-854.midi",
+    "name": "fugue-9-bwv-854.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-1/releases/download/v0.3/fugue-9-bwv-854.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-1/releases/tag/v0.3",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "84c723278833b1c518a70fc05787fdd98b9f7c2dcd1418c1b3f5ca36df17e359"
+  },
+  {
+    "book": 1,
+    "file": "assets/library/wtc1/prelude-1-bwv-846.midi",
+    "name": "prelude-1-bwv-846.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-1/releases/download/v0.3/prelude-1-bwv-846.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-1/releases/tag/v0.3",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "12492bd3544d95c7dc56ce8ed700cca11bf3ac3a99c096b157d3a89f42b9dcd3"
+  },
+  {
+    "book": 1,
+    "file": "assets/library/wtc1/prelude-10-bwv-855.midi",
+    "name": "prelude-10-bwv-855.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-1/releases/download/v0.3/prelude-10-bwv-855.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-1/releases/tag/v0.3",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "f792746cc13b9513b7fd6759df52dcb2eead8ce45dd1e2faa0f1b510583c3573"
+  },
+  {
+    "book": 1,
+    "file": "assets/library/wtc1/prelude-11-bwv-856.midi",
+    "name": "prelude-11-bwv-856.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-1/releases/download/v0.3/prelude-11-bwv-856.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-1/releases/tag/v0.3",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "9e9d7711f00c81b19c7a3460edf233583e8311d82c9b909273c538705e2438d6"
+  },
+  {
+    "book": 1,
+    "file": "assets/library/wtc1/prelude-12-bwv-857.midi",
+    "name": "prelude-12-bwv-857.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-1/releases/download/v0.3/prelude-12-bwv-857.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-1/releases/tag/v0.3",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "d896f63e39afc36425d64d90078e63aa6d4d96675e6015a64a73fa8a23ba4e45"
+  },
+  {
+    "book": 1,
+    "file": "assets/library/wtc1/prelude-13-bwv-858.midi",
+    "name": "prelude-13-bwv-858.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-1/releases/download/v0.3/prelude-13-bwv-858.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-1/releases/tag/v0.3",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "b7fca3dc58333a858268740f557134d848a76851d196292998767af4286db3b8"
+  },
+  {
+    "book": 1,
+    "file": "assets/library/wtc1/prelude-14-bwv-859.midi",
+    "name": "prelude-14-bwv-859.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-1/releases/download/v0.3/prelude-14-bwv-859.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-1/releases/tag/v0.3",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "a0dbe3804fe95ff3c82eddd592b2283391d4349a5eb07c638346f07308739764"
+  },
+  {
+    "book": 1,
+    "file": "assets/library/wtc1/prelude-15-bwv-860.midi",
+    "name": "prelude-15-bwv-860.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-1/releases/download/v0.3/prelude-15-bwv-860.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-1/releases/tag/v0.3",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "a693666026c55cdfce0f2d1adf583d457e1fbc264633600688da92e0e63453c4"
+  },
+  {
+    "book": 1,
+    "file": "assets/library/wtc1/prelude-16-bwv-861.midi",
+    "name": "prelude-16-bwv-861.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-1/releases/download/v0.3/prelude-16-bwv-861.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-1/releases/tag/v0.3",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "d63dc5d82a1c759878dae0505fd9af3ea7cde24b2a3f0942a293866135ff72f5"
+  },
+  {
+    "book": 1,
+    "file": "assets/library/wtc1/prelude-17-bwv-862.midi",
+    "name": "prelude-17-bwv-862.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-1/releases/download/v0.3/prelude-17-bwv-862.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-1/releases/tag/v0.3",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "b9e0fd32a2b816b58d214e6faa3c5bb375e4eca3b65c64ceb0ba2dbb94b760b9"
+  },
+  {
+    "book": 1,
+    "file": "assets/library/wtc1/prelude-18-bwv-863.midi",
+    "name": "prelude-18-bwv-863.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-1/releases/download/v0.3/prelude-18-bwv-863.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-1/releases/tag/v0.3",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "453b7aa6e754a0450d1524c49cfd554ede48387936cdb1c46196d138c1280a5a"
+  },
+  {
+    "book": 1,
+    "file": "assets/library/wtc1/prelude-19-bwv-864.midi",
+    "name": "prelude-19-bwv-864.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-1/releases/download/v0.3/prelude-19-bwv-864.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-1/releases/tag/v0.3",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "09bd90489aa557d9d350e4c2236ad729fab51f04006ebc30dc2747fdb9eff69a"
+  },
+  {
+    "book": 1,
+    "file": "assets/library/wtc1/prelude-2-bwv-847.midi",
+    "name": "prelude-2-bwv-847.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-1/releases/download/v0.3/prelude-2-bwv-847.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-1/releases/tag/v0.3",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "01333f74a40b7cfa54dcbe41d22aaf19fe1b88ce818207a4e6916b15d3f6fb10"
+  },
+  {
+    "book": 1,
+    "file": "assets/library/wtc1/prelude-20-bwv-865.midi",
+    "name": "prelude-20-bwv-865.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-1/releases/download/v0.3/prelude-20-bwv-865.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-1/releases/tag/v0.3",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "1d9efb6ca645085d712eed7963ee6b8a92c6a97f0a48be00d73f533f53f42b9b"
+  },
+  {
+    "book": 1,
+    "file": "assets/library/wtc1/prelude-21-bwv-866.midi",
+    "name": "prelude-21-bwv-866.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-1/releases/download/v0.3/prelude-21-bwv-866.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-1/releases/tag/v0.3",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "8594df1e00744cea1730eb960c69553c9ac11b092922473f79ed24b01fa2b266"
+  },
+  {
+    "book": 1,
+    "file": "assets/library/wtc1/prelude-22-bwv-867.midi",
+    "name": "prelude-22-bwv-867.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-1/releases/download/v0.3/prelude-22-bwv-867.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-1/releases/tag/v0.3",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "3a5aea07621b2bec8c86027a612e75859d09ed3459cca1e0689db0fb580edd2e"
+  },
+  {
+    "book": 1,
+    "file": "assets/library/wtc1/prelude-23-bwv-868.midi",
+    "name": "prelude-23-bwv-868.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-1/releases/download/v0.3/prelude-23-bwv-868.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-1/releases/tag/v0.3",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "d40cd1d9dc5b9b8d18a58409f0697fe82e46b60ee8410f7917aa307b0e0207fb"
+  },
+  {
+    "book": 1,
+    "file": "assets/library/wtc1/prelude-24-bwv-869.midi",
+    "name": "prelude-24-bwv-869.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-1/releases/download/v0.3/prelude-24-bwv-869.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-1/releases/tag/v0.3",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "e57d5979f78d679ff61919febcc30cf4bcb4f60e6af5183555700cf2c35848a7"
+  },
+  {
+    "book": 1,
+    "file": "assets/library/wtc1/prelude-3-bwv-848.midi",
+    "name": "prelude-3-bwv-848.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-1/releases/download/v0.3/prelude-3-bwv-848.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-1/releases/tag/v0.3",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "10f17d8c80da13f429410f8cf89483ba40d4da6546b3fee5e8ead5787855e5d4"
+  },
+  {
+    "book": 1,
+    "file": "assets/library/wtc1/prelude-4-bwv-849.midi",
+    "name": "prelude-4-bwv-849.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-1/releases/download/v0.3/prelude-4-bwv-849.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-1/releases/tag/v0.3",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "ad9bf99141ad3c3276fb91a5acda1150c0d869c5bc558a10c1420cccfdd8679e"
+  },
+  {
+    "book": 1,
+    "file": "assets/library/wtc1/prelude-5-bwv-850.midi",
+    "name": "prelude-5-bwv-850.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-1/releases/download/v0.3/prelude-5-bwv-850.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-1/releases/tag/v0.3",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "d62921d4b129a0c856b463e52950cd5122d864164398bb5118e840144a84b724"
+  },
+  {
+    "book": 1,
+    "file": "assets/library/wtc1/prelude-6-bwv-851.midi",
+    "name": "prelude-6-bwv-851.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-1/releases/download/v0.3/prelude-6-bwv-851.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-1/releases/tag/v0.3",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "6f0ac20f8750eefca8990d4b59a522bdf58d6dde078e56662aff0bfdad180503"
+  },
+  {
+    "book": 1,
+    "file": "assets/library/wtc1/prelude-7-bwv-852.midi",
+    "name": "prelude-7-bwv-852.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-1/releases/download/v0.3/prelude-7-bwv-852.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-1/releases/tag/v0.3",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "bbea5cbb79b476b3154a166f221623364ebd57d96259a74140eea35c0b81e09f"
+  },
+  {
+    "book": 1,
+    "file": "assets/library/wtc1/prelude-8-bwv-853.midi",
+    "name": "prelude-8-bwv-853.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-1/releases/download/v0.3/prelude-8-bwv-853.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-1/releases/tag/v0.3",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "b36950c0dd3e4c03177ca95f206582860c8085f4f04fea91958aab3d7914dabd"
+  },
+  {
+    "book": 1,
+    "file": "assets/library/wtc1/prelude-9-bwv-854.midi",
+    "name": "prelude-9-bwv-854.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-1/releases/download/v0.3/prelude-9-bwv-854.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-1/releases/tag/v0.3",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "c9d58c5c1deb930267acc99838783fbef02a0689f27c9065c562f6345eda037d"
+  },
+  {
+    "book": 2,
+    "file": "assets/library/wtc2/fugue-1-bwv-870.midi",
+    "name": "fugue-1-bwv-870.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-2/releases/download/v0.1/fugue-1-bwv-870.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-2/releases/tag/v0.1",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "8a7e7e18f48e7b90c620ee1463e729ce4867afc6feb952dd782af4115d7ed8db"
+  },
+  {
+    "book": 2,
+    "file": "assets/library/wtc2/fugue-10-bwv-879.midi",
+    "name": "fugue-10-bwv-879.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-2/releases/download/v0.1/fugue-10-bwv-879.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-2/releases/tag/v0.1",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "5b84a1a9fcd8b2fb47baf29752b24202f5a0a6f20a40defd9500db87c9d44b33"
+  },
+  {
+    "book": 2,
+    "file": "assets/library/wtc2/fugue-11-bwv-880.midi",
+    "name": "fugue-11-bwv-880.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-2/releases/download/v0.1/fugue-11-bwv-880.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-2/releases/tag/v0.1",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "05413bc42a9afb05ab8ef8a3fa9d1564eac1c5f9926e35127754919b269d2a2d"
+  },
+  {
+    "book": 2,
+    "file": "assets/library/wtc2/fugue-12-bwv-881.midi",
+    "name": "fugue-12-bwv-881.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-2/releases/download/v0.1/fugue-12-bwv-881.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-2/releases/tag/v0.1",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "cfdb4f995b5cf259fc8eeb6648006d78d65a49974835c42e9d0bf82b8633fb39"
+  },
+  {
+    "book": 2,
+    "file": "assets/library/wtc2/fugue-13-bwv-882.midi",
+    "name": "fugue-13-bwv-882.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-2/releases/download/v0.1/fugue-13-bwv-882.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-2/releases/tag/v0.1",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "b1394a7b6e7df4c79eaaf0a58146fa494e01545ecef405a1eaaec312d0a31129"
+  },
+  {
+    "book": 2,
+    "file": "assets/library/wtc2/fugue-14-bwv-883.midi",
+    "name": "fugue-14-bwv-883.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-2/releases/download/v0.1/fugue-14-bwv-883.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-2/releases/tag/v0.1",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "d03c49423f3c18a5a8aa17ab33e11e122741094985205981d11c0d33fbe775be"
+  },
+  {
+    "book": 2,
+    "file": "assets/library/wtc2/fugue-15-bwv-884.midi",
+    "name": "fugue-15-bwv-884.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-2/releases/download/v0.1/fugue-15-bwv-884.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-2/releases/tag/v0.1",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "56afe73f69a48a4fe6f3007023043fa0e281bbf3233881b83ca6cfc318c5f51e"
+  },
+  {
+    "book": 2,
+    "file": "assets/library/wtc2/fugue-16-bwv-885.midi",
+    "name": "fugue-16-bwv-885.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-2/releases/download/v0.1/fugue-16-bwv-885.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-2/releases/tag/v0.1",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "eb500e7b49811fabcebcbbfdfbe2da0cf503c34a487c278d73283be1b5d0d7ec"
+  },
+  {
+    "book": 2,
+    "file": "assets/library/wtc2/fugue-17-bwv-886.midi",
+    "name": "fugue-17-bwv-886.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-2/releases/download/v0.1/fugue-17-bwv-886.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-2/releases/tag/v0.1",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "289d1de8759ee8b6810a3bce0f996b67971520ac046ccabdc280df677f4ae2b9"
+  },
+  {
+    "book": 2,
+    "file": "assets/library/wtc2/fugue-18-bwv-887.midi",
+    "name": "fugue-18-bwv-887.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-2/releases/download/v0.1/fugue-18-bwv-887.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-2/releases/tag/v0.1",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "293161a903dbbb48c94d2d33c16b142303f0060131a2066ea199fffeec408a7c"
+  },
+  {
+    "book": 2,
+    "file": "assets/library/wtc2/fugue-19-bwv-888.midi",
+    "name": "fugue-19-bwv-888.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-2/releases/download/v0.1/fugue-19-bwv-888.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-2/releases/tag/v0.1",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "7e4706ad53139e015f4b312b24b9e7c7b0e4f69a7fe18d54a89482399eb2fdff"
+  },
+  {
+    "book": 2,
+    "file": "assets/library/wtc2/fugue-2-bwv-871.midi",
+    "name": "fugue-2-bwv-871.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-2/releases/download/v0.1/fugue-2-bwv-871.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-2/releases/tag/v0.1",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "859caebcfe5957dc1cd86964e46ce373a53f11fe00f2d82a991a42417f389a32"
+  },
+  {
+    "book": 2,
+    "file": "assets/library/wtc2/fugue-20-bwv-889.midi",
+    "name": "fugue-20-bwv-889.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-2/releases/download/v0.1/fugue-20-bwv-889.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-2/releases/tag/v0.1",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "d88efa0e6eba4317dc0cd64a7d43295c236fd39c1b5133797ce68695956dc8d1"
+  },
+  {
+    "book": 2,
+    "file": "assets/library/wtc2/fugue-21-bwv-890.midi",
+    "name": "fugue-21-bwv-890.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-2/releases/download/v0.1/fugue-21-bwv-890.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-2/releases/tag/v0.1",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "e150f27a6e8e7025752dae172d6f8c7bb54d3bd0fe0471c55d613053c59db161"
+  },
+  {
+    "book": 2,
+    "file": "assets/library/wtc2/fugue-22-bwv-891.midi",
+    "name": "fugue-22-bwv-891.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-2/releases/download/v0.1/fugue-22-bwv-891.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-2/releases/tag/v0.1",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "a5977a6918eda57764207b3514dc3e9e9850ad1c52661f47e4573fe0a9a85924"
+  },
+  {
+    "book": 2,
+    "file": "assets/library/wtc2/fugue-23-bwv-892.midi",
+    "name": "fugue-23-bwv-892.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-2/releases/download/v0.1/fugue-23-bwv-892.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-2/releases/tag/v0.1",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "251800aabd8332a1061b4e6de2eb6c028cb93f892d4a3de7bb7288a55f564344"
+  },
+  {
+    "book": 2,
+    "file": "assets/library/wtc2/fugue-24-bwv-893.midi",
+    "name": "fugue-24-bwv-893.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-2/releases/download/v0.1/fugue-24-bwv-893.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-2/releases/tag/v0.1",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "d38a60ca72d5e34fd747702c5aa5c70fb4f0e66dcdf69ee9f444522b8a295ba9"
+  },
+  {
+    "book": 2,
+    "file": "assets/library/wtc2/fugue-3-bwv-872.midi",
+    "name": "fugue-3-bwv-872.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-2/releases/download/v0.1/fugue-3-bwv-872.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-2/releases/tag/v0.1",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "7e6c038630afd038d647223f126c918e45580c9a7f8c29dc2526ad7b5bdb21e4"
+  },
+  {
+    "book": 2,
+    "file": "assets/library/wtc2/fugue-4-bwv-873.midi",
+    "name": "fugue-4-bwv-873.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-2/releases/download/v0.1/fugue-4-bwv-873.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-2/releases/tag/v0.1",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "fd73db36345796d5332ce5363fa111e7a005eda24047729549be85bbc988333b"
+  },
+  {
+    "book": 2,
+    "file": "assets/library/wtc2/fugue-5-bwv-874.midi",
+    "name": "fugue-5-bwv-874.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-2/releases/download/v0.1/fugue-5-bwv-874.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-2/releases/tag/v0.1",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "d654d266cf2bac5661cb76a619535c7e9ae27bb8c850480552b53f4ce37a9696"
+  },
+  {
+    "book": 2,
+    "file": "assets/library/wtc2/fugue-6-bwv-875.midi",
+    "name": "fugue-6-bwv-875.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-2/releases/download/v0.1/fugue-6-bwv-875.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-2/releases/tag/v0.1",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "449763a6e0f24a8d0911d87776421bb00581503ee6b3d3f6c453377041cdad9a"
+  },
+  {
+    "book": 2,
+    "file": "assets/library/wtc2/fugue-7-bwv-876.midi",
+    "name": "fugue-7-bwv-876.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-2/releases/download/v0.1/fugue-7-bwv-876.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-2/releases/tag/v0.1",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "14b519d1b457230604ca062fb449c4c6020b79a62339fd93208b81785474dcb5"
+  },
+  {
+    "book": 2,
+    "file": "assets/library/wtc2/fugue-8-bwv-877.midi",
+    "name": "fugue-8-bwv-877.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-2/releases/download/v0.1/fugue-8-bwv-877.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-2/releases/tag/v0.1",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "ce4cca672ffeca322d2cadb131f5b7ba83b3e338858479fbf1500496f2b76dc1"
+  },
+  {
+    "book": 2,
+    "file": "assets/library/wtc2/fugue-9-bwv-878.midi",
+    "name": "fugue-9-bwv-878.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-2/releases/download/v0.1/fugue-9-bwv-878.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-2/releases/tag/v0.1",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "108fa62a3ade382f4070029d421b2fe31bd559e358ad293ff50639d74584f695"
+  },
+  {
+    "book": 2,
+    "file": "assets/library/wtc2/prelude-10-bwv-879.midi",
+    "name": "prelude-10-bwv-879.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-2/releases/download/v0.1/prelude-10-bwv-879.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-2/releases/tag/v0.1",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "6ba54f364d12c232a43bc6c3b07a60e4782200e1199029ccfcc443c0686b7b21"
+  },
+  {
+    "book": 2,
+    "file": "assets/library/wtc2/prelude-11-bwv-880.midi",
+    "name": "prelude-11-bwv-880.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-2/releases/download/v0.1/prelude-11-bwv-880.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-2/releases/tag/v0.1",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "7d85a064aefa3e6a45f40c4359684842bad56358262101aea48e46c425ed63f6"
+  },
+  {
+    "book": 2,
+    "file": "assets/library/wtc2/prelude-12-bwv-881.midi",
+    "name": "prelude-12-bwv-881.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-2/releases/download/v0.1/prelude-12-bwv-881.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-2/releases/tag/v0.1",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "68a790a5769d82ec5d140d711263e8aee1d0d0474be577ce8cdbaffb0156723a"
+  },
+  {
+    "book": 2,
+    "file": "assets/library/wtc2/prelude-13-bwv-882.midi",
+    "name": "prelude-13-bwv-882.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-2/releases/download/v0.1/prelude-13-bwv-882.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-2/releases/tag/v0.1",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "633133e16199d287e1f64d7a5c55742cd343a6bb9b1f5a837a99560a8d4261d9"
+  },
+  {
+    "book": 2,
+    "file": "assets/library/wtc2/prelude-14-bwv-883.midi",
+    "name": "prelude-14-bwv-883.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-2/releases/download/v0.1/prelude-14-bwv-883.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-2/releases/tag/v0.1",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "1ab1856f7e36fb6770c4a4682f2d6829bbdcb06252dc4da63a2cfd2bab6f8c1a"
+  },
+  {
+    "book": 2,
+    "file": "assets/library/wtc2/prelude-15-bwv-884.midi",
+    "name": "prelude-15-bwv-884.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-2/releases/download/v0.1/prelude-15-bwv-884.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-2/releases/tag/v0.1",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "d19b81966324b280a2f73b53a8e111b7fc9ec5b7b7840d789dba5eda91e14159"
+  },
+  {
+    "book": 2,
+    "file": "assets/library/wtc2/prelude-16-bwv-885.midi",
+    "name": "prelude-16-bwv-885.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-2/releases/download/v0.1/prelude-16-bwv-885.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-2/releases/tag/v0.1",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "e2fa2dd0f1d2165985838579a452a80c753dbe93ec9c412a902fd2a98f42d68a"
+  },
+  {
+    "book": 2,
+    "file": "assets/library/wtc2/prelude-17-bwv-886.midi",
+    "name": "prelude-17-bwv-886.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-2/releases/download/v0.1/prelude-17-bwv-886.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-2/releases/tag/v0.1",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "b5087c19a9c5e110eb854630fab4ea83e5176cbb878cff3d7d37b82024ad1707"
+  },
+  {
+    "book": 2,
+    "file": "assets/library/wtc2/prelude-18-bwv-887.midi",
+    "name": "prelude-18-bwv-887.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-2/releases/download/v0.1/prelude-18-bwv-887.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-2/releases/tag/v0.1",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "23dfa8fa6febc2554064c11b561bb15c1dca672f41f808a0595cef4304a41938"
+  },
+  {
+    "book": 2,
+    "file": "assets/library/wtc2/prelude-19-bwv-888.midi",
+    "name": "prelude-19-bwv-888.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-2/releases/download/v0.1/prelude-19-bwv-888.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-2/releases/tag/v0.1",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "85f1ac2d508ddb508acf778eaed231ca27d2cca5945e652de6ccf4ea05f3a641"
+  },
+  {
+    "book": 2,
+    "file": "assets/library/wtc2/prelude-1a-bwv-870.midi",
+    "name": "prelude-1a-bwv-870.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-2/releases/download/v0.1/prelude-1a-bwv-870.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-2/releases/tag/v0.1",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "005f46083a15040497a76b9906170402a5fd627fdf51862a8942b164646ee83a"
+  },
+  {
+    "book": 2,
+    "file": "assets/library/wtc2/prelude-1b-bwv-870.midi",
+    "name": "prelude-1b-bwv-870.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-2/releases/download/v0.1/prelude-1b-bwv-870.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-2/releases/tag/v0.1",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "d9c0e9352f3fa36a7c9991f30d4b6e1414a85b71fc411fa6184d3284f2409208"
+  },
+  {
+    "book": 2,
+    "file": "assets/library/wtc2/prelude-2-bwv-871.midi",
+    "name": "prelude-2-bwv-871.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-2/releases/download/v0.1/prelude-2-bwv-871.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-2/releases/tag/v0.1",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "1814fa35a94c0376f36d4170f3e161dd55065ef87d5bb79d8a4181146071c553"
+  },
+  {
+    "book": 2,
+    "file": "assets/library/wtc2/prelude-20-bwv-889.midi",
+    "name": "prelude-20-bwv-889.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-2/releases/download/v0.1/prelude-20-bwv-889.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-2/releases/tag/v0.1",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "909c39d14df2a54b20752feefe601bd8344089f8606b4065d443ccfe3448d21c"
+  },
+  {
+    "book": 2,
+    "file": "assets/library/wtc2/prelude-21-bwv-890.midi",
+    "name": "prelude-21-bwv-890.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-2/releases/download/v0.1/prelude-21-bwv-890.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-2/releases/tag/v0.1",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "498214c1968adf3c0b663ad9ce2c9dc7b4b826c77f26851feea23c2c6fd7409f"
+  },
+  {
+    "book": 2,
+    "file": "assets/library/wtc2/prelude-22-bwv-891.midi",
+    "name": "prelude-22-bwv-891.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-2/releases/download/v0.1/prelude-22-bwv-891.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-2/releases/tag/v0.1",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "c51efdc187029e4706ef3b8973b01f314f793f2b97015fe1ed48f018f916980a"
+  },
+  {
+    "book": 2,
+    "file": "assets/library/wtc2/prelude-23-bwv-892.midi",
+    "name": "prelude-23-bwv-892.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-2/releases/download/v0.1/prelude-23-bwv-892.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-2/releases/tag/v0.1",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "174863f0d8a2705105298cdab9f87cc618b22e69c4f66676af1182f55f87e65f"
+  },
+  {
+    "book": 2,
+    "file": "assets/library/wtc2/prelude-24a-bwv-893.midi",
+    "name": "prelude-24a-bwv-893.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-2/releases/download/v0.1/prelude-24a-bwv-893.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-2/releases/tag/v0.1",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "3d8e6452afbe0fe1b650fac0981c01b6dc25558febf6738bf064a6c25e8b5868"
+  },
+  {
+    "book": 2,
+    "file": "assets/library/wtc2/prelude-24b-bwv-893.midi",
+    "name": "prelude-24b-bwv-893.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-2/releases/download/v0.1/prelude-24b-bwv-893.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-2/releases/tag/v0.1",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "732c5b877e53ca7b938832f88f96639203f847e4d15f89a19030aafec3a96916"
+  },
+  {
+    "book": 2,
+    "file": "assets/library/wtc2/prelude-3-bwv-872.midi",
+    "name": "prelude-3-bwv-872.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-2/releases/download/v0.1/prelude-3-bwv-872.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-2/releases/tag/v0.1",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "e44a5257b97626c2f9b4c303f43e963997113813c64e9cd8e64a0b7a06856180"
+  },
+  {
+    "book": 2,
+    "file": "assets/library/wtc2/prelude-4-bwv-873.midi",
+    "name": "prelude-4-bwv-873.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-2/releases/download/v0.1/prelude-4-bwv-873.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-2/releases/tag/v0.1",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "a47edf72bc601a3173ee214f9a0619ab4fb03138612fcdc0138991959b7387a4"
+  },
+  {
+    "book": 2,
+    "file": "assets/library/wtc2/prelude-5-bwv-874.midi",
+    "name": "prelude-5-bwv-874.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-2/releases/download/v0.1/prelude-5-bwv-874.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-2/releases/tag/v0.1",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "8a3d581fb0083be1d2977536fbf3adb6afc29b91cf807e4d774c3f09a87c0ff8"
+  },
+  {
+    "book": 2,
+    "file": "assets/library/wtc2/prelude-6-bwv-875.midi",
+    "name": "prelude-6-bwv-875.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-2/releases/download/v0.1/prelude-6-bwv-875.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-2/releases/tag/v0.1",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "b3e0ffc208d3bd4d190b360c43310a3d1cee5f2dad1d0db9d87cd43e379694b9"
+  },
+  {
+    "book": 2,
+    "file": "assets/library/wtc2/prelude-7-bwv-876.midi",
+    "name": "prelude-7-bwv-876.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-2/releases/download/v0.1/prelude-7-bwv-876.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-2/releases/tag/v0.1",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "f50389f25d293f568e18ecf16df2f3e6c1f594e9315f595ad30f6d2d13a74d8e"
+  },
+  {
+    "book": 2,
+    "file": "assets/library/wtc2/prelude-8-bwv-877.midi",
+    "name": "prelude-8-bwv-877.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-2/releases/download/v0.1/prelude-8-bwv-877.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-2/releases/tag/v0.1",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "b6b5b1fae7d5c77af16a45b48a4830ff939b10d38130e5d46465fe4f514fdb31"
+  },
+  {
+    "book": 2,
+    "file": "assets/library/wtc2/prelude-9-bwv-878.midi",
+    "name": "prelude-9-bwv-878.midi",
+    "url": "https://github.com/ksnortum/bach-well-tempered-2/releases/download/v0.1/prelude-9-bwv-878.midi",
+    "source": "https://github.com/ksnortum/bach-well-tempered-2/releases/tag/v0.1",
+    "license": "CC BY-SA 4.0",
+    "credit": "Knute Snortum",
+    "sha256": "1abd735aa4effa89af2d82199c6f004c7bf4e6f2617f2a142637c1e54cba5b01"
+  }
+]

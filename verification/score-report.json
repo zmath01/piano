@@ -1,0 +1,39 @@
+{
+  "status": "pass",
+  "independentParser": "@tonejs/midi",
+  "notes": 1529,
+  "durationMs": 157795,
+  "maxOnsetErrorMs": 0.5,
+  "maxDurationErrorMs": 0.48349999998572457,
+  "timingToleranceMs": 0.501,
+  "reason": "Half-millisecond rounding plus floating-point tolerance",
+  "matched": [
+    "every onset",
+    "every pitch",
+    "every duration",
+    "every velocity",
+    "tempo map integration"
+  ],
+  "tempos": [
+    {
+      "bpm": 56.000029866682596,
+      "ticks": 0,
+      "time": 0
+    },
+    {
+      "bpm": 44.000011733336464,
+      "ticks": 54816,
+      "time": 152.946347
+    },
+    {
+      "bpm": 36.00001440000576,
+      "ticks": 55008,
+      "time": 153.628165
+    },
+    {
+      "bpm": 8,
+      "ticks": 55104,
+      "time": 154.0448315
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:mp="http://www.mutopiaproject.org/piece-data/0.1/">
+
+<rdf:Description rdf:about=".">
+    <mp:title>Das Wohltemperierte Clavier I, Fuga II</mp:title>
+    <mp:composer>BachJS</mp:composer>
+    <mp:opus>BWV 847</mp:opus>
+    <mp:lyricist/>
+    <mp:for>Harpsichord, Piano</mp:for>
+    <mp:date/>
+    <mp:style>Baroque</mp:style>
+    <mp:metre/>
+    <mp:arranger/>
+    <mp:source>Edition Peters</mp:source>
+    <mp:licence>Creative Commons Attribution-ShareAlike 4.0</mp:licence>
+
+    <mp:lyFile>fuga2.ly</mp:lyFile>
+    <mp:midFile>fuga2.mid</mp:midFile>
+    <mp:psFileA4>fuga2-a4.ps.gz</mp:psFileA4>
+    <mp:pdfFileA4>fuga2-a4.pdf</mp:pdfFileA4>
+    <mp:psFileLet>fuga2-let.ps.gz</mp:psFileLet>
+    <mp:pdfFileLet>fuga2-let.pdf</mp:pdfFileLet>
+    <mp:pngFile>fuga2-preview.png</mp:pngFile>
+    <mp:pngHeight>86</mp:pngHeight>
+    <mp:pngWidth>539</mp:pngWidth>
+
+    <mp:id>Mutopia-2014/03/02-1941</mp:id>
+    <mp:maintainer>Urs Metzger</mp:maintainer>
+    <mp:maintainerEmail></mp:maintainerEmail>
+    <mp:maintainerWeb/>
+    <mp:moreInfo/>
+    <mp:lilypondVersion>2.18.0</mp:lilypondVersion>
+</rdf:Description>
+
+</rdf:RDF>

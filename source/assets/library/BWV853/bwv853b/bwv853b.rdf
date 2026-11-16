@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:mp="http://www.mutopiaproject.org/piece-data/0.1/">
+
+<rdf:Description rdf:about=".">
+    <mp:title>Das Wohltemperierte Clavier I, Fuga VIII</mp:title>
+    <mp:composer>BachJS</mp:composer>
+    <mp:opus>BWV 853</mp:opus>
+    <mp:lyricist/>
+    <mp:for>Harpsichord, Piano</mp:for>
+    <mp:date/>
+    <mp:style>Baroque</mp:style>
+    <mp:metre/>
+    <mp:arranger/>
+    <mp:source>Breitkopf &amp;amp; Hartel, 1866</mp:source>
+    <mp:licence>Public Domain</mp:licence>
+
+    <mp:lyFile>bwv853b.ly</mp:lyFile>
+    <mp:midFile>bwv853b.mid</mp:midFile>
+    <mp:psFileA4>bwv853b-a4.ps.gz</mp:psFileA4>
+    <mp:pdfFileA4>bwv853b-a4.pdf</mp:pdfFileA4>
+    <mp:psFileLet>bwv853b-let.ps.gz</mp:psFileLet>
+    <mp:pdfFileLet>bwv853b-let.pdf</mp:pdfFileLet>
+    <mp:pngFile>bwv853b-preview.png</mp:pngFile>
+    <mp:pngHeight>91</mp:pngHeight>
+    <mp:pngWidth>552</mp:pngWidth>
+
+    <mp:id>Mutopia-2006/07/02-597</mp:id>
+    <mp:maintainer>Davide Castellone</mp:maintainer>
+    <mp:maintainerEmail></mp:maintainerEmail>
+    <mp:maintainerWeb/>
+    <mp:moreInfo/>
+    <mp:lilypondVersion>2.9.10</mp:lilypondVersion>
+</rdf:Description>
+
+</rdf:RDF>

@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f5f2ec">
+  <meta name="description" content="An offline piano and Bach counterpoint explorer: the Well-Tempered Clavier, Art of Fugue, Goldberg Variations and interactive musical symmetry.">
+  <title>Piano — a little room for music</title>
+  <style>/*__CSS__*/</style>
+</head>
+<body>
+<svg class="icon-defs" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><defs>
+<symbol id="i-play" viewBox="0 0 24 24"><path d="m9 5 11 7-11 7Z" fill="currentColor" stroke="none"/></symbol>
+<symbol id="i-pause" viewBox="0 0 24 24"><path d="M8 5v14M16 5v14" stroke-width="3"/></symbol>
+<symbol id="i-reset" viewBox="0 0 24 24"><path d="M5 9a8 8 0 1 1 0 7M5 3v6h6"/></symbol>
+<symbol id="i-volume" viewBox="0 0 24 24"><path d="M11 4 5 9H2v6h3l6 5ZM15 8a6 6 0 0 1 0 8M18 5a10 10 0 0 1 0 14"/></symbol>
+<symbol id="i-left" viewBox="0 0 24 24"><path d="m14 6-6 6 6 6"/></symbol>
+<symbol id="i-right" viewBox="0 0 24 24"><path d="m10 6 6 6-6 6"/></symbol>
+<symbol id="i-keyboard" viewBox="0 0 24 24"><rect x="2" y="5" width="20" height="14" rx="2"/><path d="M6 5v7h3V5m6 0v7h3V5M7 12v7m5-14v14m5-7v7"/></symbol>
+</defs></svg>
+<div class="app">
+  <header class="topbar"><a class="wordmark" href="#" aria-label="Piano home"><span class="brand-mark" aria-hidden="true"><i></i><i></i><i></i></span> PIANO<span class="brand-dot">.</span></a><span class="top-note">A LITTLE ROOM FOR MUSIC</span><div class="topbar-actions"><button id="support-button" class="support-button" aria-haspopup="dialog"><span class="support-dot" aria-hidden="true"></span>Support <span lang="zh">支持</span></button><button id="about-button" class="text-button" aria-haspopup="dialog">About <span aria-hidden="true">↗</span></button></div></header>
+  <main>
+    <section class="intro" aria-labelledby="title"><div><p class="eyebrow">AN INSTRUMENT. AN INVITATION.</p><h1 id="title">Make a little music.</h1></div><p class="intro-note">Take your time.<br>Every note belongs here.</p></section>
+    <section class="instrument" aria-label="Interactive piano">
+      <div class="stage-top"><span><span id="ready-dot" class="status-dot"></span><span id="instrument-status" role="status">Ready when you are</span></span><span id="note-readout" aria-hidden="true">88 KEYS · A0—C8</span></div>
+      <div id="stage"><canvas id="piano-canvas" aria-label="3D piano. Play with touch, mouse, or the computer keyboard. Use Accessible keys below for individual note buttons."></canvas><div id="scene-message" class="scene-message" hidden></div></div>
+      <div class="stage-bottom"><span class="hint"><svg><use href="#i-keyboard"/></svg><span id="keyboard-hint">Use A–K to play · W E T Y U for black keys</span></span><div class="octaves"><span id="octave-label">REGISTER C4</span><button id="octave-down" class="icon-button small" aria-label="Move down one octave"><svg><use href="#i-left"/></svg></button><button id="octave-up" class="icon-button small" aria-label="Move up one octave"><svg><use href="#i-right"/></svg></button></div></div>
+    </section>
+    <section class="library" aria-label="Embedded Bach library">
+      <div class="section-heading"><p class="eyebrow">THE BACH LIBRARY</p><span id="library-count"></span></div>
+      <nav id="collection-tabs" class="collection-tabs" aria-label="Bach collections"></nav>
+      <div class="movement-picker"><button id="previous-work" class="icon-button small" aria-label="Previous movement"><svg><use href="#i-left"/></svg></button><label for="movement" class="sr-only">Movement</label><select id="movement"></select><button id="next-work" class="icon-button small" aria-label="Next movement"><svg><use href="#i-right"/></svg></button></div>
+      <p id="collection-note" class="study-small"></p>
+    </section>
+    <section class="listening" aria-label="Embedded sample music">
+      <div class="piece-row"><div class="piece-number" aria-hidden="true">01</div><div class="piece-info"><p class="eyebrow">THE BUILT-IN SESSION <span class="separator">/</span> J. S. BACH</p><h2>Herr Gott nun schleuß den Himmel auf</h2><p class="piece-caption">BWV 617 <span>·</span> Orgelbüchlein <span>·</span> Rendered for piano</p></div><button id="play" class="play-button" aria-label="Play BWV 617"><svg><use href="#i-play"/></svg></button></div>
+      <div class="timeline"><button id="reset" class="icon-button" aria-label="Restart sample"><svg><use href="#i-reset"/></svg></button><time id="elapsed">0:00</time><input id="seek" type="range" min="0" max="1000" value="0" step="1" aria-label="Sample playback position"><time id="duration">2:38</time></div>
+      <div class="settings"><div class="setting volume"><svg aria-hidden="true"><use href="#i-volume"/></svg><label for="volume">Volume</label><input id="volume" type="range" min="0" max="100" value="65" aria-label="Volume"><output id="volume-value" for="volume">65%</output></div><div class="setting"><label for="speed">Tempo</label><select id="speed"><option value="0.5">0.5×</option><option value="0.75">0.75×</option><option value="1" selected>1× Original</option><option value="1.25">1.25×</option><option value="1.5">1.5×</option></select></div><button id="sustain" class="sustain-button" aria-pressed="false"><span class="pedal-dot"></span>Sustain <span class="keycap">SPACE</span></button></div>
+    </section>
+    <section id="study" class="study" aria-labelledby="study-title">
+      <div class="section-heading"><div><p class="eyebrow">COUNTERPOINT, IN MOTION</p><h2 id="study-title">Hear the structure · 听见结构</h2></div><button id="compare-pair" class="outline-button" hidden>Compare pair</button></div>
+      <div class="context-grid"><div><span class="evidence-label">SCORE / COLLECTION CONTEXT</span><h3 id="context-title"></h3><p id="context-body"></p><a id="context-source" target="_blank" rel="noopener">Read the source ↗</a></div><div><span class="evidence-label">MATHEMATICAL INTERPRETATION</span><p id="context-math"></p><p class="study-small">Coordinates: q = quarter-note beats; p = MIDI semitones. Musical inversion may be tonal rather than chromatically exact.</p></div></div>
+      <div class="part-header"><span>Recorded MIDI parts <span class="study-small">· click to mute; Solo isolates one part</span></span><button id="all-parts" class="text-button">Hear all</button></div><div id="part-controls" class="part-controls"></div>
+      <p class="study-small">Parts follow the source MIDI, and may combine notated voices. Their labels are not a reconstructed score-voice analysis.</p>
+      <canvas id="piano-roll" class="piano-roll" role="img" aria-label="Scrolling note timeline. Use the playback slider or timed fragment selector for keyboard-accessible seeking."></canvas>
+      <p class="study-small">Horizontal: seconds. Vertical: pitch. Colors identify MIDI parts; gold outlines mark the selected fragment. Tap the timeline to seek.</p>
+      <div class="cue-toolbar"><label for="cue-select">Timed motif matches</label><select id="cue-select"></select><button id="jump-cue" class="outline-button">Go to fragment</button><button id="loop-cue" class="outline-button" aria-pressed="false">Loop fragment</button><label class="follow-label"><input id="follow-cues" type="checkbox" checked> Follow playback</label></div>
+      <div class="cue-card" aria-live="polite"><span class="evidence-label">COMPUTED · EIGHT-NOTE PREFIX</span><h3 id="cue-title"></h3><p id="cue-body"></p><code id="cue-math"></code></div>
+      <details class="method"><summary>How to read these annotations <span>+</span></summary><p>Score context describes a published musical form. Computed cues match eight consecutive notes with no internal overlap beyond 0.025 quarter-note beats. Semitone intervals and onset patterns must agree with the displayed transform; note lengths allow 0.025 beats of release/articulation tolerance. They do not certify complete subjects or all fugal devices. Overlapping matched prefixes are labelled stretto-like, rather than a complete stretto analysis. Tonal answers, ornamentation and polyphonic part encoding can prevent detection; no match does not mean no imitation.</p><p>Retrograde is available below as an experiment. The app does not automatically claim that the selected composition uses retrograde, Fibonacci proportions, a golden ratio, or hidden numerical messages.</p></details>
+      <section class="symmetry-lab" aria-labelledby="lab-title"><div class="section-heading"><div><p class="eyebrow">CHANGE ONE RULE. LISTEN AGAIN.</p><h3 id="lab-title">Symmetry lab · 对称实验</h3></div><span class="evidence-label">EXPLORATION, NOT A SCORE CLAIM</span></div><p id="lab-note" class="study-small"></p>
+        <div class="lab-controls"><label for="lab-mode">Transform<select id="lab-mode"><option value="translate">Translation · 移调</option><option value="invert">Inversion · 倒影</option><option value="augment">Augmentation · 增值</option><option value="diminish">Diminution · 减值</option><option value="retrograde">Retrograde · 逆行</option></select></label><label for="lab-shift">Pitch shift <output id="lab-shift-value">0 st</output><input id="lab-shift" type="range" min="-12" max="12" step="1" value="0"></label><label for="lab-scale">Time scale<select id="lab-scale"><option value="0.5">½ ×</option><option value="1" selected>1 ×</option><option value="2">2 ×</option><option value="4">4 ×</option></select></label></div>
+        <canvas id="lab-plot" role="img" aria-label="Reference and transformed eight-note motif in time and pitch coordinates"></canvas><code id="lab-formula"></code><div class="lab-buttons"><button id="play-reference" class="outline-button">Hear reference</button><button id="play-transform" class="outline-button">Hear transform</button><button id="stop-lab" class="text-button">Stop</button><span id="lab-status" class="study-small" role="status"></span></div><details class="method"><summary>The mathematical relationships <span>+</span></summary><p>Pitch translation Tₖ(p) = p + k composes by addition: TₐTᵦ = Tₐ₊ᵦ. Pitch reflection Iₐ(p) = 2a − p is an involution: Iₐ² = identity. For a note occupying [q, q + d], retrograde maps its onset to L − q − d and keeps d; applying it twice restores the original interval. Time dilation Dₛ(q, d) = (sq, sd) composes by multiplication: DᵣDₛ = Dᵣₛ. Dilation is not a distance-preserving isometry.</p><p>These are transformations relating motifs. They do not imply that an entire composition stays unchanged under them. Pitch classes may be considered modulo 12; the app plays in 12-tone equal temperament, which is not established as Bach’s historical tuning by the title Well-Tempered Clavier.</p></details>
+      </section>
+      <div id="variation-map" class="variation-map" hidden><h3>The canon ladder · 卡农阶梯</h3><p class="study-small">Choose a variation. Every third variation through 27 is a canon at the next diatonic interval; 30 is a quodlibet.</p><div id="variation-buttons"></div></div>
+      <details class="method"><summary>Edition, credits and sources <span>+</span></summary><p id="track-credit"></p><div id="reference-links"></div></details>
+    </section>
+    <details id="accessible-panel"><summary>Accessible keys <span aria-hidden="true">+</span></summary><p class="accessible-hint">Tab to a note and hold Enter to play. The register arrows change this keyboard and the A–K keys.</p><div id="accessible-keys" role="group" aria-label="Two octave piano keyboard"></div></details>
+    <p id="error" class="error" role="alert" hidden></p>
+  </main>
+  <footer><span>LESS NOISE. MORE MUSIC.</span><span class="footer-right">Made for a quiet moment <span aria-hidden="true">♮</span></span></footer>
+</div>
+<dialog id="about" aria-labelledby="about-title"><button id="close-about" class="close-button" aria-label="Close about">×</button><p class="eyebrow">THE INSTRUMENT</p><h2 id="about-title">A little room<br>for music.</h2><p>An 88-key piano, built with Three.js and Web Audio. Play with your mouse, multiple fingers, or your computer keyboard. On a small screen, use the register arrows to explore the piano.</p><p><strong>Keyboard:</strong> A S D F G H J K play the white keys; W E T Y U play the black keys. Z / X change register. Hold Space for sustain, or toggle the Sustain button. Opening this panel pauses the sample.</p><p><strong>The library:</strong> 153 tracks cover both WTC books, The Art of Fugue, the Goldberg Variations and BWV 617. The study panel separates published context, computed eight-note matches and exploratory transformations. Open Edition, credits and sources for each track’s attribution and license.</p><p class="credits">MIDI and LilyPond edition © 2007 Urs Metzger, <a href="https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1100" target="_blank" rel="noopener">Mutopia Project, no. 1100</a>. Note data adapted to millisecond timings under <a href="https://creativecommons.org/licenses/by-sa/3.0/" target="_blank" rel="noopener">CC BY-SA 3.0</a>. Three.js © its authors, MIT. All music data and code are embedded; no connection is required.</p></dialog>
+<dialog id="support-dialog" aria-labelledby="support-title">
+<button id="close-support" class="close-button" aria-label="Close support">×</button>
+<p class="eyebrow">KEEP THE MUSIC GOING</p><h2 id="support-title">Support this project · 支持</h2>
+<p class="support-intro">If this piano brings you a little joy, you can support its creator. 完全自愿，感谢支持。</p>
+<div class="support-methods" role="group" aria-label="Payment method"><button id="support-wechat" aria-pressed="true">WeChat 微信</button><button id="support-alipay" aria-pressed="false">Alipay 支付宝</button></div>
+<img id="support-qr" class="support-qr" src="data:image/png;base64,/*__SUPPORT_WECHAT__*/" alt="Creator-provided WeChat payment QR code">
+<p id="support-instruction">Scan with WeChat · 使用微信扫一扫</p>
+<a id="save-support-qr" download="piano-wechat-support.png">Save full-size QR · 保存二维码</a>
+<p class="support-help">On a phone, save the image and open your payment app’s scanner to choose it from your album.</p>
+</dialog>
+<noscript>This piano requires JavaScript. Enable it in your browser and reopen this file.</noscript>
+<script>/*__THREE__*/</script>
+<script id="support-images" type="application/json">{"wechat":"data:image/png;base64,/*__SUPPORT_WECHAT__*/","alipay":"data:image/jpeg;base64,/*__SUPPORT_ALIPAY__*/"}</script>
+<script id="score" type="application/json">/*__SCORE__*/</script>
+<script id="bach-library" type="application/json">/*__LIBRARY__*/</script>
+<script>/*__APP__*/</script>
+</body>
+</html>

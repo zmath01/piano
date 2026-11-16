@@ -1,0 +1,41 @@
+{
+  "status": "pass",
+  "loaded": 153,
+  "transformChecks": {
+    "inversion": true,
+    "reversal": true,
+    "dilation": true
+  },
+  "responsive": [
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "overflow": false
+    },
+    {
+      "viewport": {
+        "width": 320,
+        "height": 740
+      },
+      "overflow": false
+    }
+  ],
+  "errors": [],
+  "requests": [],
+  "checks": [
+    "all collection selectors and 153 track loads",
+    "WTC playback",
+    "cue auto-follow",
+    "cue loop wraps",
+    "part solo and restore",
+    "pitch inversion formula",
+    "note-interval retrograde formula",
+    "time dilation formula",
+    "transformed motif audition and stop",
+    "mirror version compare",
+    "Goldberg canon ladder and quodlibet distinction",
+    "offline responsive layouts"
+  ]
+}

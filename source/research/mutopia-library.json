@@ -1,0 +1,2075 @@
+{
+  "records": [
+    {
+      "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV1080/contrapunctusI/",
+      "stem": "contrapunctusI",
+      "assets": {
+        ".mid": {
+          "file": "assets/library/BWV1080/contrapunctusI/contrapunctusI.mid",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV1080/contrapunctusI/contrapunctusI.mid",
+          "bytes": 8378,
+          "sha256": "c66deed88874e279a57531fc556089ff6827d2859f79297cab2b4f1ad42c4ed3"
+        },
+        ".rdf": {
+          "file": "assets/library/BWV1080/contrapunctusI/contrapunctusI.rdf",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV1080/contrapunctusI/contrapunctusI.rdf",
+          "bytes": 1356,
+          "sha256": "a944ccec9bb82593ddf50ccb9ffd76f0af9a643a79543093f86eeea114e9deb4"
+        }
+      }
+    },
+    {
+      "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV1080/contrapunctusII/",
+      "stem": "contrapunctusII",
+      "assets": {
+        ".mid": {
+          "file": "assets/library/BWV1080/contrapunctusII/contrapunctusII.mid",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV1080/contrapunctusII/contrapunctusII.mid",
+          "bytes": 9808,
+          "sha256": "ed8dc93872801ecb5b11690871c559d2c285c84d281e74f0e31a1c6ccabc01fc"
+        },
+        ".ly": {
+          "file": "assets/library/BWV1080/contrapunctusII/contrapunctusII.ly",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV1080/contrapunctusII/contrapunctusII.ly",
+          "bytes": 9021,
+          "sha256": "f78377db57f1d986e62cc77f374765ab92bea4de67ca9fffe228306ae8b49c64"
+        },
+        ".rdf": {
+          "file": "assets/library/BWV1080/contrapunctusII/contrapunctusII.rdf",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV1080/contrapunctusII/contrapunctusII.rdf",
+          "bytes": 1375,
+          "sha256": "135dd2e4788e30ab49e6aad024aa9b141e49c83c303e9856621d997d4421990a"
+        }
+      }
+    },
+    {
+      "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV1080/contrapunctusIII/",
+      "stem": "contrapunctusIII",
+      "assets": {
+        ".mid": {
+          "file": "assets/library/BWV1080/contrapunctusIII/contrapunctusIII.mid",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV1080/contrapunctusIII/contrapunctusIII.mid",
+          "bytes": 9915,
+          "sha256": "d6c52e485b3be200a491fa99f52a5cb83b2be3bacb41eccdcd3c992a139d0200"
+        },
+        ".ly": {
+          "file": "assets/library/BWV1080/contrapunctusIII/contrapunctusIII.ly",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV1080/contrapunctusIII/contrapunctusIII.ly",
+          "bytes": 6764,
+          "sha256": "7c878becc6574dd4749e3e747268b6648f6568e8cec7b1fc440c87cb0c03287c"
+        },
+        ".rdf": {
+          "file": "assets/library/BWV1080/contrapunctusIII/contrapunctusIII.rdf",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV1080/contrapunctusIII/contrapunctusIII.rdf",
+          "bytes": 1383,
+          "sha256": "c909b8c08c90cfff70ca76b546ff2ca8bdceb13aa4aef3471244cb41fbad21b4"
+        }
+      }
+    },
+    {
+      "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV1080/contrapunctusIV/",
+      "stem": "contrapunctusIV",
+      "assets": {
+        ".mid": {
+          "file": "assets/library/BWV1080/contrapunctusIV/contrapunctusIV.mid",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV1080/contrapunctusIV/contrapunctusIV.mid",
+          "bytes": 16783,
+          "sha256": "225a8bfbefe1f93e977b55e5d583a4bf1834eb0c885975a6b2e8eaff1ede682e"
+        },
+        ".ly": {
+          "file": "assets/library/BWV1080/contrapunctusIV/contrapunctusIV.ly",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV1080/contrapunctusIV/contrapunctusIV.ly",
+          "bytes": 10258,
+          "sha256": "0a276a62670c2679e3a7d4bd4a7b411ed4c2fcf7ad1457c594cf638df99a621e"
+        },
+        ".rdf": {
+          "file": "assets/library/BWV1080/contrapunctusIV/contrapunctusIV.rdf",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV1080/contrapunctusIV/contrapunctusIV.rdf",
+          "bytes": 1375,
+          "sha256": "1f815659f12889c4ff83a403e4e3e2fe61ce91e6f16915dbf5b35651fa07ddc3"
+        }
+      }
+    },
+    {
+      "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV1080/contrapunctusIX/",
+      "stem": "contrapunctusIX",
+      "assets": {
+        ".mid": {
+          "file": "assets/library/BWV1080/contrapunctusIX/contrapunctusIX.mid",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV1080/contrapunctusIX/contrapunctusIX.mid",
+          "bytes": 15720,
+          "sha256": "e99e6229c7161aaac6819508afe4cd9a6bd27513842b25a501847021e54d9caa"
+        },
+        ".ly": {
+          "file": "assets/library/BWV1080/contrapunctusIX/contrapunctusIX.ly",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV1080/contrapunctusIX/contrapunctusIX.ly",
+          "bytes": 9076,
+          "sha256": "6de908c70ccbac2569ad12274aabb6b64ff0161e5a26062851a761d2552624b6"
+        },
+        ".rdf": {
+          "file": "assets/library/BWV1080/contrapunctusIX/contrapunctusIX.rdf",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV1080/contrapunctusIX/contrapunctusIX.rdf",
+          "bytes": 1375,
+          "sha256": "0e048fb1353610e89c90191e3b736028e6093173759f0d158c0e625bd818e77f"
+        }
+      }
+    },
+    {
+      "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV1080/contrapunctusV/",
+      "stem": "contrapunctusV",
+      "assets": {
+        ".mid": {
+          "file": "assets/library/BWV1080/contrapunctusV/contrapunctusV.mid",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV1080/contrapunctusV/contrapunctusV.mid",
+          "bytes": 11659,
+          "sha256": "dbecb6bde4e2808cbbe550f4b3e05503ee806ad79393ccc15ffe74162a5b13e7"
+        },
+        ".ly": {
+          "file": "assets/library/BWV1080/contrapunctusV/contrapunctusV.ly",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV1080/contrapunctusV/contrapunctusV.ly",
+          "bytes": 8063,
+          "sha256": "28af011f77ab0f558a39ed060f0322725436f0f64d651b85405da9bb71c90047"
+        },
+        ".rdf": {
+          "file": "assets/library/BWV1080/contrapunctusV/contrapunctusV.rdf",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV1080/contrapunctusV/contrapunctusV.rdf",
+          "bytes": 1367,
+          "sha256": "8c4ebc8b0d0cd390c97e2daa64f6936c5309f714b36bdd8d7675a49965883565"
+        }
+      }
+    },
+    {
+      "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV1080/contrapunctusVI/",
+      "stem": "contrapunctusVI",
+      "assets": {
+        ".mid": {
+          "file": "assets/library/BWV1080/contrapunctusVI/contrapunctusVI.mid",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV1080/contrapunctusVI/contrapunctusVI.mid",
+          "bytes": 14652,
+          "sha256": "1379486ac7b2f711ccd939a82e5785326065383fab110e1ef75b1d27dd039f19"
+        },
+        ".ly": {
+          "file": "assets/library/BWV1080/contrapunctusVI/contrapunctusVI.ly",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV1080/contrapunctusVI/contrapunctusVI.ly",
+          "bytes": 11156,
+          "sha256": "f766eba663a713c509175b5ff728825a1c81ed1c218a0336d322474f2cb4df1c"
+        },
+        ".rdf": {
+          "file": "assets/library/BWV1080/contrapunctusVI/contrapunctusVI.rdf",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV1080/contrapunctusVI/contrapunctusVI.rdf",
+          "bytes": 1375,
+          "sha256": "bb6e2c5c6009c88553c178642128bd3e66764b0fd246114469af940bf0bb9482"
+        }
+      }
+    },
+    {
+      "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV1080/contrapunctusVII/",
+      "stem": "contrapunctusVII",
+      "assets": {
+        ".mid": {
+          "file": "assets/library/BWV1080/contrapunctusVII/contrapunctusVII.mid",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV1080/contrapunctusVII/contrapunctusVII.mid",
+          "bytes": 13230,
+          "sha256": "7725d7632e9b172d9f0bd12e95fa590aa0e6ad27ce63290778293883d4658c5d"
+        },
+        ".ly": {
+          "file": "assets/library/BWV1080/contrapunctusVII/contrapunctusVII.ly",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV1080/contrapunctusVII/contrapunctusVII.ly",
+          "bytes": 9164,
+          "sha256": "3aa1ba04bcb90e8c8521478e25a00db864ec665a316ba825471c74b4e316de06"
+        },
+        ".rdf": {
+          "file": "assets/library/BWV1080/contrapunctusVII/contrapunctusVII.rdf",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV1080/contrapunctusVII/contrapunctusVII.rdf",
+          "bytes": 1383,
+          "sha256": "9d58f14958f5355d01f22d12df4d55fe480695dac695e4c50cb0f70032572d9e"
+        }
+      }
+    },
+    {
+      "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV1080/contrapunctusVIII/",
+      "stem": "contrapunctusVIII",
+      "assets": {
+        ".mid": {
+          "file": "assets/library/BWV1080/contrapunctusVIII/contrapunctusVIII.mid",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV1080/contrapunctusVIII/contrapunctusVIII.mid",
+          "bytes": 24508,
+          "sha256": "20e37482a8d4cace007764670774327dc1aaf276b6307ae76f236918ffe4c18e"
+        },
+        ".ly": {
+          "file": "assets/library/BWV1080/contrapunctusVIII/contrapunctusVIII.ly",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV1080/contrapunctusVIII/contrapunctusVIII.ly",
+          "bytes": 12320,
+          "sha256": "89ede93817c558a6c452dff3b874e382cb1174cc4feeb331d5abdbea4c3f8613"
+        },
+        ".rdf": {
+          "file": "assets/library/BWV1080/contrapunctusVIII/contrapunctusVIII.rdf",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV1080/contrapunctusVIII/contrapunctusVIII.rdf",
+          "bytes": 1391,
+          "sha256": "4e927f3a1243d1cf34dffca228a52069174474310ef5bd207722a3bcbfc8e38c"
+        }
+      }
+    },
+    {
+      "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV1080/contrapunctusX/",
+      "stem": "contrapunctusX",
+      "assets": {
+        ".mid": {
+          "file": "assets/library/BWV1080/contrapunctusX/contrapunctusX.mid",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV1080/contrapunctusX/contrapunctusX.mid",
+          "bytes": 16032,
+          "sha256": "7bedd52c5167b59334ae498468be5d2b2ceab120374141e9bfcb5777e313de6a"
+        },
+        ".ly": {
+          "file": "assets/library/BWV1080/contrapunctusX/contrapunctusX.ly",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV1080/contrapunctusX/contrapunctusX.ly",
+          "bytes": 9782,
+          "sha256": "da048f37c4075981a0ef158dfb7fd15b9008d4b582b3b21ba6a7444a320989b6"
+        },
+        ".rdf": {
+          "file": "assets/library/BWV1080/contrapunctusX/contrapunctusX.rdf",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV1080/contrapunctusX/contrapunctusX.rdf",
+          "bytes": 1367,
+          "sha256": "1916e5d216a471e9f429cb987d7cdf966a00e86d17b3964afc515b524e4cc5f5"
+        }
+      }
+    },
+    {
+      "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV1080/contrapunctusXI/",
+      "stem": "contrapunctusXI",
+      "assets": {
+        ".mid": {
+          "file": "assets/library/BWV1080/contrapunctusXI/contrapunctusXI.mid",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV1080/contrapunctusXI/contrapunctusXI.mid",
+          "bytes": 27695,
+          "sha256": "44bc1c2f2b7618207d1a3e6ca1e527a4b08c1cc2c34f1d02c7944a8ceee05d1f"
+        },
+        ".ly": {
+          "file": "assets/library/BWV1080/contrapunctusXI/contrapunctusXI.ly",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV1080/contrapunctusXI/contrapunctusXI.ly",
+          "bytes": 15180,
+          "sha256": "4750dababd65d40563a141ff81b192cc788e9887cc65e9b7d499d37d4dd0d94d"
+        },
+        ".rdf": {
+          "file": "assets/library/BWV1080/contrapunctusXI/contrapunctusXI.rdf",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV1080/contrapunctusXI/contrapunctusXI.rdf",
+          "bytes": 1373,
+          "sha256": "a9f4efd8c033a85665ef1560de78948f300b2e90dc1dda87b0a954559b71d51e"
+        }
+      }
+    },
+    {
+      "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV1080/contrapunctusXII/",
+      "stem": "contrapunctusXII",
+      "assets": {
+        ".mid": {
+          "file": "assets/library/BWV1080/contrapunctusXII/contrapunctusXII.mid",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV1080/contrapunctusXII/contrapunctusXII.mid",
+          "bytes": 19199,
+          "sha256": "ae0cca36fb3c4784de671f35d0168370e2930c3eb5771746c656a5b39a10e98c"
+        },
+        ".ly": {
+          "file": "assets/library/BWV1080/contrapunctusXII/contrapunctusXII.ly",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV1080/contrapunctusXII/contrapunctusXII.ly",
+          "bytes": 8358,
+          "sha256": "a8fda6d3cca315e7a70314c2dbc3f3654ee2ce66d69df7b33b4197f05dc57517"
+        },
+        ".rdf": {
+          "file": "assets/library/BWV1080/contrapunctusXII/contrapunctusXII.rdf",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV1080/contrapunctusXII/contrapunctusXII.rdf",
+          "bytes": 1406,
+          "sha256": "f82067070b13a9f61a89512b9d6cbdb437437bd3ab648e42fb88b4c6d5117435"
+        }
+      }
+    },
+    {
+      "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV1080/contrapunctusXIII/",
+      "stem": "contrapunctusXIII",
+      "assets": {
+        ".mid": {
+          "file": "assets/library/BWV1080/contrapunctusXIII/contrapunctusXIII.mid",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV1080/contrapunctusXIII/contrapunctusXIII.mid",
+          "bytes": 17443,
+          "sha256": "a879fe23e0b0622415b6b9be0c5476e6de826d1038ee9d1bc99f067ccc43f425"
+        },
+        ".ly": {
+          "file": "assets/library/BWV1080/contrapunctusXIII/contrapunctusXIII.ly",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV1080/contrapunctusXIII/contrapunctusXIII.ly",
+          "bytes": 6354,
+          "sha256": "b01daa643a65431fe6be70a9c5adac7e5b7d94c2c77afb67e9b526de57d63e6e"
+        },
+        ".rdf": {
+          "file": "assets/library/BWV1080/contrapunctusXIII/contrapunctusXIII.rdf",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV1080/contrapunctusXIII/contrapunctusXIII.rdf",
+          "bytes": 1417,
+          "sha256": "df7991578b1898100fc59091f4f416053019807d7eaefd9fcf972966bb3e2fd5"
+        }
+      }
+    },
+    {
+      "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV1080/contrapunctusXIV/",
+      "stem": "contrapunctusXIV",
+      "assets": {
+        ".mid": {
+          "file": "assets/library/BWV1080/contrapunctusXIV/contrapunctusXIV.mid",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV1080/contrapunctusXIV/contrapunctusXIV.mid",
+          "bytes": 12509,
+          "sha256": "e6e5ddeaa3360f5fc6e418bbc45490e4dc55fb7cbecb14aa3782cb6309e0f7e5"
+        },
+        ".ly": {
+          "file": "assets/library/BWV1080/contrapunctusXIV/contrapunctusXIV.ly",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV1080/contrapunctusXIV/contrapunctusXIV.ly",
+          "bytes": 8694,
+          "sha256": "1282f6fe25d0cd260dbaf14754803013ea75dab74ef03e5b9cd411e1f13d1818"
+        },
+        ".rdf": {
+          "file": "assets/library/BWV1080/contrapunctusXIV/contrapunctusXIV.rdf",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV1080/contrapunctusXIV/contrapunctusXIV.rdf",
+          "bytes": 1406,
+          "sha256": "b2610e1256eb4e6cc9097f9fc720260c4be9770310cc6234e6b1ba3c0ca3be8e"
+        }
+      }
+    },
+    {
+      "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV1080/contrapunctusXIX/",
+      "stem": "contrapunctusXIX",
+      "assets": {
+        ".mid": {
+          "file": "assets/library/BWV1080/contrapunctusXIX/contrapunctusXIX.mid",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV1080/contrapunctusXIX/contrapunctusXIX.mid",
+          "bytes": 23985,
+          "sha256": "ea94877138a7e65b688c7cebceb55ef2de9f10319864dbd09344914816ebee0c"
+        },
+        ".ly": {
+          "file": "assets/library/BWV1080/contrapunctusXIX/contrapunctusXIX.ly",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV1080/contrapunctusXIX/contrapunctusXIX.ly",
+          "bytes": 14652,
+          "sha256": "424cf61b68f673575b16e28ed4301f5cae54637dccbce695083b22a0f01a122c"
+        },
+        ".rdf": {
+          "file": "assets/library/BWV1080/contrapunctusXIX/contrapunctusXIX.rdf",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV1080/contrapunctusXIX/contrapunctusXIX.rdf",
+          "bytes": 1402,
+          "sha256": "98a3b589ed232d46833c9814f9bc05d51c7f996a3591aaf286eac5bc26bf1cf4"
+        }
+      }
+    },
+    {
+      "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV1080/contrapunctusXV/",
+      "stem": "contrapunctusXV",
+      "assets": {
+        ".mid": {
+          "file": "assets/library/BWV1080/contrapunctusXV/contrapunctusXV.mid",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV1080/contrapunctusXV/contrapunctusXV.mid",
+          "bytes": 12194,
+          "sha256": "6637c47d08ae5d2c0abfb54fbf9208abe790c7fff36017e63d45ab62875b0bc9"
+        },
+        ".ly": {
+          "file": "assets/library/BWV1080/contrapunctusXV/contrapunctusXV.ly",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV1080/contrapunctusXV/contrapunctusXV.ly",
+          "bytes": 7933,
+          "sha256": "58b2f2acf368e63741f29fd68eeaabe4607b8472906e6e4903614042d9154777"
+        },
+        ".rdf": {
+          "file": "assets/library/BWV1080/contrapunctusXV/contrapunctusXV.rdf",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV1080/contrapunctusXV/contrapunctusXV.rdf",
+          "bytes": 1423,
+          "sha256": "ebe48ede2f8733f71c4f664a219ed0e04d0bc5b3d6c3b7a5b20cdcede7418071"
+        }
+      }
+    },
+    {
+      "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV1080/rectus/",
+      "stem": "rectus",
+      "assets": {
+        ".mid": {
+          "file": "assets/library/BWV1080/rectus/rectus.mid",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV1080/rectus/rectus.mid",
+          "bytes": 10687,
+          "sha256": "4381e23b398327f7e1d2f56aff51bc5cb0fae6fabac52b58ce19d558e9635cef"
+        },
+        ".ly": {
+          "file": "assets/library/BWV1080/rectus/rectus.ly",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV1080/rectus/rectus.ly",
+          "bytes": 11784,
+          "sha256": "5e7988dd79bab23fd635f6e1d36969d5d4829d0f4482a485a45cbd0002459896"
+        },
+        ".rdf": {
+          "file": "assets/library/BWV1080/rectus/rectus.rdf",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV1080/rectus/rectus.rdf",
+          "bytes": 1240,
+          "sha256": "9e1e9b9b314b183e7969a635eef6731fe5a940e45e1f154c4e8d83aff741d670"
+        }
+      }
+    },
+    {
+      "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV846/wtk1-fugue1/",
+      "stem": "wtk1-fugue1",
+      "assets": {
+        ".mid": {
+          "file": "assets/library/BWV846/wtk1-fugue1/wtk1-fugue1.mid",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV846/wtk1-fugue1/wtk1-fugue1.mid",
+          "bytes": 6168,
+          "sha256": "e89f7d09096bbaf1bcb9e7b5d083c92e396fb9432c956d27185864e17a314ef1"
+        },
+        ".ly": {
+          "file": "assets/library/BWV846/wtk1-fugue1/wtk1-fugue1.ly",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV846/wtk1-fugue1/wtk1-fugue1.ly",
+          "bytes": 5659,
+          "sha256": "10d51eabac0fdfeddcbb7d76ad3bf361d4c095feec3ce7aa61d034d5b836c708"
+        },
+        ".rdf": {
+          "file": "assets/library/BWV846/wtk1-fugue1/wtk1-fugue1.rdf",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV846/wtk1-fugue1/wtk1-fugue1.rdf",
+          "bytes": 1319,
+          "sha256": "4d60b05e7eca16ebe4f064776fcfc05088c175edafb525d7d7ee99604ea18f88"
+        }
+      }
+    },
+    {
+      "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV846/wtk1-prelude1/",
+      "stem": "wtk1-prelude1",
+      "assets": {
+        ".mid": {
+          "file": "assets/library/BWV846/wtk1-prelude1/wtk1-prelude1.mid",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV846/wtk1-prelude1/wtk1-prelude1.mid",
+          "bytes": 4676,
+          "sha256": "874e07d0479542971bfceaf420d6117da8d602d89d26eea4610e7dd1ef58bf26"
+        },
+        ".ly": {
+          "file": "assets/library/BWV846/wtk1-prelude1/wtk1-prelude1.ly",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV846/wtk1-prelude1/wtk1-prelude1.ly",
+          "bytes": 6449,
+          "sha256": "afa237b10637ca7839b4c9e98b64ba89c781e2cfc1b980679b2632a31951aacd"
+        },
+        ".rdf": {
+          "file": "assets/library/BWV846/wtk1-prelude1/wtk1-prelude1.rdf",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV846/wtk1-prelude1/wtk1-prelude1.rdf",
+          "bytes": 1263,
+          "sha256": "aa5053593cdb009ed08f69fda194868b25f5961949466d6a709c82c986d7f516"
+        }
+      }
+    },
+    {
+      "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV847/bwv847a/",
+      "stem": "bwv847a",
+      "assets": {
+        ".mid": {
+          "file": "assets/library/BWV847/bwv847a/bwv847a.mid",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV847/bwv847a/bwv847a.mid",
+          "bytes": 9106,
+          "sha256": "9e29d5b640d875bcfa93824cc963a4d9419ce2139cfd4e786148d45127e602d8"
+        },
+        ".ly": {
+          "file": "assets/library/BWV847/bwv847a/bwv847a.ly",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV847/bwv847a/bwv847a.ly",
+          "bytes": 7617,
+          "sha256": "2923478f3436ddc12525fab5514e354025a9715205424944fd0e5f7f24ba70d9"
+        },
+        ".rdf": {
+          "file": "assets/library/BWV847/bwv847a/bwv847a.rdf",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV847/bwv847a/bwv847a.rdf",
+          "bytes": 1264,
+          "sha256": "db0a20f93bef3b954ec7dc348f638ed3ea42b7f82f72860d803e79beca784dc3"
+        }
+      }
+    },
+    {
+      "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV847/fuga2/",
+      "stem": "fuga2",
+      "assets": {
+        ".mid": {
+          "file": "assets/library/BWV847/fuga2/fuga2.mid",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV847/fuga2/fuga2.mid",
+          "bytes": 6466,
+          "sha256": "74c3c61d820ce694741abaf9736a8ad81b8f587beb06eddd7ee8edd6c442b384"
+        },
+        ".ly": {
+          "file": "assets/library/BWV847/fuga2/fuga2.ly",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV847/fuga2/fuga2.ly",
+          "bytes": 6337,
+          "sha256": "5b4ba90ea58a8daae5f74d9f022ef65ffccd6ab4faf8e9c58d099ed1426db6db"
+        },
+        ".rdf": {
+          "file": "assets/library/BWV847/fuga2/fuga2.rdf",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV847/fuga2/fuga2.rdf",
+          "bytes": 1241,
+          "sha256": "4413c8aab6c488a8e146d210ea4ec4ebc9f52a68c137d2d6c314d3f07860e21e"
+        }
+      }
+    },
+    {
+      "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV848/bwv848a/",
+      "stem": "bwv848a",
+      "assets": {
+        ".mid": {
+          "file": "assets/library/BWV848/bwv848a/bwv848a.mid",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV848/bwv848a/bwv848a.mid",
+          "bytes": 7047,
+          "sha256": "c2259949d4ebb3fa7b69824a13df92bed2d2d6a2f28b82461880bbc9e9dd6161"
+        },
+        ".ly": {
+          "file": "assets/library/BWV848/bwv848a/bwv848a.ly",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV848/bwv848a/bwv848a.ly",
+          "bytes": 7446,
+          "sha256": "407836354aaf412593af98d7b49019423afcbb75e30e7a7b6129dd0d00e44f7f"
+        },
+        ".rdf": {
+          "file": "assets/library/BWV848/bwv848a/bwv848a.rdf",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV848/bwv848a/bwv848a.rdf",
+          "bytes": 1265,
+          "sha256": "2ebb8e423fd8365f93298513f65cac2b361991743a3ace5ece1bc1f67b56e270"
+        }
+      }
+    },
+    {
+      "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV848/bwv848b/",
+      "stem": "bwv848b",
+      "assets": {
+        ".mid": {
+          "file": "assets/library/BWV848/bwv848b/bwv848b.mid",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV848/bwv848b/bwv848b.mid",
+          "bytes": 11731,
+          "sha256": "74a3ba7798c99340a88844d7deabbe35369a75e09771cc234bae6986d3e46a1f"
+        },
+        ".ly": {
+          "file": "assets/library/BWV848/bwv848b/bwv848b.ly",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV848/bwv848b/bwv848b.ly",
+          "bytes": 11610,
+          "sha256": "baffd13e1aee1f8d8c2152129d0c04d1747d53d3947cda798f3642bad4ffca38"
+        },
+        ".rdf": {
+          "file": "assets/library/BWV848/bwv848b/bwv848b.rdf",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV848/bwv848b/bwv848b.rdf",
+          "bytes": 1259,
+          "sha256": "5ea1ae0fb66967b2a7228ac07c993c1637e16ee474791f2070d449af667b17c6"
+        }
+      }
+    },
+    {
+      "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV849/bwv849a/",
+      "stem": "bwv849a",
+      "assets": {
+        ".mid": {
+          "file": "assets/library/BWV849/bwv849a/bwv849a.mid",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV849/bwv849a/bwv849a.mid",
+          "bytes": 6238,
+          "sha256": "db8fe5eac2216397b12542bf092517cae8f0df9e0cb3e38c7c930733a230025e"
+        },
+        ".ly": {
+          "file": "assets/library/BWV849/bwv849a/bwv849a.ly",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV849/bwv849a/bwv849a.ly",
+          "bytes": 8478,
+          "sha256": "46eed0d17ab3313542eb92327853dce559fc9ecb904cc6b0e2a2166fb41ad173"
+        },
+        ".rdf": {
+          "file": "assets/library/BWV849/bwv849a/bwv849a.rdf",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV849/bwv849a/bwv849a.rdf",
+          "bytes": 1264,
+          "sha256": "9e470eb7e8149c60af2b268f02a0d4f2b52e27ef923cee90707e28e6cc85e67e"
+        }
+      }
+    },
+    {
+      "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV849/bwv849b/",
+      "stem": "bwv849b",
+      "assets": {
+        ".mid": {
+          "file": "assets/library/BWV849/bwv849b/bwv849b.mid",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV849/bwv849b/bwv849b.mid",
+          "bytes": 11731,
+          "sha256": "ccbae19559bef9793c313c733f9830106a42e723e38da56fb223dfb69eb8ac0f"
+        },
+        ".ly": {
+          "file": "assets/library/BWV849/bwv849b/bwv849b.ly",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV849/bwv849b/bwv849b.ly",
+          "bytes": 13085,
+          "sha256": "f372279554b56ca45af5568451f96965891c6f745d74add52a9aca3d54e5b8de"
+        },
+        ".rdf": {
+          "file": "assets/library/BWV849/bwv849b/bwv849b.rdf",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV849/bwv849b/bwv849b.rdf",
+          "bytes": 1258,
+          "sha256": "734d36804f5041ab83e29bac2699a51936d8accdaad5366eb583255efc560306"
+        }
+      }
+    },
+    {
+      "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV850/bwv850a/",
+      "stem": "bwv850a",
+      "assets": {
+        ".mid": {
+          "file": "assets/library/BWV850/bwv850a/bwv850a.mid",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV850/bwv850a/bwv850a.mid",
+          "bytes": 6142,
+          "sha256": "a4c490e1084ea223ebd03e149eeb677884188696509d8699cc9bc575a5071b39"
+        },
+        ".rdf": {
+          "file": "assets/library/BWV850/bwv850a/bwv850a.rdf",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV850/bwv850a/bwv850a.rdf",
+          "bytes": 1216,
+          "sha256": "364ee1a9d3777311bd7e12e01a52d80d4c653e572474270cff95e7de9a87e25b"
+        }
+      }
+    },
+    {
+      "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV850/bwv850b/",
+      "stem": "bwv850b",
+      "assets": {
+        ".mid": {
+          "file": "assets/library/BWV850/bwv850b/bwv850b.mid",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV850/bwv850b/bwv850b.mid",
+          "bytes": 6537,
+          "sha256": "a025e4dee68debf652417c866738f5dd15c5b269d46cd58d401c95da5211b626"
+        },
+        ".rdf": {
+          "file": "assets/library/BWV850/bwv850b/bwv850b.rdf",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV850/bwv850b/bwv850b.rdf",
+          "bytes": 1271,
+          "sha256": "e6c1e780368b1899e58a33163129c9fa256592c8f690c38aa1ed3d12449adc0c"
+        }
+      }
+    },
+    {
+      "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV851/bwv851_fugue06/",
+      "stem": "bwv851_fugue06",
+      "assets": {
+        ".mid": {
+          "file": "assets/library/BWV851/bwv851_fugue06/bwv851_fugue06.mid",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV851/bwv851_fugue06/bwv851_fugue06.mid",
+          "bytes": 6114,
+          "sha256": "81123c5d14cf383387b90e7e4aaf6f17ce7179a0a60831be69255bcfe30b3d4e"
+        },
+        ".ly": {
+          "file": "assets/library/BWV851/bwv851_fugue06/bwv851_fugue06.ly",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV851/bwv851_fugue06/bwv851_fugue06.ly",
+          "bytes": 5504,
+          "sha256": "0c352b2ef5e5f688e3f4f61fb796e98a064683528192eec733e256b60670e278"
+        },
+        ".rdf": {
+          "file": "assets/library/BWV851/bwv851_fugue06/bwv851_fugue06.rdf",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV851/bwv851_fugue06/bwv851_fugue06.rdf",
+          "bytes": 1275,
+          "sha256": "da0a14458be46a171294cf7018d91d959d3990dcfbbe709499b442faaaede920"
+        }
+      }
+    },
+    {
+      "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV851/bwv851a/",
+      "stem": "bwv851a",
+      "assets": {
+        ".mid": {
+          "file": "assets/library/BWV851/bwv851a/bwv851a.mid",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV851/bwv851a/bwv851a.mid",
+          "bytes": 6804,
+          "sha256": "4e1e1a9784b256e8fe7a41a47363fa4f061e331e9c2069ab2432893d05476022"
+        },
+        ".ly": {
+          "file": "assets/library/BWV851/bwv851a/bwv851a.ly",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV851/bwv851a/bwv851a.ly",
+          "bytes": 7105,
+          "sha256": "af1d9e632140a839e088454bde0ea253e2895d55e4d7b2dd2c80738b15e336d4"
+        },
+        ".rdf": {
+          "file": "assets/library/BWV851/bwv851a/bwv851a.rdf",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV851/bwv851a/bwv851a.rdf",
+          "bytes": 1280,
+          "sha256": "d50dc90600399bf0ea6be38716160c67501f63ae0097bc82db0302a37dead141"
+        }
+      }
+    },
+    {
+      "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV853/bwv853a/",
+      "stem": "bwv853a",
+      "assets": {
+        ".mid": {
+          "file": "assets/library/BWV853/bwv853a/bwv853a.mid",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV853/bwv853a/bwv853a.mid",
+          "bytes": 5842,
+          "sha256": "e8b14d27fa423d9e60f1e88ad07a5200fa91e8a39531f18282a0e26b2d3165d8"
+        },
+        ".ly": {
+          "file": "assets/library/BWV853/bwv853a/bwv853a.ly",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV853/bwv853a/bwv853a.ly",
+          "bytes": 8200,
+          "sha256": "94f07ea4fcbee4260186914689f5537c16f8b3982bc39217ae276f04d7d4b9ed"
+        },
+        ".rdf": {
+          "file": "assets/library/BWV853/bwv853a/bwv853a.rdf",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV853/bwv853a/bwv853a.rdf",
+          "bytes": 1268,
+          "sha256": "271d444191f4ea8b58e710c9aeef523241834624c78cd00960808732845b5804"
+        }
+      }
+    },
+    {
+      "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV853/bwv853b/",
+      "stem": "bwv853b",
+      "assets": {
+        ".mid": {
+          "file": "assets/library/BWV853/bwv853b/bwv853b.mid",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV853/bwv853b/bwv853b.mid",
+          "bytes": 12410,
+          "sha256": "e9fc0a4895d6215d647accb83299c6c89d900073e594566d7451c274cc58cb8d"
+        },
+        ".ly": {
+          "file": "assets/library/BWV853/bwv853b/bwv853b.ly",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV853/bwv853b/bwv853b.ly",
+          "bytes": 11745,
+          "sha256": "73c9f6eb4407f3b9d0c9fe4691bb2f09fdfbd8bb9e04d6fb98d1f7cb5dced4c3"
+        },
+        ".rdf": {
+          "file": "assets/library/BWV853/bwv853b/bwv853b.rdf",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV853/bwv853b/bwv853b.rdf",
+          "bytes": 1260,
+          "sha256": "8dfeb32eb326ae617e2066ba321486262c3914b22d5f77fbf122f14bb5f6ff7c"
+        }
+      }
+    },
+    {
+      "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV854/BWV854_Praeludium_IX_rh/",
+      "stem": "BWV854_Praeludium_IX_rh",
+      "assets": {
+        ".mid": {
+          "file": "assets/library/BWV854/BWV854_Praeludium_IX_rh/BWV854_Praeludium_IX_rh.mid",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV854/BWV854_Praeludium_IX_rh/BWV854_Praeludium_IX_rh.mid",
+          "bytes": 3960,
+          "sha256": "5839ee65989e0ea4165c703b79f5f5fc64c0199b172322d6e1379ef75671f0f8"
+        },
+        ".ly": {
+          "file": "assets/library/BWV854/BWV854_Praeludium_IX_rh/BWV854_Praeludium_IX_rh.ly",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV854/BWV854_Praeludium_IX_rh/BWV854_Praeludium_IX_rh.ly",
+          "bytes": 4569,
+          "sha256": "a139fb1441d5ffa690bac65404bde847955c0368dddcf9b88fddd3fe8cab3328"
+        },
+        ".rdf": {
+          "file": "assets/library/BWV854/BWV854_Praeludium_IX_rh/BWV854_Praeludium_IX_rh.rdf",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV854/BWV854_Praeludium_IX_rh/BWV854_Praeludium_IX_rh.rdf",
+          "bytes": 1345,
+          "sha256": "1f56621dccd1acc98270bc49236b5bc4d0163b181f89c4bab3df421f9723b49f"
+        }
+      }
+    },
+    {
+      "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV855/bwv855a/",
+      "stem": "bwv855a",
+      "assets": {
+        ".mid": {
+          "file": "assets/library/BWV855/bwv855a/bwv855a.mid",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV855/bwv855a/bwv855a.mid",
+          "bytes": 9595,
+          "sha256": "f8c5b689e57bc4a93fa0ee66c4d152335d4218eb3529dad2c63c0581864d963e"
+        },
+        ".ly": {
+          "file": "assets/library/BWV855/bwv855a/bwv855a.ly",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV855/bwv855a/bwv855a.ly",
+          "bytes": 8172,
+          "sha256": "8002c0ca90c92c60e1acd8afe817b807261ac76368410d46fd5327c3f430d5d0"
+        },
+        ".rdf": {
+          "file": "assets/library/BWV855/bwv855a/bwv855a.rdf",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV855/bwv855a/bwv855a.rdf",
+          "bytes": 1279,
+          "sha256": "238cd501ea1a73d9570fac2d08e8f660cbd5ae8c3fb66e237922acbde442c33e"
+        }
+      }
+    },
+    {
+      "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV855/bwv855b/",
+      "stem": "bwv855b",
+      "assets": {
+        ".mid": {
+          "file": "assets/library/BWV855/bwv855b/bwv855b.mid",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV855/bwv855b/bwv855b.mid",
+          "bytes": 6933,
+          "sha256": "6e891f8896716fa16c9262027cbff34bdfacbf3c728d70d88a4829091a7a9ee4"
+        },
+        ".ly": {
+          "file": "assets/library/BWV855/bwv855b/bwv855b.ly",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV855/bwv855b/bwv855b.ly",
+          "bytes": 5935,
+          "sha256": "5107bc9ba9b3e6178ec8ba5589d0d2f0836cbd6de36b32b1e762edcd74d3c1e3"
+        },
+        ".rdf": {
+          "file": "assets/library/BWV855/bwv855b/bwv855b.rdf",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV855/bwv855b/bwv855b.rdf",
+          "bytes": 1273,
+          "sha256": "756fce421f788bbde9cd8618c065aa4febdabbe2b354bc14aa174ac2fd16b4e7"
+        }
+      }
+    },
+    {
+      "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV856/BWV856_Fugue11/",
+      "stem": "BWV856_Fugue11",
+      "assets": {
+        ".mid": {
+          "file": "assets/library/BWV856/BWV856_Fugue11/BWV856_Fugue11.mid",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV856/BWV856_Fugue11/BWV856_Fugue11.mid",
+          "bytes": 5652,
+          "sha256": "4fd74d7a22ecef9c3e28e617765669a4450b85f8c7f14fb274a780ab98daee06"
+        },
+        ".ly": {
+          "file": "assets/library/BWV856/BWV856_Fugue11/BWV856_Fugue11.ly",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV856/BWV856_Fugue11/BWV856_Fugue11.ly",
+          "bytes": 4925,
+          "sha256": "3e4b7458aa6e690bd8deed04f6cf7c9e9921d0020f0a2ede35e460073cd4784f"
+        },
+        ".rdf": {
+          "file": "assets/library/BWV856/BWV856_Fugue11/BWV856_Fugue11.rdf",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV856/BWV856_Fugue11/BWV856_Fugue11.rdf",
+          "bytes": 1268,
+          "sha256": "494e039389d32ccf5e56dcea4b3f5dd203d755a0029d8f3ce3e99a2e738dd92d"
+        }
+      }
+    },
+    {
+      "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV856/BWV856_Praeludium11/",
+      "stem": "BWV856_Praeludium11",
+      "assets": {
+        ".mid": {
+          "file": "assets/library/BWV856/BWV856_Praeludium11/BWV856_Praeludium11.mid",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV856/BWV856_Praeludium11/BWV856_Praeludium11.mid",
+          "bytes": 4857,
+          "sha256": "841f6f64113cadd8ca3262671abde5aa6f09e20b243e059d2298d8184338c8d4"
+        },
+        ".ly": {
+          "file": "assets/library/BWV856/BWV856_Praeludium11/BWV856_Praeludium11.ly",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV856/BWV856_Praeludium11/BWV856_Praeludium11.ly",
+          "bytes": 3860,
+          "sha256": "cd91511dacf863ba8e7a1361410e47e974865d367c5b5d0827caf742b12adac1"
+        },
+        ".rdf": {
+          "file": "assets/library/BWV856/BWV856_Praeludium11/BWV856_Praeludium11.rdf",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV856/BWV856_Praeludium11/BWV856_Praeludium11.rdf",
+          "bytes": 1308,
+          "sha256": "5b4c36dc911e71ecd42e1da3114155b65d42f1c775891612a249bbb8418e0628"
+        }
+      }
+    },
+    {
+      "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV857/BWV857_Fuga12/",
+      "stem": "BWV857_Fuga12",
+      "assets": {
+        ".mid": {
+          "file": "assets/library/BWV857/BWV857_Fuga12/BWV857_Fuga12.mid",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV857/BWV857_Fuga12/BWV857_Fuga12.mid",
+          "bytes": 11166,
+          "sha256": "16bed80759b4d559f966aa8e3d0542792cb2c807e53c98f3191be805cb247302"
+        },
+        ".ly": {
+          "file": "assets/library/BWV857/BWV857_Fuga12/BWV857_Fuga12.ly",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV857/BWV857_Fuga12/BWV857_Fuga12.ly",
+          "bytes": 9959,
+          "sha256": "4dddfff4bc514403654ce4d014a7771801b0c01b1d566caeadb4912c556d6cfd"
+        },
+        ".rdf": {
+          "file": "assets/library/BWV857/BWV857_Fuga12/BWV857_Fuga12.rdf",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV857/BWV857_Fuga12/BWV857_Fuga12.rdf",
+          "bytes": 1404,
+          "sha256": "2ee0af1de7bc4cc338745d95a410b0a293f7fb48dae9184c1e0f2d033e106ae8"
+        }
+      }
+    },
+    {
+      "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV857/BWV857_Praeludium12/",
+      "stem": "BWV857_Praeludium12",
+      "assets": {
+        ".mid": {
+          "file": "assets/library/BWV857/BWV857_Praeludium12/BWV857_Praeludium12.mid",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV857/BWV857_Praeludium12/BWV857_Praeludium12.mid",
+          "bytes": 4550,
+          "sha256": "159e53d9af385b1fae9ccfb085f239219d78b579c9fc74981dc1f7723392eaa8"
+        },
+        ".ly": {
+          "file": "assets/library/BWV857/BWV857_Praeludium12/BWV857_Praeludium12.ly",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV857/BWV857_Praeludium12/BWV857_Praeludium12.ly",
+          "bytes": 5326,
+          "sha256": "82a870bb07df9cda2f4bbcb935e23b1fd502240292edc3baead08f49f96e5f86"
+        },
+        ".rdf": {
+          "file": "assets/library/BWV857/BWV857_Praeludium12/BWV857_Praeludium12.rdf",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV857/BWV857_Praeludium12/BWV857_Praeludium12.rdf",
+          "bytes": 1452,
+          "sha256": "61b24f49b5a855b19e671edda81ddbb4b30bfc8f4b8712fd8061b3881edf09cf"
+        }
+      }
+    },
+    {
+      "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV860/BWV860_Fuga15/",
+      "stem": "BWV860_Fuga15",
+      "assets": {
+        ".mid": {
+          "file": "assets/library/BWV860/BWV860_Fuga15/BWV860_Fuga15.mid",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV860/BWV860_Fuga15/BWV860_Fuga15.mid",
+          "bytes": 14129,
+          "sha256": "46c44b60d45df33130df3d2d6343090adb525d30aaca721dbbdacae82c81b7d5"
+        },
+        ".ly": {
+          "file": "assets/library/BWV860/BWV860_Fuga15/BWV860_Fuga15.ly",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV860/BWV860_Fuga15/BWV860_Fuga15.ly",
+          "bytes": 9320,
+          "sha256": "f7e81fbf234f2f2d546c468b5a720540f26a91638ce8e5b0106ca6dc209bf820"
+        },
+        ".rdf": {
+          "file": "assets/library/BWV860/BWV860_Fuga15/BWV860_Fuga15.rdf",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV860/BWV860_Fuga15/BWV860_Fuga15.rdf",
+          "bytes": 1336,
+          "sha256": "480ff7083ba660b180ba415a06335015a7cd1c0effa35439b2f128bb472b4879"
+        }
+      }
+    },
+    {
+      "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV860/BWV860_Praeludium15/",
+      "stem": "BWV860_Praeludium15",
+      "assets": {
+        ".mid": {
+          "file": "assets/library/BWV860/BWV860_Praeludium15/BWV860_Praeludium15.mid",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV860/BWV860_Praeludium15/BWV860_Praeludium15.mid",
+          "bytes": 5336,
+          "sha256": "c61255adba4322aa1b4efc24d0b65d8f8995bf0bfb51f49ab1274089a3ad7dde"
+        },
+        ".ly": {
+          "file": "assets/library/BWV860/BWV860_Praeludium15/BWV860_Praeludium15.ly",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV860/BWV860_Praeludium15/BWV860_Praeludium15.ly",
+          "bytes": 4957,
+          "sha256": "25c03acd393310262d9751b2efc8de0755af290fb35d12a9819ff84cb257a703"
+        },
+        ".rdf": {
+          "file": "assets/library/BWV860/BWV860_Praeludium15/BWV860_Praeludium15.rdf",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV860/BWV860_Praeludium15/BWV860_Praeludium15.rdf",
+          "bytes": 1385,
+          "sha256": "c90869939e2cfaf4d32c8fd5750bf519c0490c3b981f5b05b60e07d2dde50672"
+        }
+      }
+    },
+    {
+      "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV861/BWV861_Fuga16/",
+      "stem": "BWV861_Fuga16",
+      "assets": {
+        ".mid": {
+          "file": "assets/library/BWV861/BWV861_Fuga16/BWV861_Fuga16.mid",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV861/BWV861_Fuga16/BWV861_Fuga16.mid",
+          "bytes": 6427,
+          "sha256": "d73c189393aacda2cf439d246db7aa0fea9408087a1e5fdd27ed9225d72010bf"
+        },
+        ".ly": {
+          "file": "assets/library/BWV861/BWV861_Fuga16/BWV861_Fuga16.ly",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV861/BWV861_Fuga16/BWV861_Fuga16.ly",
+          "bytes": 6255,
+          "sha256": "a7f2ee48fee28d1576a26eea2480443e06fde190aa9302078540895113a9994e"
+        },
+        ".rdf": {
+          "file": "assets/library/BWV861/BWV861_Fuga16/BWV861_Fuga16.rdf",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV861/BWV861_Fuga16/BWV861_Fuga16.rdf",
+          "bytes": 1276,
+          "sha256": "7506a15b1cd144f21cd60fe1ab1bb0a86ccca5cf07040c0347927122ae9fb2e6"
+        }
+      }
+    },
+    {
+      "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV861/BWV861_Praeludium16/",
+      "stem": "BWV861_Praeludium16",
+      "assets": {
+        ".mid": {
+          "file": "assets/library/BWV861/BWV861_Praeludium16/BWV861_Praeludium16.mid",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV861/BWV861_Praeludium16/BWV861_Praeludium16.mid",
+          "bytes": 4718,
+          "sha256": "bbbd022695757c1adfb73c12b2b2e12c1478d45ac437ee59330a9cc7d9c1a86a"
+        },
+        ".ly": {
+          "file": "assets/library/BWV861/BWV861_Praeludium16/BWV861_Praeludium16.ly",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV861/BWV861_Praeludium16/BWV861_Praeludium16.ly",
+          "bytes": 4841,
+          "sha256": "83d1873b64a12ca794b7c80df700cd89d459e4527b4d621799d17063b37daa58"
+        },
+        ".rdf": {
+          "file": "assets/library/BWV861/BWV861_Praeludium16/BWV861_Praeludium16.rdf",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV861/BWV861_Praeludium16/BWV861_Praeludium16.rdf",
+          "bytes": 1323,
+          "sha256": "221863ac2e9ff3672d7b427553dd8e4cc985454dceddd4f1ccadf9e01868b86f"
+        }
+      }
+    },
+    {
+      "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV862/bach-fugue17/",
+      "stem": "bach-fugue17",
+      "assets": {
+        ".mid": {
+          "file": "assets/library/BWV862/bach-fugue17/bach-fugue17.mid",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV862/bach-fugue17/bach-fugue17.mid",
+          "bytes": 7508,
+          "sha256": "fd036fe8de013bd3899b0efef77677f4e079e737d4697844432f12acf2e6d7b7"
+        },
+        ".ly": {
+          "file": "assets/library/BWV862/bach-fugue17/bach-fugue17.ly",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV862/bach-fugue17/bach-fugue17.ly",
+          "bytes": 6134,
+          "sha256": "34164bfbcd6bc895447656ebc98862e0b8e8ab0a57502147f044440d84f2d844"
+        },
+        ".rdf": {
+          "file": "assets/library/BWV862/bach-fugue17/bach-fugue17.rdf",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV862/bach-fugue17/bach-fugue17.rdf",
+          "bytes": 1290,
+          "sha256": "a6c1cccecc9237b6d0c15e29a8858bf252ba19569d437c9fef1ff3e3ec2147f3"
+        }
+      }
+    },
+    {
+      "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV862/bach-prelude17/",
+      "stem": "bach-prelude17",
+      "assets": {
+        ".mid": {
+          "file": "assets/library/BWV862/bach-prelude17/bach-prelude17.mid",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV862/bach-prelude17/bach-prelude17.mid",
+          "bytes": 5714,
+          "sha256": "e712c3e9043c2f29d943f837a1f3895ee425117062413ece4811c7b432125647"
+        },
+        ".ly": {
+          "file": "assets/library/BWV862/bach-prelude17/bach-prelude17.ly",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV862/bach-prelude17/bach-prelude17.ly",
+          "bytes": 5937,
+          "sha256": "054de809a9ed9da6093bcbe4b65bb6ac05b18775639532c5a408ff30c73563ce"
+        },
+        ".rdf": {
+          "file": "assets/library/BWV862/bach-prelude17/bach-prelude17.rdf",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV862/bach-prelude17/bach-prelude17.rdf",
+          "bytes": 1314,
+          "sha256": "33eeb3cc80a4898f8019d199187bdff66b17fae00d01cbb84559def3f76b7a36"
+        }
+      }
+    },
+    {
+      "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV865/BWV865_Fuga20/",
+      "stem": "BWV865_Fuga20",
+      "assets": {
+        ".mid": {
+          "file": "assets/library/BWV865/BWV865_Fuga20/BWV865_Fuga20.mid",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV865/BWV865_Fuga20/BWV865_Fuga20.mid",
+          "bytes": 19973,
+          "sha256": "d7d3f5d0056a8d7df7d907871e35d369782ec9129439bc2a6811e29cdf2786ee"
+        },
+        ".ly": {
+          "file": "assets/library/BWV865/BWV865_Fuga20/BWV865_Fuga20.ly",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV865/BWV865_Fuga20/BWV865_Fuga20.ly",
+          "bytes": 13949,
+          "sha256": "4c1e501c243299006820a7c676fa29053361a5fb2a83068ae8b408dca971390a"
+        },
+        ".rdf": {
+          "file": "assets/library/BWV865/BWV865_Fuga20/BWV865_Fuga20.rdf",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV865/BWV865_Fuga20/BWV865_Fuga20.rdf",
+          "bytes": 1271,
+          "sha256": "a69de3bb2d4e48b304072fd24c93cbd1b98c33ba7a7a88f6b9d61ec5fbc6af9b"
+        }
+      }
+    },
+    {
+      "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV865/BWV865_Praeludium20/",
+      "stem": "BWV865_Praeludium20",
+      "assets": {
+        ".mid": {
+          "file": "assets/library/BWV865/BWV865_Praeludium20/BWV865_Praeludium20.mid",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV865/BWV865_Praeludium20/BWV865_Praeludium20.mid",
+          "bytes": 5292,
+          "sha256": "8d6055aadb2d75371ee71494c5267bb31810ac4c3296bdb942d0c179d96b46d4"
+        },
+        ".ly": {
+          "file": "assets/library/BWV865/BWV865_Praeludium20/BWV865_Praeludium20.ly",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV865/BWV865_Praeludium20/BWV865_Praeludium20.ly",
+          "bytes": 4470,
+          "sha256": "a29cddaf24f3675322a88d2dd26b50a16a153fbe2b6ba350b76ea8488d969127"
+        },
+        ".rdf": {
+          "file": "assets/library/BWV865/BWV865_Praeludium20/BWV865_Praeludium20.rdf",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV865/BWV865_Praeludium20/BWV865_Praeludium20.rdf",
+          "bytes": 1319,
+          "sha256": "7f1cf492a0225c507e502c5eab0eef505892367e302b3c8c6b96e548b0c39898"
+        }
+      }
+    },
+    {
+      "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV869/BWV869_Praeludium24/",
+      "stem": "BWV869_Praeludium24",
+      "assets": {
+        ".mid": {
+          "file": "assets/library/BWV869/BWV869_Praeludium24/BWV869_Praeludium24.mid",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV869/BWV869_Praeludium24/BWV869_Praeludium24.mid",
+          "bytes": 6600,
+          "sha256": "8ebf4c8bda3c5ab8cf6a37566f96b9f66630350014019615edc76e92e71fb030"
+        },
+        ".ly": {
+          "file": "assets/library/BWV869/BWV869_Praeludium24/BWV869_Praeludium24.ly",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV869/BWV869_Praeludium24/BWV869_Praeludium24.ly",
+          "bytes": 9392,
+          "sha256": "70009202f844be65c1a2b0538d960f579b8e3435c0be9cbd7e0e069e94f364ed"
+        },
+        ".rdf": {
+          "file": "assets/library/BWV869/BWV869_Praeludium24/BWV869_Praeludium24.rdf",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV869/BWV869_Praeludium24/BWV869_Praeludium24.rdf",
+          "bytes": 1326,
+          "sha256": "2744411d18910a22625b950d5b8feb223b8850281a81e60f84b862a17f1d41ef"
+        }
+      }
+    },
+    {
+      "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV869/bwv869b/",
+      "stem": "bwv869b",
+      "assets": {
+        ".mid": {
+          "file": "assets/library/BWV869/bwv869b/bwv869b.mid",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV869/bwv869b/bwv869b.mid",
+          "bytes": 15540,
+          "sha256": "3385d3bb181fd878d023e4a06d60f260b798918a5d40804d80e0c195b9f89f42"
+        },
+        ".rdf": {
+          "file": "assets/library/BWV869/bwv869b/bwv869b.rdf",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV869/bwv869b/bwv869b.rdf",
+          "bytes": 1255,
+          "sha256": "b535c0a796ecd4293399153f546d9093c059730891385fbd55ed8814c162db89"
+        }
+      }
+    },
+    {
+      "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV870/wtk2fuga1/",
+      "stem": "wtk2fuga1",
+      "assets": {
+        ".mid": {
+          "file": "assets/library/BWV870/wtk2fuga1/wtk2fuga1.mid",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV870/wtk2fuga1/wtk2fuga1.mid",
+          "bytes": 8625,
+          "sha256": "486b0b0818e3823b4ce5b9d37a6b77adddfb7cff4ba99dd22c1266c7695c3949"
+        },
+        ".ly": {
+          "file": "assets/library/BWV870/wtk2fuga1/wtk2fuga1.ly",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV870/wtk2fuga1/wtk2fuga1.ly",
+          "bytes": 5925,
+          "sha256": "b5f5bddd7808f6e8c6e11b8e2c08d0f258566b73087f173b30544d4dc7c8fbba"
+        },
+        ".rdf": {
+          "file": "assets/library/BWV870/wtk2fuga1/wtk2fuga1.rdf",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV870/wtk2fuga1/wtk2fuga1.rdf",
+          "bytes": 1245,
+          "sha256": "12b5df0b0af52d7e56643b6f4d0365f9200d091e1692d995c3b2acbe4e4e4fa3"
+        }
+      }
+    },
+    {
+      "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV870/wtk2prelude1/",
+      "stem": "wtk2prelude1",
+      "assets": {
+        ".mid": {
+          "file": "assets/library/BWV870/wtk2prelude1/wtk2prelude1.mid",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV870/wtk2prelude1/wtk2prelude1.mid",
+          "bytes": 7025,
+          "sha256": "e4fc1f57dd0f96c1b5037218eb20225d4764af6e26082fa14a07326c667f21ed"
+        },
+        ".ly": {
+          "file": "assets/library/BWV870/wtk2prelude1/wtk2prelude1.ly",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV870/wtk2prelude1/wtk2prelude1.ly",
+          "bytes": 7841,
+          "sha256": "195a875fdad383adca7f3707ca945992494e82c9aa36d277d736ae3993197cf0"
+        },
+        ".rdf": {
+          "file": "assets/library/BWV870/wtk2prelude1/wtk2prelude1.rdf",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV870/wtk2prelude1/wtk2prelude1.rdf",
+          "bytes": 1318,
+          "sha256": "45fb3c4d12370d6a723e97beb578ea82e62031afdc185ce81beeabbb9bc4efda"
+        }
+      }
+    },
+    {
+      "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV871/wtk2-fugue2/",
+      "stem": "wtk2-fugue2",
+      "assets": {
+        ".mid": {
+          "file": "assets/library/BWV871/wtk2-fugue2/wtk2-fugue2.mid",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV871/wtk2-fugue2/wtk2-fugue2.mid",
+          "bytes": 5568,
+          "sha256": "3ef4323dfd1743224ffdb368842bdb2f8ddf5395e34ce268829abbe1953ab0dd"
+        },
+        ".ly": {
+          "file": "assets/library/BWV871/wtk2-fugue2/wtk2-fugue2.ly",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV871/wtk2-fugue2/wtk2-fugue2.ly",
+          "bytes": 5644,
+          "sha256": "da57e6cc6323f819c794e9c6c53012e7421d1e9550dfa37d2aba008c7edd4bad"
+        },
+        ".rdf": {
+          "file": "assets/library/BWV871/wtk2-fugue2/wtk2-fugue2.rdf",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV871/wtk2-fugue2/wtk2-fugue2.rdf",
+          "bytes": 1243,
+          "sha256": "1c631a59dbf94cd9c3f94bb5cd6f97a9db681244a55fea11e55e3643cd8ef416"
+        }
+      }
+    },
+    {
+      "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV871/wtk2-prelude2/",
+      "stem": "wtk2-prelude2",
+      "assets": {
+        ".mid": {
+          "file": "assets/library/BWV871/wtk2-prelude2/wtk2-prelude2.mid",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV871/wtk2-prelude2/wtk2-prelude2.mid",
+          "bytes": 5921,
+          "sha256": "3d7ef4788b5400f25bf7c3f565e29ef8d87ca474a4dbeb9d6aa25ace5dd97083"
+        },
+        ".ly": {
+          "file": "assets/library/BWV871/wtk2-prelude2/wtk2-prelude2.ly",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV871/wtk2-prelude2/wtk2-prelude2.ly",
+          "bytes": 5309,
+          "sha256": "651d2b5b6daa6457f36bc1ccdbe92251e20cefed98bc1c0ad725ea5373dab9af"
+        },
+        ".rdf": {
+          "file": "assets/library/BWV871/wtk2-prelude2/wtk2-prelude2.rdf",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV871/wtk2-prelude2/wtk2-prelude2.rdf",
+          "bytes": 1278,
+          "sha256": "82c990327c3931c1a9bffa55ea4d36370611c91d94099f250c8b8235f387f573"
+        }
+      }
+    },
+    {
+      "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV875/bwv875a/",
+      "stem": "bwv875a",
+      "assets": {
+        ".mid": {
+          "file": "assets/library/BWV875/bwv875a/bwv875a.mid",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV875/bwv875a/bwv875a.mid",
+          "bytes": 9017,
+          "sha256": "11b796a6a4a833f359a560c216c011d61eb61cd31aa79a692b21d955d87a1b47"
+        },
+        ".ly": {
+          "file": "assets/library/BWV875/bwv875a/bwv875a.ly",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV875/bwv875a/bwv875a.ly",
+          "bytes": 7380,
+          "sha256": "7836b397210ffbfc5142970ff8f6acc4852867d88bb849ccbb73a36988d80271"
+        },
+        ".rdf": {
+          "file": "assets/library/BWV875/bwv875a/bwv875a.rdf",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV875/bwv875a/bwv875a.rdf",
+          "bytes": 1270,
+          "sha256": "0dbf317aabaa110530aef5a3a31715ac82567ca87bd66f0b3953f30b576e3481"
+        }
+      }
+    },
+    {
+      "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV878/f9/",
+      "stem": "f9",
+      "assets": {
+        ".mid": {
+          "file": "assets/library/BWV878/f9/f9.mid",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV878/f9/f9.mid",
+          "bytes": 13898,
+          "sha256": "46e2dd55e8ae19bc7630352bc7a4c8e8ce44700e7c57612743e836d2f5d6a123"
+        },
+        ".ly": {
+          "file": "assets/library/BWV878/f9/f9.ly",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV878/f9/f9.ly",
+          "bytes": 17314,
+          "sha256": "f54db01f5cefa96d2e3c7b2ed36b58fbd38b1b017b0e43c0187c203babcd7397"
+        },
+        ".rdf": {
+          "file": "assets/library/BWV878/f9/f9.rdf",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV878/f9/f9.rdf",
+          "bytes": 1331,
+          "sha256": "caaa1f975f9b2fa55c63b0421c795260bd63c76d0a9e83b6b3abfad17bd7a6e3"
+        }
+      }
+    },
+    {
+      "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV878/spiritus_domini_bach/",
+      "stem": "spiritus_domini_bach",
+      "assets": {
+        ".mid": {
+          "file": "assets/library/BWV878/spiritus_domini_bach/spiritus_domini_bach.mid",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV878/spiritus_domini_bach/spiritus_domini_bach.mid",
+          "bytes": 11863,
+          "sha256": "d86fa0d5d6ebeb42a2494c4bcad2478bedc7307ec5d75be43bad9ab93221195a"
+        },
+        ".ly": {
+          "file": "assets/library/BWV878/spiritus_domini_bach/spiritus_domini_bach.ly",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV878/spiritus_domini_bach/spiritus_domini_bach.ly",
+          "bytes": 14578,
+          "sha256": "501a56bdc4ede3a2c5b3eeee292a1a84d73df01c804322f8f00b42bf16886843"
+        },
+        ".rdf": {
+          "file": "assets/library/BWV878/spiritus_domini_bach/spiritus_domini_bach.rdf",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV878/spiritus_domini_bach/spiritus_domini_bach.rdf",
+          "bytes": 1522,
+          "sha256": "e0ad385c4399bf651584f3bd8bd3645ece1ae8790ac227c63976ebbc0633d5e1"
+        }
+      }
+    },
+    {
+      "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-aria/",
+      "stem": "bwv-988-aria",
+      "assets": {
+        ".mid": {
+          "file": "assets/library/BWV988/bwv-988-aria/bwv-988-aria.mid",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-aria/bwv-988-aria.mid",
+          "bytes": 3759,
+          "sha256": "05c6155d67e1ef5167eef113defabbc6c42a0fa0f74abe11c7d63258084d9a48"
+        },
+        ".ly": {
+          "file": "assets/library/BWV988/bwv-988-aria/bwv-988-aria.ly",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-aria/bwv-988-aria.ly",
+          "bytes": 8268,
+          "sha256": "f86adfb84573bc7775fe48750f7ee9b6df2adf2fcc5e32fb52c09e589c9e12af"
+        },
+        ".rdf": {
+          "file": "assets/library/BWV988/bwv-988-aria/bwv-988-aria.rdf",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-aria/bwv-988-aria.rdf",
+          "bytes": 1302,
+          "sha256": "324cc9a14f1c97c4c599931c6713fbd4195891a56ee2468df22a3240f2207b2c"
+        }
+      }
+    },
+    {
+      "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v01/",
+      "stem": "bwv-988-v01",
+      "assets": {
+        ".mid": {
+          "file": "assets/library/BWV988/bwv-988-v01/bwv-988-v01.mid",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v01/bwv-988-v01.mid",
+          "bytes": 4770,
+          "sha256": "9750c1fee267637e2a0301441f7b3bf3e92d85063c347ba39603f1f272665ced"
+        },
+        ".ly": {
+          "file": "assets/library/BWV988/bwv-988-v01/bwv-988-v01.ly",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v01/bwv-988-v01.ly",
+          "bytes": 7895,
+          "sha256": "24fcef149fc4ac2b562020f7db2c38084bee0c47c73adec9cea7134d1aa18b5c"
+        },
+        ".rdf": {
+          "file": "assets/library/BWV988/bwv-988-v01/bwv-988-v01.rdf",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v01/bwv-988-v01.rdf",
+          "bytes": 1291,
+          "sha256": "7365492059a4599024b19148697f4cb9d6ef29be3a8eca58ac016b83da753eb4"
+        }
+      }
+    },
+    {
+      "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v02/",
+      "stem": "bwv-988-v02",
+      "assets": {
+        ".mid": {
+          "file": "assets/library/BWV988/bwv-988-v02/bwv-988-v02.mid",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v02/bwv-988-v02.mid",
+          "bytes": 3607,
+          "sha256": "6d6b7a0fda7f8b442bfc3a7eec3500507041ae77ed3cd1b8a81e72e087fa86a5"
+        },
+        ".ly": {
+          "file": "assets/library/BWV988/bwv-988-v02/bwv-988-v02.ly",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v02/bwv-988-v02.ly",
+          "bytes": 8469,
+          "sha256": "bfe6f97f5a04443d198503b763cbe281db97980b4c2931094c2ccf06c1dae411"
+        },
+        ".rdf": {
+          "file": "assets/library/BWV988/bwv-988-v02/bwv-988-v02.rdf",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v02/bwv-988-v02.rdf",
+          "bytes": 1637,
+          "sha256": "e93cc950e1f2f47ce09367e63d4bc5a46044518b50a0435c108efd9a073bae37"
+        }
+      }
+    },
+    {
+      "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v03/",
+      "stem": "bwv-988-v03",
+      "assets": {
+        ".mid": {
+          "file": "assets/library/BWV988/bwv-988-v03/bwv-988-v03.mid",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v03/bwv-988-v03.mid",
+          "bytes": 5156,
+          "sha256": "eddb8b4e244adc523b65ec948695b6441e58d22a338f3caa5f892b61fa7d9830"
+        },
+        ".ly": {
+          "file": "assets/library/BWV988/bwv-988-v03/bwv-988-v03.ly",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v03/bwv-988-v03.ly",
+          "bytes": 6854,
+          "sha256": "ff0d2b05ad82e6941ade222cba2818667cde157fb9e8918d7d51a985a93a815d"
+        },
+        ".rdf": {
+          "file": "assets/library/BWV988/bwv-988-v03/bwv-988-v03.rdf",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v03/bwv-988-v03.rdf",
+          "bytes": 1314,
+          "sha256": "6ad21984762c1dc9b1cf3d985e6bf9f651b2777d3ff876a6a69a51bc44ad2918"
+        }
+      }
+    },
+    {
+      "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v04/",
+      "stem": "bwv-988-v04",
+      "assets": {
+        ".mid": {
+          "file": "assets/library/BWV988/bwv-988-v04/bwv-988-v04.mid",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v04/bwv-988-v04.mid",
+          "bytes": 2498,
+          "sha256": "7e6309ec5c2bc63eea26195e85515339d402231e5796fb9d40dcf46120e30e10"
+        },
+        ".ly": {
+          "file": "assets/library/BWV988/bwv-988-v04/bwv-988-v04.ly",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v04/bwv-988-v04.ly",
+          "bytes": 7477,
+          "sha256": "fd38ccd26679e13280fd0cf8cfb0caa3a7ec3b2c5eba45667bd24124609c8d42"
+        },
+        ".rdf": {
+          "file": "assets/library/BWV988/bwv-988-v04/bwv-988-v04.rdf",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v04/bwv-988-v04.rdf",
+          "bytes": 1315,
+          "sha256": "a3fc1754c29c6cb552b57a6cabbdbcffdf9987dbda294b3aa22e404c2feacef8"
+        }
+      }
+    },
+    {
+      "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v05/",
+      "stem": "bwv-988-v05",
+      "assets": {
+        ".mid": {
+          "file": "assets/library/BWV988/bwv-988-v05/bwv-988-v05.mid",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v05/bwv-988-v05.mid",
+          "bytes": 4543,
+          "sha256": "f2baf8b9def7eaa1a1d21ee95c8411b9c0b8074b660367327dffaadc767ea34c"
+        },
+        ".ly": {
+          "file": "assets/library/BWV988/bwv-988-v05/bwv-988-v05.ly",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v05/bwv-988-v05.ly",
+          "bytes": 6893,
+          "sha256": "645f0ca7a4a738f9e03b3d02f6ea292cd32a016e15c809f60452e57c034c9cab"
+        },
+        ".rdf": {
+          "file": "assets/library/BWV988/bwv-988-v05/bwv-988-v05.rdf",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v05/bwv-988-v05.rdf",
+          "bytes": 1311,
+          "sha256": "bd7dae8fc5c1776614d0583d4fb092d75203939bc9cfcefc72358cefab2d2cb2"
+        }
+      }
+    },
+    {
+      "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v06/",
+      "stem": "bwv-988-v06",
+      "assets": {
+        ".mid": {
+          "file": "assets/library/BWV988/bwv-988-v06/bwv-988-v06.mid",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v06/bwv-988-v06.mid",
+          "bytes": 3347,
+          "sha256": "0a517e531795b869936fecfa45b23f0d7d4de9cf626069326371bf4c8f38da06"
+        },
+        ".ly": {
+          "file": "assets/library/BWV988/bwv-988-v06/bwv-988-v06.ly",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v06/bwv-988-v06.ly",
+          "bytes": 7655,
+          "sha256": "f4f8c9fa39952435412fca97f89dffb7144b75cdaf140c2432b27f5b090c2659"
+        },
+        ".rdf": {
+          "file": "assets/library/BWV988/bwv-988-v06/bwv-988-v06.rdf",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v06/bwv-988-v06.rdf",
+          "bytes": 1314,
+          "sha256": "a70b53c4dd0fff3ad38fa04a40a54e6b10ac3a7a447e1078af9e3245905fc252"
+        }
+      }
+    },
+    {
+      "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v07/",
+      "stem": "bwv-988-v07",
+      "assets": {
+        ".mid": {
+          "file": "assets/library/BWV988/bwv-988-v07/bwv-988-v07.mid",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v07/bwv-988-v07.mid",
+          "bytes": 3249,
+          "sha256": "7259702f5ce76a8e1a68bf1d0be7bfe24912afff5f01b37ac0c584517f598724"
+        },
+        ".ly": {
+          "file": "assets/library/BWV988/bwv-988-v07/bwv-988-v07.ly",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v07/bwv-988-v07.ly",
+          "bytes": 5335,
+          "sha256": "60c7843daa113ee3a6926295d213e2f6cc52362d288b8b420e9864d787b6f7f9"
+        },
+        ".rdf": {
+          "file": "assets/library/BWV988/bwv-988-v07/bwv-988-v07.rdf",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v07/bwv-988-v07.rdf",
+          "bytes": 1314,
+          "sha256": "5123e88de7c5d5e5cb95213afb4348fcde3d2c5b22a56195eff42222467ebaa3"
+        }
+      }
+    },
+    {
+      "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v08/",
+      "stem": "bwv-988-v08",
+      "assets": {
+        ".mid": {
+          "file": "assets/library/BWV988/bwv-988-v08/bwv-988-v08.mid",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v08/bwv-988-v08.mid",
+          "bytes": 5450,
+          "sha256": "6ad409e7a72adb5e2a36f2940d951e7f2e6e793c4b78fa14aa0981156931682e"
+        },
+        ".ly": {
+          "file": "assets/library/BWV988/bwv-988-v08/bwv-988-v08.ly",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v08/bwv-988-v08.ly",
+          "bytes": 6421,
+          "sha256": "fd21593f098606c5b2726c1db42649355a6011ec3081130a49e5c221ae62c33a"
+        },
+        ".rdf": {
+          "file": "assets/library/BWV988/bwv-988-v08/bwv-988-v08.rdf",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v08/bwv-988-v08.rdf",
+          "bytes": 1311,
+          "sha256": "9f63766f99193af3e7399dbe0a8313c45be59f2144f676dc9c1be926f64b2a43"
+        }
+      }
+    },
+    {
+      "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v09/",
+      "stem": "bwv-988-v09",
+      "assets": {
+        ".mid": {
+          "file": "assets/library/BWV988/bwv-988-v09/bwv-988-v09.mid",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v09/bwv-988-v09.mid",
+          "bytes": 3267,
+          "sha256": "d6060b350f9b1201a9756e25f95ed737ffd57da2b09f5b79c7e213c85e1f4434"
+        },
+        ".ly": {
+          "file": "assets/library/BWV988/bwv-988-v09/bwv-988-v09.ly",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v09/bwv-988-v09.ly",
+          "bytes": 6275,
+          "sha256": "0cbc879fddc7fcde8d2229cc7dd4b467f35f7f8e1ae3998124953621be111e73"
+        },
+        ".rdf": {
+          "file": "assets/library/BWV988/bwv-988-v09/bwv-988-v09.rdf",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v09/bwv-988-v09.rdf",
+          "bytes": 1315,
+          "sha256": "05d93b7f914426c38b456b3fed47a2737169c48354660f3cf051666110a1a7ca"
+        }
+      }
+    },
+    {
+      "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v10/",
+      "stem": "bwv-988-v10",
+      "assets": {
+        ".mid": {
+          "file": "assets/library/BWV988/bwv-988-v10/bwv-988-v10.mid",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v10/bwv-988-v10.mid",
+          "bytes": 3040,
+          "sha256": "33bfef340a49fad68a2178ae0de8d97fb9c5b3f87d1ceaf8bdb5d53e6b13a206"
+        },
+        ".ly": {
+          "file": "assets/library/BWV988/bwv-988-v10/bwv-988-v10.ly",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v10/bwv-988-v10.ly",
+          "bytes": 7788,
+          "sha256": "452223b03d1fa81dbb70d5aa5e946ee23883b4b8d6586f5e2c7e7c4d2f060283"
+        },
+        ".rdf": {
+          "file": "assets/library/BWV988/bwv-988-v10/bwv-988-v10.rdf",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v10/bwv-988-v10.rdf",
+          "bytes": 1315,
+          "sha256": "a2acbebdcc978772dda5cd88c089034f3039a4acace465ada4b809da027b7c03"
+        }
+      }
+    },
+    {
+      "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v11/",
+      "stem": "bwv-988-v11",
+      "assets": {
+        ".mid": {
+          "file": "assets/library/BWV988/bwv-988-v11/bwv-988-v11.mid",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v11/bwv-988-v11.mid",
+          "bytes": 5182,
+          "sha256": "3f7fc5b08fc139b88b661f812ec40e05eac09dd6c8b4a3abf2afcab1802c91ba"
+        },
+        ".ly": {
+          "file": "assets/library/BWV988/bwv-988-v11/bwv-988-v11.ly",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v11/bwv-988-v11.ly",
+          "bytes": 8168,
+          "sha256": "2a18b6cfe66a8976dc05601274b7f75c04e6969410e28f185c0d0ce7002bb758"
+        },
+        ".rdf": {
+          "file": "assets/library/BWV988/bwv-988-v11/bwv-988-v11.rdf",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v11/bwv-988-v11.rdf",
+          "bytes": 1312,
+          "sha256": "d180efbe88586c4fba81eb00c3d9a80e186c10a439b639e427f399d2356abc45"
+        }
+      }
+    },
+    {
+      "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v12/",
+      "stem": "bwv-988-v12",
+      "assets": {
+        ".mid": {
+          "file": "assets/library/BWV988/bwv-988-v12/bwv-988-v12.mid",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v12/bwv-988-v12.mid",
+          "bytes": 5463,
+          "sha256": "895be6b1a16d06e587f58edc8f081bcb271beb103761798c65a2a9278993838c"
+        },
+        ".ly": {
+          "file": "assets/library/BWV988/bwv-988-v12/bwv-988-v12.ly",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v12/bwv-988-v12.ly",
+          "bytes": 9673,
+          "sha256": "9dbdd58703a3d4fcc9e9f8278eba210ef0256de6bf24de711e92403055d20528"
+        },
+        ".rdf": {
+          "file": "assets/library/BWV988/bwv-988-v12/bwv-988-v12.rdf",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v12/bwv-988-v12.rdf",
+          "bytes": 1312,
+          "sha256": "7686d7859109b6eb2da2c5542e7c8ecea35217b77dd3421d8a2c5a5b75becd74"
+        }
+      }
+    },
+    {
+      "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v13/",
+      "stem": "bwv-988-v13",
+      "assets": {
+        ".mid": {
+          "file": "assets/library/BWV988/bwv-988-v13/bwv-988-v13.mid",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v13/bwv-988-v13.mid",
+          "bytes": 6837,
+          "sha256": "4fea5e120058520d4217365b99b45feef8dc1dff0d01bb46f13ad904096b3d38"
+        },
+        ".ly": {
+          "file": "assets/library/BWV988/bwv-988-v13/bwv-988-v13.ly",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v13/bwv-988-v13.ly",
+          "bytes": 8510,
+          "sha256": "99be952302124d2a8a9bb7416df769961857466e1c8fcf046bdc2c56bec3512b"
+        },
+        ".rdf": {
+          "file": "assets/library/BWV988/bwv-988-v13/bwv-988-v13.rdf",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v13/bwv-988-v13.rdf",
+          "bytes": 1315,
+          "sha256": "4c6ad065fd48dac047dbf9ac7c5fce9f7d867774fd2d909584ec83323a3ba7e1"
+        }
+      }
+    },
+    {
+      "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v14/",
+      "stem": "bwv-988-v14",
+      "assets": {
+        ".mid": {
+          "file": "assets/library/BWV988/bwv-988-v14/bwv-988-v14.mid",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v14/bwv-988-v14.mid",
+          "bytes": 5460,
+          "sha256": "b1d645272b9a4a418e87b8229fae26b7ab00907c788762ee2b448ff453a21692"
+        },
+        ".ly": {
+          "file": "assets/library/BWV988/bwv-988-v14/bwv-988-v14.ly",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v14/bwv-988-v14.ly",
+          "bytes": 8495,
+          "sha256": "0ba6de9c3f5cd1cbe70539106cc1d087d7a8e69dcd1479b6dfde5c47fa7c5276"
+        },
+        ".rdf": {
+          "file": "assets/library/BWV988/bwv-988-v14/bwv-988-v14.rdf",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v14/bwv-988-v14.rdf",
+          "bytes": 1316,
+          "sha256": "2526afda997c9e7caa0ca59a5e1688e83798e789c1ac42387509e267fb3fb377"
+        }
+      }
+    },
+    {
+      "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v15/",
+      "stem": "bwv-988-v15",
+      "assets": {
+        ".mid": {
+          "file": "assets/library/BWV988/bwv-988-v15/bwv-988-v15.mid",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v15/bwv-988-v15.mid",
+          "bytes": 4475,
+          "sha256": "23613e943c035116e009597765f14461d687e3b88e0e576374794f4cbcbfed1f"
+        },
+        ".ly": {
+          "file": "assets/library/BWV988/bwv-988-v15/bwv-988-v15.ly",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v15/bwv-988-v15.ly",
+          "bytes": 9766,
+          "sha256": "8cd35a7871ae08ffdecf4553357e9da2104077e369d42fea9aa9887eb04e298d"
+        },
+        ".rdf": {
+          "file": "assets/library/BWV988/bwv-988-v15/bwv-988-v15.rdf",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v15/bwv-988-v15.rdf",
+          "bytes": 1318,
+          "sha256": "629987d73c6d5dd144a4ade86c72b016d187c7ef0d558d628a74fd19716aa9b7"
+        }
+      }
+    },
+    {
+      "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v16/",
+      "stem": "bwv-988-v16",
+      "assets": {
+        ".mid": {
+          "file": "assets/library/BWV988/bwv-988-v16/bwv-988-v16.mid",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v16/bwv-988-v16.mid",
+          "bytes": 5720,
+          "sha256": "a19dab72bb47dc14796141948d441a1abde3abfec032d5d16e2c7e4e750ab5eb"
+        },
+        ".ly": {
+          "file": "assets/library/BWV988/bwv-988-v16/bwv-988-v16.ly",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v16/bwv-988-v16.ly",
+          "bytes": 12909,
+          "sha256": "11a165225bcbff86a6c556d3075af6a85aa307a75691b5c9cc49c2c3291efb25"
+        },
+        ".rdf": {
+          "file": "assets/library/BWV988/bwv-988-v16/bwv-988-v16.rdf",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v16/bwv-988-v16.rdf",
+          "bytes": 1315,
+          "sha256": "78096fc8c982a927074568777097b09c60c274b2644cc5910eb0920f852a440d"
+        }
+      }
+    },
+    {
+      "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v17/",
+      "stem": "bwv-988-v17",
+      "assets": {
+        ".mid": {
+          "file": "assets/library/BWV988/bwv-988-v17/bwv-988-v17.mid",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v17/bwv-988-v17.mid",
+          "bytes": 5916,
+          "sha256": "aed5d27f987cb03e0af69c48f83559e96033603317096be17b44847d25fe294d"
+        },
+        ".ly": {
+          "file": "assets/library/BWV988/bwv-988-v17/bwv-988-v17.ly",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v17/bwv-988-v17.ly",
+          "bytes": 7129,
+          "sha256": "8ed946fa097f724e3457f79ab567b65d7031a2fab45c8649a784f9e47e45c5e9"
+        },
+        ".rdf": {
+          "file": "assets/library/BWV988/bwv-988-v17/bwv-988-v17.rdf",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v17/bwv-988-v17.rdf",
+          "bytes": 1297,
+          "sha256": "104f1e4c95e107b9426255b23d0e422539903929698640b69ccaf8978a0bf741"
+        }
+      }
+    },
+    {
+      "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v18/",
+      "stem": "bwv-988-v18",
+      "assets": {
+        ".mid": {
+          "file": "assets/library/BWV988/bwv-988-v18/bwv-988-v18.mid",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v18/bwv-988-v18.mid",
+          "bytes": 2961,
+          "sha256": "06756e6cf628ac24311d35db745ae3c5fb383f7ae63ad80b94b6b67948285064"
+        },
+        ".ly": {
+          "file": "assets/library/BWV988/bwv-988-v18/bwv-988-v18.ly",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v18/bwv-988-v18.ly",
+          "bytes": 5890,
+          "sha256": "c3fc64fe340230196d1f6aaa7ddbfed319f2cfa03292925652979989f26dfd6a"
+        },
+        ".rdf": {
+          "file": "assets/library/BWV988/bwv-988-v18/bwv-988-v18.rdf",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v18/bwv-988-v18.rdf",
+          "bytes": 1312,
+          "sha256": "e9bfca2f0f27b9b847fd3b3d86d3ba36f2e1034708933c2ad5226959b738e78d"
+        }
+      }
+    },
+    {
+      "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v19/",
+      "stem": "bwv-988-v19",
+      "assets": {
+        ".mid": {
+          "file": "assets/library/BWV988/bwv-988-v19/bwv-988-v19.mid",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v19/bwv-988-v19.mid",
+          "bytes": 3017,
+          "sha256": "6c57454a0b884d7c95fbccb7691d8d7284cafb69f099869a727bdc9bbe411057"
+        },
+        ".ly": {
+          "file": "assets/library/BWV988/bwv-988-v19/bwv-988-v19.ly",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v19/bwv-988-v19.ly",
+          "bytes": 7491,
+          "sha256": "fc3fd21b649e6b41657a08274787ec0cf8e77eac153ff04fd10a84c2fb91d8c9"
+        },
+        ".rdf": {
+          "file": "assets/library/BWV988/bwv-988-v19/bwv-988-v19.rdf",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v19/bwv-988-v19.rdf",
+          "bytes": 1312,
+          "sha256": "e6057c47611692aedb73ec28b4323b540f224c2a0fbd717e36e7cf80453c461e"
+        }
+      }
+    },
+    {
+      "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v20/",
+      "stem": "bwv-988-v20",
+      "assets": {
+        ".mid": {
+          "file": "assets/library/BWV988/bwv-988-v20/bwv-988-v20.mid",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v20/bwv-988-v20.mid",
+          "bytes": 5241,
+          "sha256": "75892bd294ac2f12fe8d7e0011d73094cea0ee344f2bd93c1194031886a567d6"
+        },
+        ".ly": {
+          "file": "assets/library/BWV988/bwv-988-v20/bwv-988-v20.ly",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v20/bwv-988-v20.ly",
+          "bytes": 11486,
+          "sha256": "8c2d0c189d4dd4e9ed8f51c576e1707d95449b4c6c7e9fa621f71f8e949c1780"
+        },
+        ".rdf": {
+          "file": "assets/library/BWV988/bwv-988-v20/bwv-988-v20.rdf",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v20/bwv-988-v20.rdf",
+          "bytes": 1312,
+          "sha256": "9ada077af50f3c663ac929bda8495a3ff0baca9df080e771623c76119e954013"
+        }
+      }
+    },
+    {
+      "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v21/",
+      "stem": "bwv-988-v21",
+      "assets": {
+        ".mid": {
+          "file": "assets/library/BWV988/bwv-988-v21/bwv-988-v21.mid",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v21/bwv-988-v21.mid",
+          "bytes": 3970,
+          "sha256": "6df95eb4e511e8a12c298073235635c80d1a8e7a52cd81a80d3a3eda9ee4fb1b"
+        },
+        ".ly": {
+          "file": "assets/library/BWV988/bwv-988-v21/bwv-988-v21.ly",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v21/bwv-988-v21.ly",
+          "bytes": 6397,
+          "sha256": "2a778159d348b6e39abd9d834d329237f0263e091a8020460b95b1a9e4cf782e"
+        },
+        ".rdf": {
+          "file": "assets/library/BWV988/bwv-988-v21/bwv-988-v21.rdf",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v21/bwv-988-v21.rdf",
+          "bytes": 1312,
+          "sha256": "56733b92459d6859fc223608c37306575d91358caa287bb93a94a65e593a7838"
+        }
+      }
+    },
+    {
+      "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v22/",
+      "stem": "bwv-988-v22",
+      "assets": {
+        ".mid": {
+          "file": "assets/library/BWV988/bwv-988-v22/bwv-988-v22.mid",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v22/bwv-988-v22.mid",
+          "bytes": 2642,
+          "sha256": "a05eca36f2c8da824fd7787401e4321f2c47f86debe0fc8d44b69d2c2be3c4b9"
+        },
+        ".ly": {
+          "file": "assets/library/BWV988/bwv-988-v22/bwv-988-v22.ly",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v22/bwv-988-v22.ly",
+          "bytes": 7667,
+          "sha256": "d328cd81bbfba3e5881332c3546bd832caccf1259f6756e71e66a662d708a0fb"
+        },
+        ".rdf": {
+          "file": "assets/library/BWV988/bwv-988-v22/bwv-988-v22.rdf",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v22/bwv-988-v22.rdf",
+          "bytes": 1312,
+          "sha256": "2a6b6cabb511bb1795a7dbc1e8930457b90cd33510d677675f17af397eb6ba13"
+        }
+      }
+    },
+    {
+      "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v23/",
+      "stem": "bwv-988-v23",
+      "assets": {
+        ".mid": {
+          "file": "assets/library/BWV988/bwv-988-v23/bwv-988-v23.mid",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v23/bwv-988-v23.mid",
+          "bytes": 6051,
+          "sha256": "6538fefc04cea957dfb588e2d20a29daa59299cc9fc653b431538dd66039509b"
+        },
+        ".ly": {
+          "file": "assets/library/BWV988/bwv-988-v23/bwv-988-v23.ly",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v23/bwv-988-v23.ly",
+          "bytes": 10655,
+          "sha256": "55cf9b809fea0f189662663e6aacc7a81f8eecca012984b1c482d85c95b9b3b5"
+        },
+        ".rdf": {
+          "file": "assets/library/BWV988/bwv-988-v23/bwv-988-v23.rdf",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v23/bwv-988-v23.rdf",
+          "bytes": 1312,
+          "sha256": "17541ecab3d2f7102c43024d3a1185694cad3de5d541c9ff8e1c5a39554b60e4"
+        }
+      }
+    },
+    {
+      "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v24/",
+      "stem": "bwv-988-v24",
+      "assets": {
+        ".mid": {
+          "file": "assets/library/BWV988/bwv-988-v24/bwv-988-v24.mid",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v24/bwv-988-v24.mid",
+          "bytes": 5428,
+          "sha256": "88f1193268c090f6191c5bcc46f1576a1a0a9d5a1e4f96cb2018e1fb4b3c2318"
+        },
+        ".ly": {
+          "file": "assets/library/BWV988/bwv-988-v24/bwv-988-v24.ly",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v24/bwv-988-v24.ly",
+          "bytes": 8242,
+          "sha256": "caf26a86367bc453dd1b6751b75dba2cbbe2d9d55179a89ccb9cb547be77ec12"
+        },
+        ".rdf": {
+          "file": "assets/library/BWV988/bwv-988-v24/bwv-988-v24.rdf",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v24/bwv-988-v24.rdf",
+          "bytes": 1315,
+          "sha256": "f98410a73b4974fb8b7266eecca25b1bd63f229cf704d2bf3a8f70e56b68b6b8"
+        }
+      }
+    },
+    {
+      "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v25/",
+      "stem": "bwv-988-v25",
+      "assets": {
+        ".mid": {
+          "file": "assets/library/BWV988/bwv-988-v25/bwv-988-v25.mid",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v25/bwv-988-v25.mid",
+          "bytes": 6356,
+          "sha256": "40d42594080a01088c463d338c02360052080ff36326746322e4b248ef17e1d6"
+        },
+        ".ly": {
+          "file": "assets/library/BWV988/bwv-988-v25/bwv-988-v25.ly",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v25/bwv-988-v25.ly",
+          "bytes": 8140,
+          "sha256": "82546e6b2d03e5f0e23b2e596a74ae074e9c1aa690e24560795124beee8b2811"
+        },
+        ".rdf": {
+          "file": "assets/library/BWV988/bwv-988-v25/bwv-988-v25.rdf",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v25/bwv-988-v25.rdf",
+          "bytes": 1315,
+          "sha256": "b6f3d5da17ba43b251bca4682e978a50923846c95d304db11ec19337b4420609"
+        }
+      }
+    },
+    {
+      "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v26/",
+      "stem": "bwv-988-v26",
+      "assets": {
+        ".mid": {
+          "file": "assets/library/BWV988/bwv-988-v26/bwv-988-v26.mid",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v26/bwv-988-v26.mid",
+          "bytes": 7085,
+          "sha256": "9eaac377c5c0bdb9692a565ce84a96022a33019b7240eb26b35b0a51b9e1a22a"
+        },
+        ".ly": {
+          "file": "assets/library/BWV988/bwv-988-v26/bwv-988-v26.ly",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v26/bwv-988-v26.ly",
+          "bytes": 13332,
+          "sha256": "57e2bdcf64fe0248ba5645100dd8df6f217ffc7d466bd2b26a9136cd45c14906"
+        },
+        ".rdf": {
+          "file": "assets/library/BWV988/bwv-988-v26/bwv-988-v26.rdf",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v26/bwv-988-v26.rdf",
+          "bytes": 1312,
+          "sha256": "5bb93d1d35c7e5674a0458fe0357bb6b7c9e219a330c23386b4bfb04ddec1f70"
+        }
+      }
+    },
+    {
+      "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v27/",
+      "stem": "bwv-988-v27",
+      "assets": {
+        ".mid": {
+          "file": "assets/library/BWV988/bwv-988-v27/bwv-988-v27.mid",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v27/bwv-988-v27.mid",
+          "bytes": 4228,
+          "sha256": "b0f4c619430e336021d0f981fb716393e618c3b9a6d8c4cf8fa02d32ee68fffd"
+        },
+        ".ly": {
+          "file": "assets/library/BWV988/bwv-988-v27/bwv-988-v27.ly",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v27/bwv-988-v27.ly",
+          "bytes": 6211,
+          "sha256": "d2465d8f5e25e5d5640e9699c9f1dba6c23c9bd8d12fa74d1c3bf41438d8331e"
+        },
+        ".rdf": {
+          "file": "assets/library/BWV988/bwv-988-v27/bwv-988-v27.rdf",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v27/bwv-988-v27.rdf",
+          "bytes": 1315,
+          "sha256": "cb3aa8e431d388fe7c1e3e7f90f3b5e00c5a4e231b0e7b605f9376257535ff07"
+        }
+      }
+    },
+    {
+      "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v28/",
+      "stem": "bwv-988-v28",
+      "assets": {
+        ".mid": {
+          "file": "assets/library/BWV988/bwv-988-v28/bwv-988-v28.mid",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v28/bwv-988-v28.mid",
+          "bytes": 8177,
+          "sha256": "b18d92f020800ab11802f91ade5c4a48a651332e9c01a6ac6aecb227485bdfb2"
+        },
+        ".ly": {
+          "file": "assets/library/BWV988/bwv-988-v28/bwv-988-v28.ly",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v28/bwv-988-v28.ly",
+          "bytes": 11504,
+          "sha256": "6dfaadcd938448639e4aa19861504330ec73adaf9733e95507b1ba4d82f652c6"
+        },
+        ".rdf": {
+          "file": "assets/library/BWV988/bwv-988-v28/bwv-988-v28.rdf",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v28/bwv-988-v28.rdf",
+          "bytes": 1316,
+          "sha256": "0dda2c09c97aeb078798e843f9fe8db48c405bc50adffcbfd0ef64968d00ab23"
+        }
+      }
+    },
+    {
+      "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v29/",
+      "stem": "bwv-988-v29",
+      "assets": {
+        ".mid": {
+          "file": "assets/library/BWV988/bwv-988-v29/bwv-988-v29.mid",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v29/bwv-988-v29.mid",
+          "bytes": 6133,
+          "sha256": "45f2e60293e6c897840de7a77702766f7c55606db1a8d5283ecde09ee1d719fc"
+        },
+        ".ly": {
+          "file": "assets/library/BWV988/bwv-988-v29/bwv-988-v29.ly",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v29/bwv-988-v29.ly",
+          "bytes": 15788,
+          "sha256": "4f8abd7fadb2eb798e79f5085ecee0e780bfca66edb35829ce36fee630776b8d"
+        },
+        ".rdf": {
+          "file": "assets/library/BWV988/bwv-988-v29/bwv-988-v29.rdf",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v29/bwv-988-v29.rdf",
+          "bytes": 1312,
+          "sha256": "58e65b302eec97de9f41f030069efa831f01af2eb32adca0089fda5b22266b41"
+        }
+      }
+    },
+    {
+      "directory": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v30/",
+      "stem": "bwv-988-v30",
+      "assets": {
+        ".mid": {
+          "file": "assets/library/BWV988/bwv-988-v30/bwv-988-v30.mid",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v30/bwv-988-v30.mid",
+          "bytes": 3400,
+          "sha256": "0628e64952bec02aa20856fffac45d41069547c043eff0a89cb0e728b88e94f2"
+        },
+        ".ly": {
+          "file": "assets/library/BWV988/bwv-988-v30/bwv-988-v30.ly",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v30/bwv-988-v30.ly",
+          "bytes": 7855,
+          "sha256": "2a3191ca67c54cf73b20f0d2d58e4093e8bd0e0f58b0c1f224d9cdb29562b9f3"
+        },
+        ".rdf": {
+          "file": "assets/library/BWV988/bwv-988-v30/bwv-988-v30.rdf",
+          "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-v30/bwv-988-v30.rdf",
+          "bytes": 1315,
+          "sha256": "526f1c4b6ffe5f6afc8c201ed7e3f57227cd5ad770288592f87bcc8746c453d9"
+        }
+      }
+    }
+  ],
+  "missingRoots": [
+    "https://www.mutopiaproject.org/ftp/BachJS/BWV852/",
+    "https://www.mutopiaproject.org/ftp/BachJS/BWV858/",
+    "https://www.mutopiaproject.org/ftp/BachJS/BWV859/",
+    "https://www.mutopiaproject.org/ftp/BachJS/BWV863/",
+    "https://www.mutopiaproject.org/ftp/BachJS/BWV864/",
+    "https://www.mutopiaproject.org/ftp/BachJS/BWV866/",
+    "https://www.mutopiaproject.org/ftp/BachJS/BWV867/",
+    "https://www.mutopiaproject.org/ftp/BachJS/BWV868/",
+    "https://www.mutopiaproject.org/ftp/BachJS/BWV872/",
+    "https://www.mutopiaproject.org/ftp/BachJS/BWV873/",
+    "https://www.mutopiaproject.org/ftp/BachJS/BWV874/",
+    "https://www.mutopiaproject.org/ftp/BachJS/BWV876/",
+    "https://www.mutopiaproject.org/ftp/BachJS/BWV877/",
+    "https://www.mutopiaproject.org/ftp/BachJS/BWV879/",
+    "https://www.mutopiaproject.org/ftp/BachJS/BWV880/",
+    "https://www.mutopiaproject.org/ftp/BachJS/BWV881/",
+    "https://www.mutopiaproject.org/ftp/BachJS/BWV882/",
+    "https://www.mutopiaproject.org/ftp/BachJS/BWV883/",
+    "https://www.mutopiaproject.org/ftp/BachJS/BWV884/",
+    "https://www.mutopiaproject.org/ftp/BachJS/BWV885/",
+    "https://www.mutopiaproject.org/ftp/BachJS/BWV886/",
+    "https://www.mutopiaproject.org/ftp/BachJS/BWV887/",
+    "https://www.mutopiaproject.org/ftp/BachJS/BWV888/",
+    "https://www.mutopiaproject.org/ftp/BachJS/BWV889/",
+    "https://www.mutopiaproject.org/ftp/BachJS/BWV890/",
+    "https://www.mutopiaproject.org/ftp/BachJS/BWV891/",
+    "https://www.mutopiaproject.org/ftp/BachJS/BWV892/",
+    "https://www.mutopiaproject.org/ftp/BachJS/BWV893/"
+  ],
+  "failures": []
+}

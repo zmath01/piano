@@ -1,0 +1,7 @@
+
+'use strict';
+(()=>{
+const images=JSON.parse(document.getElementById('support-images').textContent),dialog=document.getElementById('support-dialog');
+const select=method=>{document.getElementById('support-wechat').setAttribute('aria-pressed',String(method==='wechat'));document.getElementById('support-alipay').setAttribute('aria-pressed',String(method==='alipay'));const image=document.getElementById('support-qr');image.src=images[method];image.alt='Creator-provided '+(method==='wechat'?'WeChat':'Alipay')+' payment QR code';document.getElementById('support-instruction').textContent=method==='wechat'?'Scan with WeChat · 使用微信扫一扫':'Scan with Alipay · 使用支付宝扫一扫';const link=document.getElementById('save-support-qr');link.href=images[method];link.download='piano-'+method+'-support.'+(method==='wechat'?'png':'jpg');};
+document.getElementById('support-button').addEventListener('click',()=>{transport.pause();releaseAll();select('wechat');dialog.showModal();});document.getElementById('support-wechat').addEventListener('click',()=>select('wechat'));document.getElementById('support-alipay').addEventListener('click',()=>select('alipay'));document.getElementById('close-support').addEventListener('click',()=>dialog.close());dialog.addEventListener('click',event=>{if(event.target!==dialog)return;const r=dialog.getBoundingClientRect();if(event.clientX<r.left||event.clientX>r.right||event.clientY<r.top||event.clientY>r.bottom)dialog.close();});select('wechat');
+})();

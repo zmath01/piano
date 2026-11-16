@@ -1,0 +1,43 @@
+{
+  "status": "pass",
+  "mode": "offline file",
+  "tracks": 153,
+  "viewports": [
+    {
+      "width": 1440,
+      "height": 900,
+      "noOverflow": true,
+      "qrDialog": true,
+      "noStageLayoutShift": true
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "noOverflow": true,
+      "qrDialog": true,
+      "noStageLayoutShift": true
+    },
+    {
+      "width": 320,
+      "height": 740,
+      "noOverflow": true,
+      "qrDialog": true,
+      "noStageLayoutShift": true
+    }
+  ],
+  "checks": [
+    "Bach playback",
+    "collection selection",
+    "compact support button",
+    "both original QR images render",
+    "payment-method switch",
+    "QR download",
+    "Escape closes dialog",
+    "piano shortcuts suppressed inside support dialog",
+    "no keyboard layout shift",
+    "no horizontal overflow"
+  ],
+  "errors": [],
+  "runtimeHttpRequests": 0,
+  "actualPaymentsTested": false
+}

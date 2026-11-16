@@ -1,0 +1,19 @@
+# Credentials and private state must never be published.
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.pfx
+*.token
+credentials*
+secrets*
+.ssh/
+.aws/
+node_modules/
+__pycache__/
+*.pyc
+source/dist/
+_site/
+previous/
+*.log
