@@ -1,0 +1,99 @@
+name: Build and deploy piano
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - index.html
+      - source/**
+      - scripts/**
+      - _import/ready.json
+      - .github/workflows/pages.yml
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: piano-pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    outputs:
+      ready: ${{ steps.prepare.outputs.ready }}
+    steps:
+      - name: Check out the project
+        uses: actions/checkout@v6
+
+      - name: Import the reviewed initial snapshot when present
+        id: prepare
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import hashlib, io, json, os, tarfile
+          root = Path.cwd()
+          ready = root / '_import/ready.json'
+          if ready.exists():
+              record = json.loads(ready.read_text())
+              payload = b''.join((root / '_import' / name).read_bytes() for name in record['parts'])
+              assert hashlib.sha256(payload).hexdigest() == record['sha256']
+              with tarfile.open(fileobj=io.BytesIO(payload), mode='r:gz') as bundle:
+                  members = bundle.getmembers()
+                  assert len(members) == record['files']
+                  for member in members:
+                      path = Path(member.name)
+                      assert member.isfile() and not path.is_absolute()
+                      assert '..' not in path.parts and path.parts[0] not in ('.git', '.github', '_import')
+                      dest = root / path
+                      dest.parent.mkdir(parents=True, exist_ok=True)
+                      with bundle.extractfile(member) as source:
+                          dest.write_bytes(source.read())
+          present = (root / 'source/build.py').is_file()
+          with open(os.environ['GITHUB_OUTPUT'], 'a') as output:
+              output.write('ready=' + str(present).lower() + '\n')
+          PY
+
+      - name: Verify the public files and build the playable page
+        if: steps.prepare.outputs.ready == 'true'
+        run: python3 scripts/build_site.py
+
+      - name: Materialize the initial snapshot as normal repository files
+        if: steps.prepare.outputs.ready == 'true'
+        shell: bash
+        run: |
+          if test -f _import/ready.json; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git rm -r _import
+            git add --all
+            git commit -m "Publish reviewed piano source and embedded Bach library"
+            git push origin HEAD:main
+          fi
+
+      - name: Upload the self-contained site
+        if: steps.prepare.outputs.ready == 'true'
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: _site
+
+  deploy:
+    if: needs.build.outputs.ready == 'true'
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+      - name: Deploy the piano
+        id: deployment
+        uses: actions/deploy-pages@v5
