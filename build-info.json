@@ -1,7 +1,7 @@
 {
   "entry": "index.html",
-  "bytes": 5081491,
-  "sha256": "2fa7387312ba61be51e2d92de94eb15335dff8a30ae0e247b91a1ac2aa6df053",
+  "bytes": 6281090,
+  "sha256": "a7a83997b7f28ebb0563e28c15e2098d3d08aa6423a9fb132f843403276b94da",
   "runtimeNetworkRequests": 0,
   "build": "python3 source/build.py"
 }

@@ -2,7 +2,7 @@
 
 const $ = id => document.getElementById(id);
 let score = JSON.parse($('score').textContent);
-const audio = new PianoAudio();
+const audio = new PianoAudio(JSON.parse($('piano-samples').textContent));
 const transport = new PianoTransport(audio, score);
 const held = new Map();
 const pointerNotes = new Map();

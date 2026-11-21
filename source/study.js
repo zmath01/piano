@@ -182,8 +182,6 @@ class BachStudy {
     transport.pause();audio.stopGroup('lab');
     try{
       await audio.unlock();const notes=this.labData(transformed);if(notes.some(n=>n[1]<21||n[1]>108))return;
-      // Warm buffers before choosing the common start time, to avoid staggered entries.
-      for(const n of notes)audio.bufferFor(n[1]);
       const at=audio.ctx.currentTime+0.04;
       for(const [q,p,d] of notes)audio.noteOn(p,90,at+q*0.5,d*0.5,'lab');
       $('lab-status').textContent=(transformed?'Transformed motif':'Reference motif')+' · demonstration at ♩ = 120';clearError();

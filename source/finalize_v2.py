@@ -10,7 +10,7 @@ def finalize():
  (ROOT/'README.md').write_text('''# Piano · Bach counterpoint explorer
 
 Open **index.html** in a browser. The single file embeds the complete library,
-Three.js, synthesized piano sound and interactive analysis. It works offline.
+Three.js, acoustic grand-piano recordings and interactive analysis. It works offline.
 Tap Play or a piano key to enable browser audio.
 
 ## Library: 153 tracks
@@ -55,7 +55,9 @@ Hold Space or latch Sustain for live notes. Accessible keys provides semantic
 buttons: Tab to a note and hold Enter. Leaving the tab pauses the piece and
 releases live/demonstration voices.
 
-Playback is synthesized piano in 12-tone equal temperament, not a recording.
+Playback uses Alexander Holm's Salamander Grand Piano v3 recordings, adjusted to
+nearby MIDI pitches. Bass EQ brings out harmonics audible on small speakers, and
+treble EQ softens the highest keys. See [recording credits](CREDITS.md).
 The WTC title does not establish Bach's historical tuning as equal temperament.
 Original MIDI pitches, velocities, durations, tempo changes and register
 doublings are retained; timing is rounded to milliseconds. There is one documented
@@ -145,12 +147,22 @@ are Public Domain; Goldberg editions use CC BY-SA 3.0. BWV 617: Urs Metzger,
 © 2007, Mutopia-2007/11/05-1100, CC BY-SA 3.0.
 
 The adapted millisecond note data retains its original edition's license.
-Instrument programs are replaced by synthesized piano; pitches, encoded note
-lengths, velocities, tempo changes and register doublings remain. All source
+Playback uses sampled grand piano. Pitches, encoded note lengths, velocities,
+tempo changes and register doublings remain. All source
 files and retrieval metadata are supplied. The app makes no runtime requests.
 
 CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/
 CC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0/
+
+## Piano recordings
+
+**Salamander Grand Piano v3**, recorded on a Yamaha C5 by Alexander Holm,
+[CC BY 3.0 Unported](https://creativecommons.org/licenses/by/3.0/).
+[Original release](https://archive.org/details/SalamanderGrandPianoV3) and
+[FLAC source revision](https://github.com/sfzinstruments/SalamanderGrandPiano/tree/3382bf9496bba2486f5ab0de55a264d1dfc38404).
+This adaptation uses one velocity layer, converted to mono MP3 with aligned
+attacks, adjusted gain and shortened tails. Playback applies pitch adjustment,
+velocity gain and register-dependent EQ.
 
 ## Analytical references
 

@@ -18,11 +18,18 @@ def build():
     finalize()
     DIST.mkdir(exist_ok=True)
     template = (ROOT / 'index.template.html').read_text()
+    samples = {
+        int(path.stem): base64.b64encode(path.read_bytes()).decode('ascii')
+        for path in sorted((ROOT / 'assets' / 'piano').glob('*.mp3'))
+    }
+    if any(not any(abs(root - note) <= 3 for root in samples) for note in range(21, 109)):
+        raise ValueError('The embedded recordings must cover all 88 keys within three semitones.')
     replacements = {
         'CSS': (ROOT / 'style.css').read_text() + '\n' + (ROOT / 'study.css').read_text(),
         'THREE': (ROOT / 'assets' / 'three.min.js').read_text(),
         'SCORE': (ROOT / 'assets' / 'score.json').read_text(),
         'LIBRARY': (ROOT / 'assets' / 'library.json').read_text(),
+        'PIANO_SAMPLES': json.dumps(samples, separators=(',', ':')),
         'SUPPORT_WECHAT': base64.b64encode((ROOT / 'assets/support/wechat.png').read_bytes()).decode(),
         'SUPPORT_ALIPAY': base64.b64encode((ROOT / 'assets/support/alipay.jpg').read_bytes()).decode(),
         'APP': '\n'.join((ROOT / name).read_text() for name in ['audio.js', 'scene.js', 'app.js', 'study.js', 'support.js']),

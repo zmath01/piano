@@ -11,12 +11,22 @@ are Public Domain; Goldberg editions use CC BY-SA 3.0. BWV 617: Urs Metzger,
 © 2007, Mutopia-2007/11/05-1100, CC BY-SA 3.0.
 
 The adapted millisecond note data retains its original edition's license.
-Instrument programs are replaced by synthesized piano; pitches, encoded note
-lengths, velocities, tempo changes and register doublings remain. All source
+Playback uses sampled grand piano. Pitches, encoded note lengths, velocities,
+tempo changes and register doublings remain. All source
 files and retrieval metadata are supplied. The app makes no runtime requests.
 
 CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/
 CC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0/
+
+## Piano recordings
+
+**Salamander Grand Piano v3**, recorded on a Yamaha C5 by Alexander Holm,
+[CC BY 3.0 Unported](https://creativecommons.org/licenses/by/3.0/).
+[Original release](https://archive.org/details/SalamanderGrandPianoV3) and
+[FLAC source revision](https://github.com/sfzinstruments/SalamanderGrandPiano/tree/3382bf9496bba2486f5ab0de55a264d1dfc38404).
+This adaptation uses one velocity layer, converted to mono MP3 with aligned
+attacks, adjusted gain and shortened tails. Playback applies pitch adjustment,
+velocity gain and register-dependent EQ.
 
 ## Analytical references
 

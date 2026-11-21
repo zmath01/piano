@@ -1,7 +1,7 @@
 # Piano · Bach counterpoint explorer
 
 Open **index.html** in a browser. The single file embeds the complete library,
-Three.js, synthesized piano sound and interactive analysis. It works offline.
+Three.js, acoustic grand-piano recordings and interactive analysis. It works offline.
 Tap Play or a piano key to enable browser audio.
 
 ## Library: 153 tracks
@@ -46,7 +46,9 @@ Hold Space or latch Sustain for live notes. Accessible keys provides semantic
 buttons: Tab to a note and hold Enter. Leaving the tab pauses the piece and
 releases live/demonstration voices.
 
-Playback is synthesized piano in 12-tone equal temperament, not a recording.
+Playback uses Alexander Holm's Salamander Grand Piano v3 recordings, adjusted to
+nearby MIDI pitches. Bass EQ brings out harmonics audible on small speakers, and
+treble EQ softens the highest keys. See [recording credits](CREDITS.md).
 The WTC title does not establish Bach's historical tuning as equal temperament.
 Original MIDI pitches, velocities, durations, tempo changes and register
 doublings are retained; timing is rounded to milliseconds. There is one documented

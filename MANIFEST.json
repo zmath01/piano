@@ -12,8 +12,8 @@
     "sha256": "5a0a0cc4e7e05ab53211117df0899a419b888161cdf3ca37ee3514227e9c29f9"
   },
   "CREDITS.md": {
-    "bytes": 1912,
-    "sha256": "3bc0b65448fbdd0cae3994e3ba31a1bfc40d28ed79844cefb63b9f141f0a099e"
+    "bytes": 2453,
+    "sha256": "f9691cc46da0843ed35ec948c62fe9f45645562dc859a2f698f79b7944e78f04"
   },
   "LICENSE.txt": {
     "bytes": 1242,
@@ -28,8 +28,8 @@
     "sha256": "723f1a75a3e5c74b1378530de6d063050c3655eaca606eab1fa2371438599261"
   },
   "README.md": {
-    "bytes": 4602,
-    "sha256": "8bb10798b9944f020a622b53752aa4553e5eef03613c3b81b15273e5b382ef80"
+    "bytes": 4787,
+    "sha256": "8f7f6973e00758c77c69ce3324b066b59a1d81dec1c81c57bace0a8220bc33f5"
   },
   "TRACKS.md": {
     "bytes": 35015,
@@ -49,11 +49,11 @@
   },
   "build-info.json": {
     "bytes": 197,
-    "sha256": "e4710f04db75c76519cd2924fb9d874d310d6d382a67360af1d2be8415341353"
+    "sha256": "a10bd0baab9526a5204ccda7157512090d9f86abd267369d69580702d7c76a50"
   },
   "index.html": {
-    "bytes": 5081491,
-    "sha256": "2fa7387312ba61be51e2d92de94eb15335dff8a30ae0e247b91a1ac2aa6df053"
+    "bytes": 6281090,
+    "sha256": "a7a83997b7f28ebb0563e28c15e2098d3d08aa6423a9fb132f843403276b94da"
   },
   "scripts/build_site.py": {
     "bytes": 678,
@@ -68,8 +68,8 @@
     "sha256": "5a0a0cc4e7e05ab53211117df0899a419b888161cdf3ca37ee3514227e9c29f9"
   },
   "source/CREDITS.md": {
-    "bytes": 1912,
-    "sha256": "3bc0b65448fbdd0cae3994e3ba31a1bfc40d28ed79844cefb63b9f141f0a099e"
+    "bytes": 2453,
+    "sha256": "f9691cc46da0843ed35ec948c62fe9f45645562dc859a2f698f79b7944e78f04"
   },
   "source/DESIGN.md": {
     "bytes": 1602,
@@ -80,16 +80,16 @@
     "sha256": "3995e9b60a5449b492ae51a7fc11590aac0746799cab5757602a2387b4751ea4"
   },
   "source/README.md": {
-    "bytes": 4008,
-    "sha256": "ededf4a188dc6afd1c7f10dde56b058bb6cbbf74c2080f2ef13b38ccaa4f2b5b"
+    "bytes": 4174,
+    "sha256": "46bd94d75632b7965970b1a1c28bbd689c01c664189f32dac9efb48de20a9365"
   },
   "source/TRACKS.md": {
     "bytes": 35015,
     "sha256": "dd004784d5740d458f7f0371e2200493d6e20acf798ccebb080a536a98c15e1d"
   },
   "source/app.js": {
-    "bytes": 12456,
-    "sha256": "4fc3686f7bc223151be916b4068bc3e4cc482412f47331f1fa7307cfc25c7fa9"
+    "bytes": 12498,
+    "sha256": "87aa5f68a454b4ca8b7e7f22827c046ed1129e3629b11c2998a71be8fb755958"
   },
   "source/assets/THREE-LICENSE.txt": {
     "bytes": 1081,
@@ -102,6 +102,10 @@
   "source/assets/bwv617.mid": {
     "bytes": 12813,
     "sha256": "18ec17bfcdd0d0eb76c91049d503355e509cab9dc05c40312426f0db3eff2926"
+  },
+  "source/assets/library.json": {
+    "bytes": 3832321,
+    "sha256": "0c525a231a50b5797979d2550114608c410ecf33b0db302a232726f5a4b9fa4f"
   },
   "source/assets/library/BWV1080/contrapunctusI/contrapunctusI.mid": {
     "bytes": 8378,
@@ -2435,9 +2439,73 @@
     "bytes": 145995,
     "sha256": "94670bf7192bbf7425d25503eda8a70711ae92bde98ab66df6c7af8eddb03e02"
   },
-  "source/assets/library.json": {
-    "bytes": 3832321,
-    "sha256": "0c525a231a50b5797979d2550114608c410ecf33b0db302a232726f5a4b9fa4f"
+  "source/assets/piano/102.mp3": {
+    "bytes": 36621,
+    "sha256": "76ef5c510933fb921596975d4f21076ce9ab7c0ad6563b052a74a9bcd8c72f24"
+  },
+  "source/assets/piano/108.mp3": {
+    "bytes": 31725,
+    "sha256": "c4a1da46b0169e505ca16c0007ee630eba052d50faf38826c71362d466333b09"
+  },
+  "source/assets/piano/21.mp3": {
+    "bytes": 80685,
+    "sha256": "e1f26d410ad208e191da0f985943db4e77983f9fbcb431cd1420403bb7468bb7"
+  },
+  "source/assets/piano/24.mp3": {
+    "bytes": 80685,
+    "sha256": "712f31a536086536a18378114fbb2d5e378eb402279df21f096b0b41442da2fe"
+  },
+  "source/assets/piano/30.mp3": {
+    "bytes": 80685,
+    "sha256": "5e37d8a271d2fe0e5f799a467000519f4ddff9d083d3d424c08db3145e26cbc2"
+  },
+  "source/assets/piano/36.mp3": {
+    "bytes": 80685,
+    "sha256": "239cb2f52bbec268875883c404ba97dfac929a7ce1d6bb60fe89db8c624fcbe4"
+  },
+  "source/assets/piano/42.mp3": {
+    "bytes": 80685,
+    "sha256": "d944c2cd7e1796eb1a4c74d471d07a6d779d267fbc5e61ab05112bfad3a737ae"
+  },
+  "source/assets/piano/48.mp3": {
+    "bytes": 56781,
+    "sha256": "9566742341408344c9f5c0534aa61a40bc589d9e03e3c4b8a508b6036480092b"
+  },
+  "source/assets/piano/54.mp3": {
+    "bytes": 56781,
+    "sha256": "abb35369b0fe10ffea65f81ecb110d644ec0e2ce8f7570ad66dc1fca5a92e54d"
+  },
+  "source/assets/piano/60.mp3": {
+    "bytes": 56781,
+    "sha256": "03b9ede8b55182244101f32616a4179f13af8867e5af504b13c9f0da12f257d8"
+  },
+  "source/assets/piano/66.mp3": {
+    "bytes": 56781,
+    "sha256": "eb87df8efd96b58fa95662401ade7ed209b5695afd41fea16f0b64bd9790001a"
+  },
+  "source/assets/piano/72.mp3": {
+    "bytes": 56781,
+    "sha256": "d1b2d0e9793c42a6e0b0b10d7e222ee220cb7e05248659e0c85bb6d4f95f0caa"
+  },
+  "source/assets/piano/78.mp3": {
+    "bytes": 36621,
+    "sha256": "4618364cfbedce313c2700816d750441e52a5afe11fb6aedb593d82d759ce54c"
+  },
+  "source/assets/piano/84.mp3": {
+    "bytes": 36621,
+    "sha256": "547f90a80532646a1f2224fb92e8d5cf76ff6aca7dbf3462430a0de829a46187"
+  },
+  "source/assets/piano/90.mp3": {
+    "bytes": 36621,
+    "sha256": "4cddb13f068c354e20c2d4ae29a99fdc41f07eaa096cfcf443f17f9789d25e2a"
+  },
+  "source/assets/piano/96.mp3": {
+    "bytes": 33453,
+    "sha256": "e29325f2a5866306e95849f25e09aa5bb102f5d233f86c8aca07276de3c969d4"
+  },
+  "source/assets/piano/README.md": {
+    "bytes": 964,
+    "sha256": "88953524043c78476755c7e23d0adc29fc4467eb3f8d0b477cd50a7069b0cc3c"
   },
   "source/assets/score.json": {
     "bytes": 33077,
@@ -2464,12 +2532,12 @@
     "sha256": "170c6789f43217c96b3170f4b42fafe135de7f7cd48497a4218f9757ee1d49fa"
   },
   "source/audio.js": {
-    "bytes": 9458,
-    "sha256": "b15b5957a17811cccfdc639ff660fd031ea8870ddd2f78b45af77d7c49584c4a"
+    "bytes": 9884,
+    "sha256": "929659f0a762fe6cf744a1a842e80e53feb28ed848f9f7003adfd0529e046834"
   },
   "source/build.py": {
-    "bytes": 2659,
-    "sha256": "2bcdf4478b6307bbb32c3785e15f4e59ed1aa7e0bf18ad7e689c3d65e9976ada"
+    "bytes": 3086,
+    "sha256": "53035d0682b69ae9fbce271c49db1587c18efb8b5acf69f6a96c1eb6716ece9f"
   },
   "source/collect_art_pairs.py": {
     "bytes": 1939,
@@ -2488,12 +2556,12 @@
     "sha256": "1304684f44a02f4b2f1f932935c7bff9b06c5a6e508c80ec0928229b7efb29df"
   },
   "source/finalize_v2.py": {
-    "bytes": 9450,
-    "sha256": "97dd3be885b408e4f5d927758a513dde0624bec2fee6e8534d6a32ffbf95991c"
+    "bytes": 10157,
+    "sha256": "3059d1eebe7359e1c37fc7eb07c94f0f85b1bc86585013c7d8714e3c19c64305"
   },
   "source/index.template.html": {
-    "bytes": 14797,
-    "sha256": "7f209933335720c3f05278b42f20d35f8ee3ace2e3fd11582c67866873ab3672"
+    "bytes": 15139,
+    "sha256": "0e4211d03fdbb64f982bf41d3c42b56adba093ef7aa3cc84fccff7c85112d50d"
   },
   "source/make_library.py": {
     "bytes": 12823,
@@ -2528,12 +2596,12 @@
     "sha256": "21e4049c864d318fbf2a837a30c38fdaa366093bba204623a8a844f6df902bf1"
   },
   "source/study.js": {
-    "bytes": 16047,
-    "sha256": "8dfdcbf6057a31ab6bf106488dedc6d50a8c97925de4518ea5062655ba0cb4f4"
+    "bytes": 15908,
+    "sha256": "6fd35e4b77e77bce7135a7b9d7a5df3b36472e965a61b634840611402620a4bd"
   },
   "source/style.css": {
-    "bytes": 11950,
-    "sha256": "c5c4aa022c16ccd888df203eae5d9eeac70f1b06ebaf12044465b65b76eda916"
+    "bytes": 12112,
+    "sha256": "892bc1eaf594d41391d3c9af52d49bcc4e40e7b91a1b1eb69d2c31d9e61eef95"
   },
   "source/support.js": {
     "bytes": 1504,

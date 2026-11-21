@@ -1,15 +1,35 @@
 'use strict';
 
-// One audio clock drives both sound and transport. Buffers are synthesized lazily
-// from damped, slightly inharmonic strings; no samples or network are needed.
+// One audio clock drives both sound and transport. Each voice uses the nearest
+// recorded pitch, retuned by semitones to the MIDI pitch.
 class PianoAudio {
-  constructor() {
+  constructor(sampleBank) {
     this.ctx = null;
     this.buffers = new Map();
+    this.sampleBank = sampleBank;
+    this.loading = null;
     this.voices = new Set();
     this.volume = 0.65;
     this.sustain = false;
     this.pedalled = new Set();
+    const Decoder = window.OfflineAudioContext || window.webkitOfflineAudioContext;
+    if (Decoder) {
+      // Decode ahead of the first gesture without starting an output stream.
+      this.prepare(new Decoder(1, 1, 44100)).catch(() => { this.loading = null; });
+    }
+  }
+  prepare(decoder) {
+    if (!this.loading) {
+      this.loading = Promise.all(Object.entries(this.sampleBank).map(async ([note, encoded]) => {
+        const bytes = Uint8Array.from(atob(encoded), char => char.charCodeAt(0));
+        return [Number(note), await decoder.decodeAudioData(bytes.buffer)];
+      })).then(samples => {
+        this.buffers = new Map(samples);
+      }).catch(() => {
+        throw new Error('The embedded piano recordings could not be decoded. Try opening this page in a recent browser.');
+      });
+    }
+    return this.loading;
   }
   async unlock() {
     if (!this.ctx) {
@@ -39,12 +59,13 @@ class PianoAudio {
       }
       reverb.buffer = impulse;
       const wet = this.ctx.createGain();
-      wet.gain.value = 0.10;
+      wet.gain.value = 0.065;
       this.master.connect(reverb);
       reverb.connect(wet);
       wet.connect(compressor);
     }
     if (this.ctx.state !== 'running') await this.ctx.resume();
+    await this.prepare(this.ctx);
     if (this.ctx.state !== 'running') throw new Error('Audio is paused by your browser. Tap Play again to enable sound.');
     return this.ctx;
   }
@@ -52,59 +73,50 @@ class PianoAudio {
     this.volume = Math.max(0, Math.min(1, value));
     if (this.master) this.master.gain.setTargetAtTime(this.volume * 0.7, this.ctx.currentTime, 0.02);
   }
+  nearestSample(note) {
+    let nearest = Infinity;
+    for (const pitch of this.buffers.keys()) {
+      if (Math.abs(pitch - note) < Math.abs(nearest - note)) nearest = pitch;
+    }
+    return nearest;
+  }
   bufferFor(note) {
-    if (this.buffers.has(note)) return this.buffers.get(note);
-    const rate = 22050;
-    const frequency = 440 * Math.pow(2, (note - 69) / 12);
-    const decay = Math.max(0.65, 3.8 * Math.pow(2, (48 - note) / 30));
-    const duration = Math.min(12, Math.max(3, decay * 3));
-    const buffer = this.ctx.createBuffer(1, Math.ceil(duration * rate), rate);
-    const data = buffer.getChannelData(0);
-    const harmonics = [1, 0.48, 0.23, 0.13, 0.075, 0.04, 0.025, 0.012];
-    for (let h = 1; h <= harmonics.length; h++) {
-      const f = frequency * h * Math.sqrt(1 + 0.00008 * h * h);
-      if (f > rate * 0.46) break;
-      const angle = 2 * Math.PI * f / rate;
-      const cosine = Math.cos(angle), sine = Math.sin(angle);
-      const damping = Math.exp(-1 / (rate * decay / (1 + (h - 1) * 0.38)));
-      let real = 0, imaginary = harmonics[h - 1] * 0.43;
-      for (let i = 0; i < data.length; i++) {
-        data[i] += real;
-        const next = (real * cosine + imaginary * sine) * damping;
-        imaginary = (imaginary * cosine - real * sine) * damping;
-        real = next;
-      }
-    }
-    let seed = note * 617;
-    for (let i = 0; i < data.length; i++) {
-      const time = i / rate;
-      const attack = Math.min(1, time / 0.003);
-      const tail = Math.min(1, (data.length - 1 - i) / (rate * 0.03));
-      if (time < 0.018) {
-        seed = (1664525 * seed + 1013904223) >>> 0;
-        data[i] += (seed / 2147483648 - 1) * 0.018 * Math.exp(-time * 250);
-      }
-      data[i] *= attack * tail;
-    }
-    this.buffers.set(note, buffer);
-    return buffer;
+    return this.buffers.get(note) ?? this.buffers.get(this.nearestSample(note));
   }
   noteOn(note, velocity = 88, when = null, duration = null, group = 'manual') {
     const ctx = this.ctx;
     if (!ctx || ctx.state !== 'running') return null;
+    const root = this.nearestSample(note);
+    if (!Number.isFinite(root)) return null;
     const at = Math.max(when ?? ctx.currentTime, ctx.currentTime);
     const source = ctx.createBufferSource();
-    source.buffer = this.bufferFor(note);
+    source.buffer = this.bufferFor(root);
+    source.playbackRate.value = 2 ** ((note - root) / 12);
     const gain = ctx.createGain();
+    const tone = ctx.createBiquadFilter();
     const pan = ctx.createStereoPanner ? ctx.createStereoPanner() : ctx.createGain();
-    if (pan.pan) pan.pan.value = Math.max(-0.6, Math.min(0.6, (note - 60) / 65));
-    gain.gain.value = Math.pow(velocity / 127, 1.4) * 0.55;
-    source.connect(gain); gain.connect(pan); pan.connect(this.master);
+    if (pan.pan) pan.pan.value = Math.max(-0.3, Math.min(0.3, (note - 60) / 130));
+    const strength = Math.min(1, Math.max(0, velocity / 127));
+    const bass = Math.min(1, Math.max(0, (55 - note) / 33));
+    const treble = Math.min(1, Math.max(0, (note - 72) / 30));
+    if (bass > 0) {
+      // Bring out upper bass harmonics that small speakers can reproduce.
+      tone.type = 'peaking';
+      tone.frequency.value = 210;
+      tone.Q.value = 0.75;
+      tone.gain.value = 5 * bass;
+    } else {
+      tone.type = 'highshelf';
+      tone.frequency.value = 3900;
+      tone.gain.value = -6 * treble - 2 * (1 - strength);
+    }
+    gain.gain.value = strength ** 1.4 * (1 + 0.36 * bass - 0.12 * treble);
+    source.connect(tone); tone.connect(gain); gain.connect(pan); pan.connect(this.master);
     const voice = {note, source, gain, pan, at, group, released: false, end: Infinity};
     this.voices.add(voice);
     source.onended = () => {
       this.voices.delete(voice); this.pedalled.delete(voice);
-      source.disconnect(); gain.disconnect(); pan.disconnect();
+      source.disconnect(); tone.disconnect(); gain.disconnect(); pan.disconnect();
     };
     source.start(at);
     if (duration !== null) this.damp(voice, at + Math.max(0.02, duration));
